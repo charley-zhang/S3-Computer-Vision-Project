@@ -1,0 +1,1452 @@
+Loading python/3.7.3
+  Loading requirement: tcl/8.6.8 gcc/8.3.0
+Loading pytorch/1.1.0
+  Loading requirement: cudnn/7.4
+Loading python/3.7.3
+  Loading requirement: tcl/8.6.8 gcc/8.3.0
+Loading pytorch/1.1.0
+  Loading requirement: cuda/10.0 cudnn/7.4
+
+=========
+Training Epoch 1 (densenet121)
+========
+
+[Epoch 1], [Iter 1/283], [TrnLoss 2.453], [TrnAcc 0.0625]
+[Epoch 1], [Iter 101/283], [TrnLoss 0.9128], [TrnAcc 0.75]
+[Epoch 1], [Iter 201/283], [TrnLoss 1.146], [TrnAcc 0.5938]
+Computing val stats..
+-------
+[Epoch 1], [Train Acc 0.6794, [Val Acc 0.6436], [Val Loss 1.066]
+-------
+
+=========
+Training Epoch 2 (densenet121)
+========
+
+[Epoch 2], [Iter 1/283], [TrnLoss 1.169], [TrnAcc 0.5938]
+[Epoch 2], [Iter 101/283], [TrnLoss 0.9515], [TrnAcc 0.7188]
+[Epoch 2], [Iter 201/283], [TrnLoss 0.9302], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 2], [Train Acc 0.6864, [Val Acc 0.6475], [Val Loss 1.086]
+-------
+
+=========
+Training Epoch 3 (densenet121)
+========
+
+[Epoch 3], [Iter 1/283], [TrnLoss 1.089], [TrnAcc 0.625]
+[Epoch 3], [Iter 101/283], [TrnLoss 0.7295], [TrnAcc 0.7812]
+[Epoch 3], [Iter 201/283], [TrnLoss 1.022], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 3], [Train Acc 0.6921, [Val Acc 0.6367], [Val Loss 1.067]
+-------
+
+=========
+Training Epoch 4 (densenet121)
+========
+
+[Epoch 4], [Iter 1/283], [TrnLoss 1.087], [TrnAcc 0.5625]
+[Epoch 4], [Iter 101/283], [TrnLoss 0.821], [TrnAcc 0.75]
+[Epoch 4], [Iter 201/283], [TrnLoss 1.109], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 4], [Train Acc 0.7004, [Val Acc 0.6477], [Val Loss 1.011]
+-------
+
+=========
+Training Epoch 5 (densenet121)
+========
+
+[Epoch 5], [Iter 1/283], [TrnLoss 0.9591], [TrnAcc 0.625]
+[Epoch 5], [Iter 101/283], [TrnLoss 0.7425], [TrnAcc 0.7812]
+[Epoch 5], [Iter 201/283], [TrnLoss 0.9683], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 5], [Train Acc 0.7037, [Val Acc 0.674], [Val Loss 0.9446]
+-------
+
+=========
+Training Epoch 6 (densenet121)
+========
+
+[Epoch 6], [Iter 1/283], [TrnLoss 1.074], [TrnAcc 0.5]
+[Epoch 6], [Iter 101/283], [TrnLoss 0.7361], [TrnAcc 0.7188]
+[Epoch 6], [Iter 201/283], [TrnLoss 0.9984], [TrnAcc 0.6562]
+Computing val stats..
+-------
+[Epoch 6], [Train Acc 0.7061, [Val Acc 0.6465], [Val Loss 0.974]
+-------
+
+=========
+Training Epoch 7 (densenet121)
+========
+
+[Epoch 7], [Iter 1/283], [TrnLoss 1.059], [TrnAcc 0.6875]
+[Epoch 7], [Iter 101/283], [TrnLoss 0.6786], [TrnAcc 0.7812]
+[Epoch 7], [Iter 201/283], [TrnLoss 0.9115], [TrnAcc 0.6562]
+Computing val stats..
+-------
+[Epoch 7], [Train Acc 0.7119, [Val Acc 0.6586], [Val Loss 0.9778]
+-------
+
+=========
+Training Epoch 8 (densenet121)
+========
+
+[Epoch 8], [Iter 1/283], [TrnLoss 1.083], [TrnAcc 0.6562]
+[Epoch 8], [Iter 101/283], [TrnLoss 0.7096], [TrnAcc 0.7188]
+[Epoch 8], [Iter 201/283], [TrnLoss 0.943], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 8], [Train Acc 0.7037, [Val Acc 0.6604], [Val Loss 0.9651]
+-------
+
+=========
+Training Epoch 9 (densenet121)
+========
+
+[Epoch 9], [Iter 1/283], [TrnLoss 1.025], [TrnAcc 0.5938]
+[Epoch 9], [Iter 101/283], [TrnLoss 0.6265], [TrnAcc 0.7812]
+[Epoch 9], [Iter 201/283], [TrnLoss 0.953], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 9], [Train Acc 0.7051, [Val Acc 0.6682], [Val Loss 0.9898]
+-------
+
+=========
+Training Epoch 10 (densenet121)
+========
+
+[Epoch 10], [Iter 1/283], [TrnLoss 1.081], [TrnAcc 0.5625]
+[Epoch 10], [Iter 101/283], [TrnLoss 0.6866], [TrnAcc 0.7812]
+[Epoch 10], [Iter 201/283], [TrnLoss 1.004], [TrnAcc 0.5938]
+Computing val stats..
+-------
+[Epoch 10], [Train Acc 0.7066, [Val Acc 0.673], [Val Loss 0.9538]
+-------
+
+=========
+Training Epoch 11 (densenet121)
+========
+
+[Epoch 11], [Iter 1/283], [TrnLoss 0.9754], [TrnAcc 0.6562]
+[Epoch 11], [Iter 101/283], [TrnLoss 0.7374], [TrnAcc 0.7188]
+[Epoch 11], [Iter 201/283], [TrnLoss 1.068], [TrnAcc 0.5938]
+Computing val stats..
+-------
+[Epoch 11], [Train Acc 0.7069, [Val Acc 0.6721], [Val Loss 0.9978]
+-------
+
+=========
+Training Epoch 12 (densenet121)
+========
+
+[Epoch 12], [Iter 1/283], [TrnLoss 0.98], [TrnAcc 0.6875]
+[Epoch 12], [Iter 101/283], [TrnLoss 0.7604], [TrnAcc 0.7188]
+[Epoch 12], [Iter 201/283], [TrnLoss 0.9701], [TrnAcc 0.6562]
+Computing val stats..
+-------
+[Epoch 12], [Train Acc 0.7087, [Val Acc 0.6672], [Val Loss 1.032]
+-------
+
+=========
+Training Epoch 13 (densenet121)
+========
+
+[Epoch 13], [Iter 1/283], [TrnLoss 1.017], [TrnAcc 0.6562]
+[Epoch 13], [Iter 101/283], [TrnLoss 0.7136], [TrnAcc 0.7188]
+[Epoch 13], [Iter 201/283], [TrnLoss 0.9427], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 13], [Train Acc 0.7069, [Val Acc 0.6799], [Val Loss 0.9537]
+-------
+
+=========
+Training Epoch 14 (densenet121)
+========
+
+[Epoch 14], [Iter 1/283], [TrnLoss 1.0], [TrnAcc 0.5938]
+[Epoch 14], [Iter 101/283], [TrnLoss 0.7463], [TrnAcc 0.7812]
+[Epoch 14], [Iter 201/283], [TrnLoss 1.076], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 14], [Train Acc 0.7057, [Val Acc 0.6809], [Val Loss 0.9471]
+-------
+
+=========
+Training Epoch 15 (densenet121)
+========
+
+[Epoch 15], [Iter 1/283], [TrnLoss 1.026], [TrnAcc 0.6875]
+[Epoch 15], [Iter 101/283], [TrnLoss 0.7497], [TrnAcc 0.75]
+[Epoch 15], [Iter 201/283], [TrnLoss 0.9577], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 15], [Train Acc 0.7003, [Val Acc 0.6701], [Val Loss 0.9467]
+-------
+
+=========
+Training Epoch 16 (densenet121)
+========
+
+[Epoch 16], [Iter 1/283], [TrnLoss 1.116], [TrnAcc 0.625]
+[Epoch 16], [Iter 101/283], [TrnLoss 0.7002], [TrnAcc 0.8438]
+[Epoch 16], [Iter 201/283], [TrnLoss 0.882], [TrnAcc 0.6562]
+Computing val stats..
+-------
+[Epoch 16], [Train Acc 0.7091, [Val Acc 0.6621], [Val Loss 0.9456]
+-------
+
+=========
+Training Epoch 17 (densenet121)
+========
+
+[Epoch 17], [Iter 1/283], [TrnLoss 1.001], [TrnAcc 0.5938]
+[Epoch 17], [Iter 101/283], [TrnLoss 0.7015], [TrnAcc 0.7812]
+[Epoch 17], [Iter 201/283], [TrnLoss 1.01], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 17], [Train Acc 0.7113, [Val Acc 0.6721], [Val Loss 0.9325]
+-------
+
+=========
+Training Epoch 18 (densenet121)
+========
+
+[Epoch 18], [Iter 1/283], [TrnLoss 1.079], [TrnAcc 0.5625]
+[Epoch 18], [Iter 101/283], [TrnLoss 0.663], [TrnAcc 0.8438]
+[Epoch 18], [Iter 201/283], [TrnLoss 0.9657], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 18], [Train Acc 0.7067, [Val Acc 0.6898], [Val Loss 0.9461]
+-------
+
+=========
+Training Epoch 19 (densenet121)
+========
+
+[Epoch 19], [Iter 1/283], [TrnLoss 1.007], [TrnAcc 0.5312]
+[Epoch 19], [Iter 101/283], [TrnLoss 0.7109], [TrnAcc 0.7812]
+[Epoch 19], [Iter 201/283], [TrnLoss 0.9346], [TrnAcc 0.6562]
+Computing val stats..
+-------
+[Epoch 19], [Train Acc 0.7051, [Val Acc 0.7035], [Val Loss 0.921]
+-------
+
+=========
+Training Epoch 20 (densenet121)
+========
+
+[Epoch 20], [Iter 1/283], [TrnLoss 1.096], [TrnAcc 0.5312]
+[Epoch 20], [Iter 101/283], [TrnLoss 0.7197], [TrnAcc 0.7812]
+[Epoch 20], [Iter 201/283], [TrnLoss 0.9971], [TrnAcc 0.6562]
+Computing val stats..
+-------
+[Epoch 20], [Train Acc 0.7077, [Val Acc 0.6486], [Val Loss 0.9917]
+-------
+
+=========
+Training Epoch 21 (densenet121)
+========
+
+[Epoch 21], [Iter 1/283], [TrnLoss 1.135], [TrnAcc 0.5312]
+[Epoch 21], [Iter 101/283], [TrnLoss 0.7696], [TrnAcc 0.7812]
+[Epoch 21], [Iter 201/283], [TrnLoss 0.9903], [TrnAcc 0.6562]
+Computing val stats..
+-------
+[Epoch 21], [Train Acc 0.7113, [Val Acc 0.6623], [Val Loss 0.9493]
+-------
+
+=========
+Training Epoch 22 (densenet121)
+========
+
+[Epoch 22], [Iter 1/283], [TrnLoss 0.9722], [TrnAcc 0.625]
+[Epoch 22], [Iter 101/283], [TrnLoss 0.7441], [TrnAcc 0.7812]
+[Epoch 22], [Iter 201/283], [TrnLoss 0.9639], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 22], [Train Acc 0.7096, [Val Acc 0.6543], [Val Loss 0.9741]
+-------
+
+=========
+Training Epoch 23 (densenet121)
+========
+
+[Epoch 23], [Iter 1/283], [TrnLoss 1.104], [TrnAcc 0.625]
+[Epoch 23], [Iter 101/283], [TrnLoss 0.6899], [TrnAcc 0.7812]
+[Epoch 23], [Iter 201/283], [TrnLoss 0.944], [TrnAcc 0.6562]
+Computing val stats..
+-------
+[Epoch 23], [Train Acc 0.7103, [Val Acc 0.6816], [Val Loss 0.9164]
+-------
+
+=========
+Training Epoch 24 (densenet121)
+========
+
+[Epoch 24], [Iter 1/283], [TrnLoss 1.033], [TrnAcc 0.5938]
+[Epoch 24], [Iter 101/283], [TrnLoss 0.7707], [TrnAcc 0.7812]
+[Epoch 24], [Iter 201/283], [TrnLoss 1.046], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 24], [Train Acc 0.7159, [Val Acc 0.6937], [Val Loss 0.9493]
+-------
+
+=========
+Training Epoch 25 (densenet121)
+========
+
+[Epoch 25], [Iter 1/283], [TrnLoss 0.9879], [TrnAcc 0.625]
+[Epoch 25], [Iter 101/283], [TrnLoss 0.7882], [TrnAcc 0.75]
+[Epoch 25], [Iter 201/283], [TrnLoss 1.017], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 25], [Train Acc 0.7153, [Val Acc 0.6709], [Val Loss 0.9477]
+-------
+
+=========
+Training Epoch 26 (densenet121)
+========
+
+[Epoch 26], [Iter 1/283], [TrnLoss 1.024], [TrnAcc 0.625]
+[Epoch 26], [Iter 101/283], [TrnLoss 0.771], [TrnAcc 0.8125]
+[Epoch 26], [Iter 201/283], [TrnLoss 0.9575], [TrnAcc 0.6562]
+Computing val stats..
+-------
+[Epoch 26], [Train Acc 0.713, [Val Acc 0.6738], [Val Loss 0.9497]
+-------
+
+=========
+Training Epoch 27 (densenet121)
+========
+
+[Epoch 27], [Iter 1/283], [TrnLoss 0.9747], [TrnAcc 0.625]
+[Epoch 27], [Iter 101/283], [TrnLoss 0.7052], [TrnAcc 0.75]
+[Epoch 27], [Iter 201/283], [TrnLoss 1.016], [TrnAcc 0.6562]
+Computing val stats..
+-------
+[Epoch 27], [Train Acc 0.7104, [Val Acc 0.6836], [Val Loss 0.9333]
+-------
+
+=========
+Training Epoch 28 (densenet121)
+========
+
+[Epoch 28], [Iter 1/283], [TrnLoss 0.9878], [TrnAcc 0.6562]
+[Epoch 28], [Iter 101/283], [TrnLoss 0.6793], [TrnAcc 0.7812]
+[Epoch 28], [Iter 201/283], [TrnLoss 0.9751], [TrnAcc 0.6562]
+Computing val stats..
+-------
+[Epoch 28], [Train Acc 0.7122, [Val Acc 0.667], [Val Loss 0.9527]
+-------
+
+=========
+Training Epoch 29 (densenet121)
+========
+
+[Epoch 29], [Iter 1/283], [TrnLoss 1.065], [TrnAcc 0.6562]
+[Epoch 29], [Iter 101/283], [TrnLoss 0.7609], [TrnAcc 0.7188]
+[Epoch 29], [Iter 201/283], [TrnLoss 0.9718], [TrnAcc 0.5938]
+Computing val stats..
+-------
+[Epoch 29], [Train Acc 0.717, [Val Acc 0.6729], [Val Loss 0.9547]
+-------
+
+=========
+Training Epoch 30 (densenet121)
+========
+
+[Epoch 30], [Iter 1/283], [TrnLoss 1.155], [TrnAcc 0.5938]
+[Epoch 30], [Iter 101/283], [TrnLoss 0.7216], [TrnAcc 0.7812]
+[Epoch 30], [Iter 201/283], [TrnLoss 0.9641], [TrnAcc 0.6562]
+Computing val stats..
+-------
+[Epoch 30], [Train Acc 0.7159, [Val Acc 0.6986], [Val Loss 0.9241]
+-------
+
+=========
+Training Epoch 31 (densenet121)
+========
+
+[Epoch 31], [Iter 1/283], [TrnLoss 1.077], [TrnAcc 0.6562]
+[Epoch 31], [Iter 101/283], [TrnLoss 0.7055], [TrnAcc 0.75]
+[Epoch 31], [Iter 201/283], [TrnLoss 0.9478], [TrnAcc 0.6562]
+Computing val stats..
+-------
+[Epoch 31], [Train Acc 0.7158, [Val Acc 0.6729], [Val Loss 0.9407]
+-------
+
+=========
+Training Epoch 32 (densenet121)
+========
+
+[Epoch 32], [Iter 1/283], [TrnLoss 1.054], [TrnAcc 0.5938]
+[Epoch 32], [Iter 101/283], [TrnLoss 0.7041], [TrnAcc 0.75]
+[Epoch 32], [Iter 201/283], [TrnLoss 1.077], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 32], [Train Acc 0.7184, [Val Acc 0.6771], [Val Loss 0.9505]
+-------
+
+=========
+Training Epoch 33 (densenet121)
+========
+
+[Epoch 33], [Iter 1/283], [TrnLoss 1.088], [TrnAcc 0.6875]
+[Epoch 33], [Iter 101/283], [TrnLoss 0.7321], [TrnAcc 0.75]
+[Epoch 33], [Iter 201/283], [TrnLoss 1.046], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 33], [Train Acc 0.7132, [Val Acc 0.6494], [Val Loss 0.9855]
+-------
+
+=========
+Training Epoch 34 (densenet121)
+========
+
+[Epoch 34], [Iter 1/283], [TrnLoss 1.16], [TrnAcc 0.5625]
+[Epoch 34], [Iter 101/283], [TrnLoss 0.7228], [TrnAcc 0.7812]
+[Epoch 34], [Iter 201/283], [TrnLoss 0.9427], [TrnAcc 0.6875]
+Computing val stats..
+-------
+[Epoch 34], [Train Acc 0.712, [Val Acc 0.6848], [Val Loss 0.9469]
+-------
+
+=========
+Training Epoch 35 (densenet121)
+========
+
+[Epoch 35], [Iter 1/283], [TrnLoss 1.033], [TrnAcc 0.6562]
+[Epoch 35], [Iter 101/283], [TrnLoss 0.7505], [TrnAcc 0.7188]
+[Epoch 35], [Iter 201/283], [TrnLoss 0.9264], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 35], [Train Acc 0.7152, [Val Acc 0.666], [Val Loss 0.9485]
+-------
+
+=========
+Training Epoch 36 (densenet121)
+========
+
+[Epoch 36], [Iter 1/283], [TrnLoss 1.058], [TrnAcc 0.6875]
+[Epoch 36], [Iter 101/283], [TrnLoss 0.7432], [TrnAcc 0.75]
+[Epoch 36], [Iter 201/283], [TrnLoss 1.052], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 36], [Train Acc 0.7182, [Val Acc 0.673], [Val Loss 0.9572]
+-------
+
+=========
+Training Epoch 37 (densenet121)
+========
+
+[Epoch 37], [Iter 1/283], [TrnLoss 1.04], [TrnAcc 0.7812]
+[Epoch 37], [Iter 101/283], [TrnLoss 0.8232], [TrnAcc 0.75]
+[Epoch 37], [Iter 201/283], [TrnLoss 1.079], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 37], [Train Acc 0.717, [Val Acc 0.6758], [Val Loss 0.949]
+-------
+
+=========
+Training Epoch 38 (densenet121)
+========
+
+[Epoch 38], [Iter 1/283], [TrnLoss 1.035], [TrnAcc 0.6562]
+[Epoch 38], [Iter 101/283], [TrnLoss 0.7083], [TrnAcc 0.8125]
+[Epoch 38], [Iter 201/283], [TrnLoss 1.07], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 38], [Train Acc 0.7151, [Val Acc 0.6533], [Val Loss 0.9809]
+-------
+
+=========
+Training Epoch 39 (densenet121)
+========
+
+[Epoch 39], [Iter 1/283], [TrnLoss 1.085], [TrnAcc 0.625]
+[Epoch 39], [Iter 101/283], [TrnLoss 0.7357], [TrnAcc 0.75]
+[Epoch 39], [Iter 201/283], [TrnLoss 1.078], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 39], [Train Acc 0.7161, [Val Acc 0.668], [Val Loss 0.9784]
+-------
+
+=========
+Training Epoch 40 (densenet121)
+========
+
+[Epoch 40], [Iter 1/283], [TrnLoss 0.993], [TrnAcc 0.6875]
+[Epoch 40], [Iter 101/283], [TrnLoss 0.7363], [TrnAcc 0.75]
+[Epoch 40], [Iter 201/283], [TrnLoss 0.9589], [TrnAcc 0.6875]
+Computing val stats..
+-------
+[Epoch 40], [Train Acc 0.7192, [Val Acc 0.6816], [Val Loss 0.9384]
+-------
+
+=========
+Training Epoch 1 (densenet201)
+========
+
+[Epoch 1], [Iter 1/283], [TrnLoss 1.995], [TrnAcc 0.03125]
+[Epoch 1], [Iter 101/283], [TrnLoss 0.9097], [TrnAcc 0.75]
+[Epoch 1], [Iter 201/283], [TrnLoss 0.9187], [TrnAcc 0.6562]
+Computing val stats..
+-------
+[Epoch 1], [Train Acc 0.6796, [Val Acc 0.5545], [Val Loss 1.206]
+-------
+
+=========
+Training Epoch 2 (densenet201)
+========
+
+[Epoch 2], [Iter 1/283], [TrnLoss 1.358], [TrnAcc 0.4688]
+[Epoch 2], [Iter 101/283], [TrnLoss 0.7604], [TrnAcc 0.8125]
+[Epoch 2], [Iter 201/283], [TrnLoss 1.038], [TrnAcc 0.6562]
+Computing val stats..
+-------
+[Epoch 2], [Train Acc 0.687, [Val Acc 0.5703], [Val Loss 1.174]
+-------
+
+=========
+Training Epoch 3 (densenet201)
+========
+
+[Epoch 3], [Iter 1/283], [TrnLoss 1.343], [TrnAcc 0.5312]
+[Epoch 3], [Iter 101/283], [TrnLoss 0.7591], [TrnAcc 0.7812]
+[Epoch 3], [Iter 201/283], [TrnLoss 1.063], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 3], [Train Acc 0.6878, [Val Acc 0.6152], [Val Loss 1.092]
+-------
+
+=========
+Training Epoch 4 (densenet201)
+========
+
+[Epoch 4], [Iter 1/283], [TrnLoss 1.188], [TrnAcc 0.5625]
+[Epoch 4], [Iter 101/283], [TrnLoss 0.7015], [TrnAcc 0.75]
+[Epoch 4], [Iter 201/283], [TrnLoss 1.055], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 4], [Train Acc 0.6994, [Val Acc 0.6365], [Val Loss 1.015]
+-------
+
+=========
+Training Epoch 5 (densenet201)
+========
+
+[Epoch 5], [Iter 1/283], [TrnLoss 1.146], [TrnAcc 0.5938]
+[Epoch 5], [Iter 101/283], [TrnLoss 0.7553], [TrnAcc 0.75]
+[Epoch 5], [Iter 201/283], [TrnLoss 1.04], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 5], [Train Acc 0.6985, [Val Acc 0.665], [Val Loss 0.9946]
+-------
+
+=========
+Training Epoch 6 (densenet201)
+========
+
+[Epoch 6], [Iter 1/283], [TrnLoss 1.04], [TrnAcc 0.5938]
+[Epoch 6], [Iter 101/283], [TrnLoss 0.6951], [TrnAcc 0.75]
+[Epoch 6], [Iter 201/283], [TrnLoss 1.037], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 6], [Train Acc 0.7031, [Val Acc 0.6631], [Val Loss 0.9886]
+-------
+
+=========
+Training Epoch 7 (densenet201)
+========
+
+[Epoch 7], [Iter 1/283], [TrnLoss 1.131], [TrnAcc 0.5938]
+[Epoch 7], [Iter 101/283], [TrnLoss 0.7325], [TrnAcc 0.75]
+[Epoch 7], [Iter 201/283], [TrnLoss 1.032], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 7], [Train Acc 0.7024, [Val Acc 0.6396], [Val Loss 1.032]
+-------
+
+=========
+Training Epoch 8 (densenet201)
+========
+
+[Epoch 8], [Iter 1/283], [TrnLoss 1.135], [TrnAcc 0.5312]
+[Epoch 8], [Iter 101/283], [TrnLoss 0.699], [TrnAcc 0.7812]
+[Epoch 8], [Iter 201/283], [TrnLoss 1.022], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 8], [Train Acc 0.7075, [Val Acc 0.6514], [Val Loss 0.9852]
+-------
+
+=========
+Training Epoch 9 (densenet201)
+========
+
+[Epoch 9], [Iter 1/283], [TrnLoss 1.157], [TrnAcc 0.5312]
+[Epoch 9], [Iter 101/283], [TrnLoss 0.7922], [TrnAcc 0.75]
+[Epoch 9], [Iter 201/283], [TrnLoss 1.008], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 9], [Train Acc 0.7083, [Val Acc 0.6857], [Val Loss 0.9178]
+-------
+
+=========
+Training Epoch 10 (densenet201)
+========
+
+[Epoch 10], [Iter 1/283], [TrnLoss 1.069], [TrnAcc 0.5938]
+[Epoch 10], [Iter 101/283], [TrnLoss 0.8067], [TrnAcc 0.7188]
+[Epoch 10], [Iter 201/283], [TrnLoss 1.013], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 10], [Train Acc 0.7054, [Val Acc 0.6457], [Val Loss 0.9792]
+-------
+
+=========
+Training Epoch 11 (densenet201)
+========
+
+[Epoch 11], [Iter 1/283], [TrnLoss 1.047], [TrnAcc 0.6875]
+[Epoch 11], [Iter 101/283], [TrnLoss 0.7641], [TrnAcc 0.7812]
+[Epoch 11], [Iter 201/283], [TrnLoss 1.031], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 11], [Train Acc 0.7073, [Val Acc 0.6836], [Val Loss 0.9387]
+-------
+
+=========
+Training Epoch 12 (densenet201)
+========
+
+[Epoch 12], [Iter 1/283], [TrnLoss 1.056], [TrnAcc 0.6875]
+[Epoch 12], [Iter 101/283], [TrnLoss 0.732], [TrnAcc 0.7812]
+[Epoch 12], [Iter 201/283], [TrnLoss 0.9941], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 12], [Train Acc 0.7093, [Val Acc 0.6838], [Val Loss 0.9781]
+-------
+
+=========
+Training Epoch 13 (densenet201)
+========
+
+[Epoch 13], [Iter 1/283], [TrnLoss 1.171], [TrnAcc 0.625]
+[Epoch 13], [Iter 101/283], [TrnLoss 0.8327], [TrnAcc 0.7188]
+[Epoch 13], [Iter 201/283], [TrnLoss 1.062], [TrnAcc 0.5938]
+Computing val stats..
+-------
+[Epoch 13], [Train Acc 0.6996, [Val Acc 0.6602], [Val Loss 0.9547]
+-------
+
+=========
+Training Epoch 14 (densenet201)
+========
+
+[Epoch 14], [Iter 1/283], [TrnLoss 1.09], [TrnAcc 0.5938]
+[Epoch 14], [Iter 101/283], [TrnLoss 0.7411], [TrnAcc 0.8125]
+[Epoch 14], [Iter 201/283], [TrnLoss 0.9657], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 14], [Train Acc 0.7058, [Val Acc 0.6855], [Val Loss 0.9287]
+-------
+
+=========
+Training Epoch 15 (densenet201)
+========
+
+[Epoch 15], [Iter 1/283], [TrnLoss 0.9951], [TrnAcc 0.7188]
+[Epoch 15], [Iter 101/283], [TrnLoss 0.7277], [TrnAcc 0.75]
+[Epoch 15], [Iter 201/283], [TrnLoss 0.9665], [TrnAcc 0.6562]
+Computing val stats..
+-------
+[Epoch 15], [Train Acc 0.7145, [Val Acc 0.6602], [Val Loss 0.9527]
+-------
+
+=========
+Training Epoch 16 (densenet201)
+========
+
+[Epoch 16], [Iter 1/283], [TrnLoss 0.9844], [TrnAcc 0.7188]
+[Epoch 16], [Iter 101/283], [TrnLoss 0.7971], [TrnAcc 0.7188]
+[Epoch 16], [Iter 201/283], [TrnLoss 0.9883], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 16], [Train Acc 0.71, [Val Acc 0.6826], [Val Loss 0.9354]
+-------
+
+=========
+Training Epoch 17 (densenet201)
+========
+
+[Epoch 17], [Iter 1/283], [TrnLoss 0.9877], [TrnAcc 0.6875]
+[Epoch 17], [Iter 101/283], [TrnLoss 0.7196], [TrnAcc 0.8438]
+[Epoch 17], [Iter 201/283], [TrnLoss 1.083], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 17], [Train Acc 0.7177, [Val Acc 0.6787], [Val Loss 0.9218]
+-------
+
+=========
+Training Epoch 18 (densenet201)
+========
+
+[Epoch 18], [Iter 1/283], [TrnLoss 0.9763], [TrnAcc 0.75]
+[Epoch 18], [Iter 101/283], [TrnLoss 0.7172], [TrnAcc 0.7812]
+[Epoch 18], [Iter 201/283], [TrnLoss 0.9524], [TrnAcc 0.6875]
+Computing val stats..
+-------
+[Epoch 18], [Train Acc 0.7112, [Val Acc 0.6768], [Val Loss 0.9456]
+-------
+
+=========
+Training Epoch 19 (densenet201)
+========
+
+[Epoch 19], [Iter 1/283], [TrnLoss 1.011], [TrnAcc 0.6875]
+[Epoch 19], [Iter 101/283], [TrnLoss 0.7148], [TrnAcc 0.8125]
+[Epoch 19], [Iter 201/283], [TrnLoss 1.001], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 19], [Train Acc 0.7169, [Val Acc 0.6777], [Val Loss 0.926]
+-------
+
+=========
+Training Epoch 20 (densenet201)
+========
+
+[Epoch 20], [Iter 1/283], [TrnLoss 0.9924], [TrnAcc 0.6875]
+[Epoch 20], [Iter 101/283], [TrnLoss 0.7487], [TrnAcc 0.7812]
+[Epoch 20], [Iter 201/283], [TrnLoss 1.05], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 20], [Train Acc 0.7155, [Val Acc 0.6605], [Val Loss 1.005]
+-------
+
+=========
+Training Epoch 21 (densenet201)
+========
+
+[Epoch 21], [Iter 1/283], [TrnLoss 1.069], [TrnAcc 0.5625]
+[Epoch 21], [Iter 101/283], [TrnLoss 0.7275], [TrnAcc 0.7188]
+[Epoch 21], [Iter 201/283], [TrnLoss 0.9908], [TrnAcc 0.6562]
+Computing val stats..
+-------
+[Epoch 21], [Train Acc 0.7127, [Val Acc 0.6721], [Val Loss 0.9262]
+-------
+
+=========
+Training Epoch 22 (densenet201)
+========
+
+[Epoch 22], [Iter 1/283], [TrnLoss 0.9784], [TrnAcc 0.7188]
+[Epoch 22], [Iter 101/283], [TrnLoss 0.7443], [TrnAcc 0.7812]
+[Epoch 22], [Iter 201/283], [TrnLoss 1.087], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 22], [Train Acc 0.716, [Val Acc 0.6787], [Val Loss 0.9154]
+-------
+
+=========
+Training Epoch 23 (densenet201)
+========
+
+[Epoch 23], [Iter 1/283], [TrnLoss 0.9387], [TrnAcc 0.7188]
+[Epoch 23], [Iter 101/283], [TrnLoss 0.7088], [TrnAcc 0.75]
+[Epoch 23], [Iter 201/283], [TrnLoss 0.9721], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 23], [Train Acc 0.7163, [Val Acc 0.6682], [Val Loss 0.9521]
+-------
+
+=========
+Training Epoch 24 (densenet201)
+========
+
+[Epoch 24], [Iter 1/283], [TrnLoss 1.045], [TrnAcc 0.5938]
+[Epoch 24], [Iter 101/283], [TrnLoss 0.7947], [TrnAcc 0.7188]
+[Epoch 24], [Iter 201/283], [TrnLoss 1.117], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 24], [Train Acc 0.7195, [Val Acc 0.6709], [Val Loss 0.9298]
+-------
+
+=========
+Training Epoch 25 (densenet201)
+========
+
+[Epoch 25], [Iter 1/283], [TrnLoss 0.8911], [TrnAcc 0.75]
+[Epoch 25], [Iter 101/283], [TrnLoss 0.746], [TrnAcc 0.7812]
+[Epoch 25], [Iter 201/283], [TrnLoss 1.009], [TrnAcc 0.6562]
+Computing val stats..
+-------
+[Epoch 25], [Train Acc 0.7188, [Val Acc 0.6543], [Val Loss 0.9612]
+-------
+
+=========
+Training Epoch 26 (densenet201)
+========
+
+[Epoch 26], [Iter 1/283], [TrnLoss 1.028], [TrnAcc 0.5938]
+[Epoch 26], [Iter 101/283], [TrnLoss 0.7661], [TrnAcc 0.7188]
+[Epoch 26], [Iter 201/283], [TrnLoss 1.049], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 26], [Train Acc 0.7165, [Val Acc 0.6562], [Val Loss 0.9394]
+-------
+
+=========
+Training Epoch 27 (densenet201)
+========
+
+[Epoch 27], [Iter 1/283], [TrnLoss 1.078], [TrnAcc 0.6562]
+[Epoch 27], [Iter 101/283], [TrnLoss 0.7152], [TrnAcc 0.7812]
+[Epoch 27], [Iter 201/283], [TrnLoss 1.024], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 27], [Train Acc 0.7146, [Val Acc 0.6602], [Val Loss 0.9564]
+-------
+
+=========
+Training Epoch 28 (densenet201)
+========
+
+[Epoch 28], [Iter 1/283], [TrnLoss 1.003], [TrnAcc 0.625]
+[Epoch 28], [Iter 101/283], [TrnLoss 0.7444], [TrnAcc 0.75]
+[Epoch 28], [Iter 201/283], [TrnLoss 1.062], [TrnAcc 0.6562]
+Computing val stats..
+-------
+[Epoch 28], [Train Acc 0.7171, [Val Acc 0.6816], [Val Loss 0.9388]
+-------
+
+=========
+Training Epoch 29 (densenet201)
+========
+
+[Epoch 29], [Iter 1/283], [TrnLoss 0.9288], [TrnAcc 0.75]
+[Epoch 29], [Iter 101/283], [TrnLoss 0.7546], [TrnAcc 0.7188]
+[Epoch 29], [Iter 201/283], [TrnLoss 1.072], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 29], [Train Acc 0.719, [Val Acc 0.6613], [Val Loss 0.9634]
+-------
+
+=========
+Training Epoch 30 (densenet201)
+========
+
+[Epoch 30], [Iter 1/283], [TrnLoss 0.9184], [TrnAcc 0.7188]
+[Epoch 30], [Iter 101/283], [TrnLoss 0.7448], [TrnAcc 0.75]
+[Epoch 30], [Iter 201/283], [TrnLoss 1.047], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 30], [Train Acc 0.717, [Val Acc 0.6672], [Val Loss 0.9223]
+-------
+
+=========
+Training Epoch 31 (densenet201)
+========
+
+[Epoch 31], [Iter 1/283], [TrnLoss 0.9012], [TrnAcc 0.7812]
+[Epoch 31], [Iter 101/283], [TrnLoss 0.7261], [TrnAcc 0.8125]
+[Epoch 31], [Iter 201/283], [TrnLoss 1.069], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 31], [Train Acc 0.7212, [Val Acc 0.674], [Val Loss 0.9377]
+-------
+
+=========
+Training Epoch 32 (densenet201)
+========
+
+[Epoch 32], [Iter 1/283], [TrnLoss 0.9541], [TrnAcc 0.625]
+[Epoch 32], [Iter 101/283], [TrnLoss 0.6654], [TrnAcc 0.7812]
+[Epoch 32], [Iter 201/283], [TrnLoss 1.08], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 32], [Train Acc 0.7208, [Val Acc 0.6641], [Val Loss 0.9396]
+-------
+
+=========
+Training Epoch 33 (densenet201)
+========
+
+[Epoch 33], [Iter 1/283], [TrnLoss 1.008], [TrnAcc 0.625]
+[Epoch 33], [Iter 101/283], [TrnLoss 0.7381], [TrnAcc 0.7812]
+[Epoch 33], [Iter 201/283], [TrnLoss 0.9787], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 33], [Train Acc 0.7174, [Val Acc 0.667], [Val Loss 0.9179]
+-------
+
+=========
+Training Epoch 34 (densenet201)
+========
+
+[Epoch 34], [Iter 1/283], [TrnLoss 0.9786], [TrnAcc 0.6875]
+[Epoch 34], [Iter 101/283], [TrnLoss 0.7152], [TrnAcc 0.8125]
+[Epoch 34], [Iter 201/283], [TrnLoss 1.201], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 34], [Train Acc 0.7244, [Val Acc 0.6672], [Val Loss 0.9324]
+-------
+
+=========
+Training Epoch 35 (densenet201)
+========
+
+[Epoch 35], [Iter 1/283], [TrnLoss 0.9377], [TrnAcc 0.7188]
+[Epoch 35], [Iter 101/283], [TrnLoss 0.6899], [TrnAcc 0.7812]
+[Epoch 35], [Iter 201/283], [TrnLoss 1.062], [TrnAcc 0.6562]
+Computing val stats..
+-------
+[Epoch 35], [Train Acc 0.7189, [Val Acc 0.674], [Val Loss 0.9564]
+-------
+
+=========
+Training Epoch 36 (densenet201)
+========
+
+[Epoch 36], [Iter 1/283], [TrnLoss 1.098], [TrnAcc 0.5938]
+[Epoch 36], [Iter 101/283], [TrnLoss 0.7174], [TrnAcc 0.8125]
+[Epoch 36], [Iter 201/283], [TrnLoss 1.002], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 36], [Train Acc 0.7208, [Val Acc 0.6564], [Val Loss 0.9518]
+-------
+
+=========
+Training Epoch 37 (densenet201)
+========
+
+[Epoch 37], [Iter 1/283], [TrnLoss 0.9973], [TrnAcc 0.7188]
+[Epoch 37], [Iter 101/283], [TrnLoss 0.7504], [TrnAcc 0.75]
+[Epoch 37], [Iter 201/283], [TrnLoss 0.9982], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 37], [Train Acc 0.7152, [Val Acc 0.6809], [Val Loss 0.9009]
+-------
+
+=========
+Training Epoch 38 (densenet201)
+========
+
+[Epoch 38], [Iter 1/283], [TrnLoss 0.9286], [TrnAcc 0.7812]
+[Epoch 38], [Iter 101/283], [TrnLoss 0.6166], [TrnAcc 0.8125]
+[Epoch 38], [Iter 201/283], [TrnLoss 0.996], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 38], [Train Acc 0.7225, [Val Acc 0.6682], [Val Loss 0.9295]
+-------
+
+=========
+Training Epoch 39 (densenet201)
+========
+
+[Epoch 39], [Iter 1/283], [TrnLoss 1.043], [TrnAcc 0.6562]
+[Epoch 39], [Iter 101/283], [TrnLoss 0.7386], [TrnAcc 0.75]
+[Epoch 39], [Iter 201/283], [TrnLoss 1.041], [TrnAcc 0.6562]
+Computing val stats..
+-------
+[Epoch 39], [Train Acc 0.7212, [Val Acc 0.6916], [Val Loss 0.8948]
+-------
+
+=========
+Training Epoch 40 (densenet201)
+========
+
+[Epoch 40], [Iter 1/283], [TrnLoss 0.9638], [TrnAcc 0.6562]
+[Epoch 40], [Iter 101/283], [TrnLoss 0.6449], [TrnAcc 0.7812]
+[Epoch 40], [Iter 201/283], [TrnLoss 1.028], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 40], [Train Acc 0.7221, [Val Acc 0.6672], [Val Loss 0.9207]
+-------
+
+=========
+Training Epoch 1 (vgg16)
+========
+
+[Epoch 1], [Iter 1/283], [TrnLoss 2.002], [TrnAcc 0.1562]
+[Epoch 1], [Iter 101/283], [TrnLoss 1.051], [TrnAcc 0.75]
+[Epoch 1], [Iter 201/283], [TrnLoss 1.375], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 1], [Train Acc 0.6635, [Val Acc 0.5893], [Val Loss 1.505]
+-------
+
+=========
+Training Epoch 2 (vgg16)
+========
+
+[Epoch 2], [Iter 1/283], [TrnLoss 1.387], [TrnAcc 0.5]
+[Epoch 2], [Iter 101/283], [TrnLoss 1.223], [TrnAcc 0.7188]
+[Epoch 2], [Iter 201/283], [TrnLoss 1.394], [TrnAcc 0.6562]
+Computing val stats..
+-------
+[Epoch 2], [Train Acc 0.6609, [Val Acc 0.6281], [Val Loss 1.206]
+-------
+
+=========
+Training Epoch 3 (vgg16)
+========
+
+[Epoch 3], [Iter 1/283], [TrnLoss 1.168], [TrnAcc 0.5938]
+[Epoch 3], [Iter 101/283], [TrnLoss 1.082], [TrnAcc 0.75]
+[Epoch 3], [Iter 201/283], [TrnLoss 1.126], [TrnAcc 0.6562]
+Computing val stats..
+-------
+[Epoch 3], [Train Acc 0.6669, [Val Acc 0.6604], [Val Loss 1.133]
+-------
+
+=========
+Training Epoch 4 (vgg16)
+========
+
+[Epoch 4], [Iter 1/283], [TrnLoss 1.223], [TrnAcc 0.625]
+[Epoch 4], [Iter 101/283], [TrnLoss 1.056], [TrnAcc 0.75]
+[Epoch 4], [Iter 201/283], [TrnLoss 0.9801], [TrnAcc 0.6562]
+Computing val stats..
+-------
+[Epoch 4], [Train Acc 0.6677, [Val Acc 0.6682], [Val Loss 1.056]
+-------
+
+=========
+Training Epoch 5 (vgg16)
+========
+
+[Epoch 5], [Iter 1/283], [TrnLoss 1.109], [TrnAcc 0.625]
+[Epoch 5], [Iter 101/283], [TrnLoss 0.8167], [TrnAcc 0.75]
+[Epoch 5], [Iter 201/283], [TrnLoss 0.9909], [TrnAcc 0.6562]
+Computing val stats..
+-------
+[Epoch 5], [Train Acc 0.6664, [Val Acc 0.6682], [Val Loss 1.062]
+-------
+
+=========
+Training Epoch 6 (vgg16)
+========
+
+[Epoch 6], [Iter 1/283], [TrnLoss 1.082], [TrnAcc 0.625]
+[Epoch 6], [Iter 101/283], [TrnLoss 0.824], [TrnAcc 0.75]
+[Epoch 6], [Iter 201/283], [TrnLoss 0.9642], [TrnAcc 0.6562]
+Computing val stats..
+-------
+[Epoch 6], [Train Acc 0.6698, [Val Acc 0.6682], [Val Loss 1.114]
+-------
+
+=========
+Training Epoch 7 (vgg16)
+========
+
+[Epoch 7], [Iter 1/283], [TrnLoss 1.17], [TrnAcc 0.625]
+[Epoch 7], [Iter 101/283], [TrnLoss 0.7721], [TrnAcc 0.75]
+[Epoch 7], [Iter 201/283], [TrnLoss 1.039], [TrnAcc 0.6562]
+Computing val stats..
+-------
+[Epoch 7], [Train Acc 0.6724, [Val Acc 0.6682], [Val Loss 1.057]
+-------
+
+=========
+Training Epoch 8 (vgg16)
+========
+
+[Epoch 8], [Iter 1/283], [TrnLoss 1.117], [TrnAcc 0.625]
+[Epoch 8], [Iter 101/283], [TrnLoss 0.7757], [TrnAcc 0.7812]
+[Epoch 8], [Iter 201/283], [TrnLoss 0.9713], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 8], [Train Acc 0.6753, [Val Acc 0.6682], [Val Loss 1.036]
+-------
+
+=========
+Training Epoch 9 (vgg16)
+========
+
+[Epoch 9], [Iter 1/283], [TrnLoss 1.055], [TrnAcc 0.625]
+[Epoch 9], [Iter 101/283], [TrnLoss 0.726], [TrnAcc 0.7812]
+[Epoch 9], [Iter 201/283], [TrnLoss 1.028], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 9], [Train Acc 0.6751, [Val Acc 0.6682], [Val Loss 1.086]
+-------
+
+=========
+Training Epoch 10 (vgg16)
+========
+
+[Epoch 10], [Iter 1/283], [TrnLoss 1.113], [TrnAcc 0.625]
+[Epoch 10], [Iter 101/283], [TrnLoss 0.7495], [TrnAcc 0.7812]
+[Epoch 10], [Iter 201/283], [TrnLoss 1.055], [TrnAcc 0.6875]
+Computing val stats..
+-------
+[Epoch 10], [Train Acc 0.6787, [Val Acc 0.6691], [Val Loss 1.008]
+-------
+
+=========
+Training Epoch 11 (vgg16)
+========
+
+[Epoch 11], [Iter 1/283], [TrnLoss 1.007], [TrnAcc 0.625]
+[Epoch 11], [Iter 101/283], [TrnLoss 0.7818], [TrnAcc 0.7812]
+[Epoch 11], [Iter 201/283], [TrnLoss 0.9007], [TrnAcc 0.6875]
+Computing val stats..
+-------
+[Epoch 11], [Train Acc 0.6771, [Val Acc 0.674], [Val Loss 1.031]
+-------
+
+=========
+Training Epoch 12 (vgg16)
+========
+
+[Epoch 12], [Iter 1/283], [TrnLoss 1.027], [TrnAcc 0.6562]
+[Epoch 12], [Iter 101/283], [TrnLoss 0.8131], [TrnAcc 0.75]
+[Epoch 12], [Iter 201/283], [TrnLoss 0.987], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 12], [Train Acc 0.6792, [Val Acc 0.6691], [Val Loss 0.9981]
+-------
+
+=========
+Training Epoch 13 (vgg16)
+========
+
+[Epoch 13], [Iter 1/283], [TrnLoss 0.9814], [TrnAcc 0.625]
+[Epoch 13], [Iter 101/283], [TrnLoss 0.759], [TrnAcc 0.7812]
+[Epoch 13], [Iter 201/283], [TrnLoss 0.9512], [TrnAcc 0.6875]
+Computing val stats..
+-------
+[Epoch 13], [Train Acc 0.679, [Val Acc 0.675], [Val Loss 1.012]
+-------
+
+=========
+Training Epoch 14 (vgg16)
+========
+
+[Epoch 14], [Iter 1/283], [TrnLoss 1.009], [TrnAcc 0.6562]
+[Epoch 14], [Iter 101/283], [TrnLoss 0.8129], [TrnAcc 0.75]
+[Epoch 14], [Iter 201/283], [TrnLoss 0.9412], [TrnAcc 0.625]
+Computing val stats..
+-------
+[Epoch 14], [Train Acc 0.6844, [Val Acc 0.674], [Val Loss 1.004]
+-------
+
+=========
+Training Epoch 15 (vgg16)
+========
+
+[Epoch 15], [Iter 1/283], [TrnLoss 0.9471], [TrnAcc 0.6562]
+[Epoch 15], [Iter 101/283], [TrnLoss 0.7861], [TrnAcc 0.7812]
+[Epoch 15], [Iter 201/283], [TrnLoss 0.9906], [TrnAcc 0.6562]
+Computing val stats..
+-------
+[Epoch 15], [Train Acc 0.681, [Val Acc 0.676], [Val Loss 0.9906]
+-------
+
+=========
+Training Epoch 16 (vgg16)
+========
+
+[Epoch 16], [Iter 1/283], [TrnLoss 1.058], [TrnAcc 0.6562]
+[Epoch 16], [Iter 101/283], [TrnLoss 0.7296], [TrnAcc 0.7812]
+[Epoch 16], [Iter 201/283], [TrnLoss 0.8966], [TrnAcc 0.6875]
+Computing val stats..
+-------
+[Epoch 16], [Train Acc 0.6842, [Val Acc 0.674], [Val Loss 0.9827]
+-------
+
+=========
+Training Epoch 17 (vgg16)
+========
+
+[Epoch 17], [Iter 1/283], [TrnLoss 1.091], [TrnAcc 0.625]
+[Epoch 17], [Iter 101/283], [TrnLoss 0.7405], [TrnAcc 0.75]
+[Epoch 17], [Iter 201/283], [TrnLoss 0.8621], [TrnAcc 0.7188]
+Computing val stats..
+-------
+[Epoch 17], [Train Acc 0.6862, [Val Acc 0.6857], [Val Loss 0.9871]
+-------
+
+=========
+Training Epoch 18 (vgg16)
+========
+
+[Epoch 18], [Iter 1/283], [TrnLoss 0.9895], [TrnAcc 0.5938]
+[Epoch 18], [Iter 101/283], [TrnLoss 0.806], [TrnAcc 0.75]
+[Epoch 18], [Iter 201/283], [TrnLoss 0.9135], [TrnAcc 0.6875]
+Computing val stats..
+-------
+[Epoch 18], [Train Acc 0.6832, [Val Acc 0.6916], [Val Loss 0.9683]
+-------
+
+=========
+Training Epoch 19 (vgg16)
+========
+
+[Epoch 19], [Iter 1/283], [TrnLoss 0.9871], [TrnAcc 0.625]
+[Epoch 19], [Iter 101/283], [TrnLoss 0.7031], [TrnAcc 0.75]
+[Epoch 19], [Iter 201/283], [TrnLoss 0.8885], [TrnAcc 0.6875]
+Computing val stats..
+-------
+[Epoch 19], [Train Acc 0.6852, [Val Acc 0.6779], [Val Loss 0.9657]
+-------
+
+=========
+Training Epoch 20 (vgg16)
+========
+
+[Epoch 20], [Iter 1/283], [TrnLoss 1.034], [TrnAcc 0.6562]
+[Epoch 20], [Iter 101/283], [TrnLoss 0.8292], [TrnAcc 0.8125]
+[Epoch 20], [Iter 201/283], [TrnLoss 0.9764], [TrnAcc 0.6875]
+Computing val stats..
+-------
+[Epoch 20], [Train Acc 0.6899, [Val Acc 0.6857], [Val Loss 0.9316]
+-------
+
+=========
+Training Epoch 21 (vgg16)
+========
+
+[Epoch 21], [Iter 1/283], [TrnLoss 0.9455], [TrnAcc 0.6562]
+[Epoch 21], [Iter 101/283], [TrnLoss 0.7175], [TrnAcc 0.75]
+[Epoch 21], [Iter 201/283], [TrnLoss 0.8957], [TrnAcc 0.6875]
+Computing val stats..
+-------
+[Epoch 21], [Train Acc 0.6875, [Val Acc 0.6906], [Val Loss 0.9522]
+-------
+
+=========
+Training Epoch 22 (vgg16)
+========
+
+[Epoch 22], [Iter 1/283], [TrnLoss 0.9841], [TrnAcc 0.6562]
+[Epoch 22], [Iter 101/283], [TrnLoss 0.8455], [TrnAcc 0.7812]
+[Epoch 22], [Iter 201/283], [TrnLoss 0.9585], [TrnAcc 0.7188]
+Computing val stats..
+-------
+[Epoch 22], [Train Acc 0.6878, [Val Acc 0.6721], [Val Loss 0.9844]
+-------
+
+=========
+Training Epoch 23 (vgg16)
+========
+
+[Epoch 23], [Iter 1/283], [TrnLoss 1.005], [TrnAcc 0.625]
+[Epoch 23], [Iter 101/283], [TrnLoss 0.7651], [TrnAcc 0.7812]
+[Epoch 23], [Iter 201/283], [TrnLoss 0.9128], [TrnAcc 0.6562]
+Computing val stats..
+-------
+[Epoch 23], [Train Acc 0.6898, [Val Acc 0.6701], [Val Loss 1.005]
+-------
+
+=========
+Training Epoch 24 (vgg16)
+========
+
+[Epoch 24], [Iter 1/283], [TrnLoss 1.097], [TrnAcc 0.5938]
+[Epoch 24], [Iter 101/283], [TrnLoss 0.7431], [TrnAcc 0.7812]
+[Epoch 24], [Iter 201/283], [TrnLoss 0.8583], [TrnAcc 0.7188]
+Computing val stats..
+-------
+[Epoch 24], [Train Acc 0.6847, [Val Acc 0.6818], [Val Loss 0.9913]
+-------
+
+=========
+Training Epoch 25 (vgg16)
+========
+
+[Epoch 25], [Iter 1/283], [TrnLoss 1.046], [TrnAcc 0.625]
+[Epoch 25], [Iter 101/283], [TrnLoss 0.7543], [TrnAcc 0.7812]
+[Epoch 25], [Iter 201/283], [TrnLoss 0.8784], [TrnAcc 0.6875]
+Computing val stats..
+-------
+[Epoch 25], [Train Acc 0.6886, [Val Acc 0.674], [Val Loss 1.012]
+-------
+
+=========
+Training Epoch 26 (vgg16)
+========
+
+[Epoch 26], [Iter 1/283], [TrnLoss 1.024], [TrnAcc 0.6875]
+[Epoch 26], [Iter 101/283], [TrnLoss 0.8264], [TrnAcc 0.7812]
+[Epoch 26], [Iter 201/283], [TrnLoss 0.8614], [TrnAcc 0.6562]
+Computing val stats..
+-------
+[Epoch 26], [Train Acc 0.6864, [Val Acc 0.6809], [Val Loss 0.9886]
+-------
+
+=========
+Training Epoch 27 (vgg16)
+========
+
+[Epoch 27], [Iter 1/283], [TrnLoss 1.05], [TrnAcc 0.5938]
+[Epoch 27], [Iter 101/283], [TrnLoss 0.7731], [TrnAcc 0.7812]
+[Epoch 27], [Iter 201/283], [TrnLoss 0.887], [TrnAcc 0.6562]
+Computing val stats..
+-------
+[Epoch 27], [Train Acc 0.6895, [Val Acc 0.682], [Val Loss 0.9658]
+-------
+
+=========
+Training Epoch 28 (vgg16)
+========
+
+[Epoch 28], [Iter 1/283], [TrnLoss 1.056], [TrnAcc 0.6562]
+[Epoch 28], [Iter 101/283], [TrnLoss 0.7867], [TrnAcc 0.6875]
+[Epoch 28], [Iter 201/283], [TrnLoss 0.8751], [TrnAcc 0.6562]
+Computing val stats..
+-------
+[Epoch 28], [Train Acc 0.6929, [Val Acc 0.6818], [Val Loss 0.9496]
+-------
+
+=========
+Training Epoch 29 (vgg16)
+========
+
+[Epoch 29], [Iter 1/283], [TrnLoss 0.9831], [TrnAcc 0.625]
+[Epoch 29], [Iter 101/283], [TrnLoss 0.8432], [TrnAcc 0.7188]
+[Epoch 29], [Iter 201/283], [TrnLoss 0.8179], [TrnAcc 0.6562]
+Computing val stats..
+-------
+[Epoch 29], [Train Acc 0.6901, [Val Acc 0.6719], [Val Loss 0.9669]
+-------
+
+=========
+Training Epoch 30 (vgg16)
+========
+
+[Epoch 30], [Iter 1/283], [TrnLoss 1.093], [TrnAcc 0.6562]
+[Epoch 30], [Iter 101/283], [TrnLoss 0.7867], [TrnAcc 0.75]
+[Epoch 30], [Iter 201/283], [TrnLoss 0.9126], [TrnAcc 0.7188]
+Computing val stats..
+-------
+[Epoch 30], [Train Acc 0.6917, [Val Acc 0.6672], [Val Loss 0.9897]
+-------
+
+=========
+Training Epoch 31 (vgg16)
+========
+
+[Epoch 31], [Iter 1/283], [TrnLoss 1.044], [TrnAcc 0.6562]
+[Epoch 31], [Iter 101/283], [TrnLoss 0.7343], [TrnAcc 0.75]
+[Epoch 31], [Iter 201/283], [TrnLoss 1.027], [TrnAcc 0.6875]
+Computing val stats..
+-------
+[Epoch 31], [Train Acc 0.6917, [Val Acc 0.6711], [Val Loss 0.9781]
+-------
+
+=========
+Training Epoch 32 (vgg16)
+========
+
+[Epoch 32], [Iter 1/283], [TrnLoss 1.05], [TrnAcc 0.6562]
+[Epoch 32], [Iter 101/283], [TrnLoss 0.7642], [TrnAcc 0.75]
+[Epoch 32], [Iter 201/283], [TrnLoss 0.9196], [TrnAcc 0.6875]
+Computing val stats..
+-------
+[Epoch 32], [Train Acc 0.6896, [Val Acc 0.6721], [Val Loss 0.9762]
+-------
+
+=========
+Training Epoch 33 (vgg16)
+========
+
+[Epoch 33], [Iter 1/283], [TrnLoss 0.9344], [TrnAcc 0.7188]
+[Epoch 33], [Iter 101/283], [TrnLoss 0.7332], [TrnAcc 0.75]
+[Epoch 33], [Iter 201/283], [TrnLoss 0.9295], [TrnAcc 0.6875]
+Computing val stats..
+-------
+[Epoch 33], [Train Acc 0.6921, [Val Acc 0.6721], [Val Loss 0.9759]
+-------
+
+=========
+Training Epoch 34 (vgg16)
+========
+
+[Epoch 34], [Iter 1/283], [TrnLoss 1.127], [TrnAcc 0.6875]
+[Epoch 34], [Iter 101/283], [TrnLoss 0.6967], [TrnAcc 0.75]
+[Epoch 34], [Iter 201/283], [TrnLoss 0.9051], [TrnAcc 0.6562]
+Computing val stats..
+-------
+[Epoch 34], [Train Acc 0.6934, [Val Acc 0.6594], [Val Loss 1.015]
+-------
+
+=========
+Training Epoch 35 (vgg16)
+========
+
+[Epoch 35], [Iter 1/283], [TrnLoss 1.069], [TrnAcc 0.5938]
+[Epoch 35], [Iter 101/283], [TrnLoss 0.6961], [TrnAcc 0.75]
+[Epoch 35], [Iter 201/283], [TrnLoss 0.8431], [TrnAcc 0.6875]
+Computing val stats..
+-------
+[Epoch 35], [Train Acc 0.6936, [Val Acc 0.677], [Val Loss 0.9632]
+-------
+
+=========
+Training Epoch 36 (vgg16)
+========
+
+[Epoch 36], [Iter 1/283], [TrnLoss 1.103], [TrnAcc 0.6875]
+[Epoch 36], [Iter 101/283], [TrnLoss 0.6881], [TrnAcc 0.7812]
+[Epoch 36], [Iter 201/283], [TrnLoss 0.9727], [TrnAcc 0.6562]
+Computing val stats..
+-------
+[Epoch 36], [Train Acc 0.6922, [Val Acc 0.667], [Val Loss 0.9649]
+-------
+
+=========
+Training Epoch 37 (vgg16)
+========
+
+[Epoch 37], [Iter 1/283], [TrnLoss 1.067], [TrnAcc 0.625]
+[Epoch 37], [Iter 101/283], [TrnLoss 0.7603], [TrnAcc 0.7812]
+[Epoch 37], [Iter 201/283], [TrnLoss 0.8844], [TrnAcc 0.6875]
+Computing val stats..
+-------
+[Epoch 37], [Train Acc 0.6917, [Val Acc 0.6867], [Val Loss 0.9607]
+-------
+
+=========
+Training Epoch 38 (vgg16)
+========
+
+[Epoch 38], [Iter 1/283], [TrnLoss 0.942], [TrnAcc 0.6875]
+[Epoch 38], [Iter 101/283], [TrnLoss 0.7201], [TrnAcc 0.75]
+[Epoch 38], [Iter 201/283], [TrnLoss 0.8885], [TrnAcc 0.6875]
+Computing val stats..
+-------
+[Epoch 38], [Train Acc 0.691, [Val Acc 0.6711], [Val Loss 0.9922]
+-------
+
+=========
+Training Epoch 39 (vgg16)
+========
+
+[Epoch 39], [Iter 1/283], [TrnLoss 0.9526], [TrnAcc 0.6875]
+[Epoch 39], [Iter 101/283], [TrnLoss 0.7891], [TrnAcc 0.8125]
+[Epoch 39], [Iter 201/283], [TrnLoss 0.9173], [TrnAcc 0.6875]
+Computing val stats..
+-------
+[Epoch 39], [Train Acc 0.6916, [Val Acc 0.6768], [Val Loss 0.983]
+-------
+
+=========
+Training Epoch 40 (vgg16)
+========
+
+[Epoch 40], [Iter 1/283], [TrnLoss 0.9899], [TrnAcc 0.6875]
+[Epoch 40], [Iter 101/283], [TrnLoss 0.7164], [TrnAcc 0.7812]
+[Epoch 40], [Iter 201/283], [TrnLoss 0.9502], [TrnAcc 0.6875]
+Computing val stats..
+-------
+[Epoch 40], [Train Acc 0.6915, [Val Acc 0.6809], [Val Loss 0.9909]
+-------
+Loading python/3.7.3
+  Loading requirement: tcl/8.6.8 gcc/8.3.0
+Loading pytorch/1.1.0
+  Loading requirement: cudnn/7.4
