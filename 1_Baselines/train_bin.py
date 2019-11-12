@@ -34,14 +34,13 @@ MODELS = {
     'densenet201': os.path.join(MODELS_PATH, 'densenet201.pth'),
     'inceptionv3': os.path.join(MODELS_PATH, 'inception_v3.pth'),
 }
-EXP_NAME = 'v4_LRDecrease'
+EXP_NAME = 'bin_v1'
 # MODEL_NAMES = ['densenet121','densenet201','vgg16']
 MODEL_NAMES = ['densenet201']
 
 DEVICE = torch.device('cuda') 
-
-NUM_EPOCHS = 20
-BATCH_SIZE = 28
+NUM_EPOCHS = 40
+BATCH_SIZE = 16
 NUM_WORKERS = 4
 LR = .0005
 LRD = .25
@@ -52,7 +51,8 @@ HAM_DIR = '/afs/crc.nd.edu/user/y/yzhang46/_DLResources/Datasets/[C]HAM10000'
 ALL_IMG_FPS = [os.path.join(HAM_DIR,'Train',f) for f in os.listdir(os.path.join(HAM_DIR,'Train'))]
 ALL_IMG_IDS = [os.path.splitext(os.path.basename(f))[0] for f in ALL_IMG_FPS]
 
-IMG_SIZE = 300
+CROP_SIZE = 350
+IMG_SIZE = 224
 NORM_MEAN = [0.7630423088417134, 0.5456486014607426, 0.5700468609021178]
 NORM_STD = [0.0891409288333237, 0.11792632289606514, 0.1324623088597418]
 CLASSES_TO_FULLNAMES = {
@@ -86,41 +86,6 @@ class HAM10k(Dataset):
         if self.transform:
             X = self.transform(X)
         return X, y
-class BalancedBatchSampler(Sampler):  #TrainDF: 9013
-    def __init__(self, df, classes, batch_size):
-        assert batch_size % len(classes) == 0  # even sampling
-        self.df = df
-        self.df_samples = df.shape[0]
-        self.classes = classes
-        self.batch_size = batch_size
-        self.maxClsSize = df['label'].value_counts().max()
-        self.len = math.ceil(self.maxClsSize / (batch_size/len(classes)))
-        self.cls2idxs = {c:None for c in classes}
-        self.cls2aidxs = {c:None for c in classes}
-        for cidx, c in enumerate(classes):
-            idxs = self.df.index[self.df['label'] == cidx].tolist()
-            self.cls2idxs[c] = idxs
-            self.cls2aidxs[c] = set(idxs)
-    def __iter__(self):
-        train_idxs = []
-        bsize_per_class = int(self.batch_size/len(self.classes))
-        for bnum in range(self.len):
-            batch_idxs = []
-            for c in self.cls2idxs.keys():
-                for i in range(bsize_per_class):
-                    if len(self.cls2aidxs[c]) == 0:
-                        chosen_idx = random.choice(self.cls2idxs[c])
-                        batch_idxs.append(chosen_idx)
-                    else:
-                        chosen_idx = random.sample(self.cls2aidxs[c],1)[0]
-                        self.cls2aidxs[c].remove(chosen_idx)
-                        batch_idxs.append(chosen_idx)
-            train_idxs.append(batch_idxs)
-        for c in self.cls2idxs.keys():
-            self.cls2aidxs[c] = set(self.cls2idxs[c])
-        return (bidxs for bidxs in train_idxs)
-    def __len__(self):
-        return self.len
 
 ### Instantiate Data Constants
 # Datasets
@@ -144,7 +109,7 @@ with open(os.path.join(HAM_DIR,'TrainSplits','train.txt'),'r') as f:
         train_ids.append(line.rstrip())
 TRAIN_DF = DF.loc[DF['id'].isin(train_ids)]
 TRAIN_DF = TRAIN_DF.reset_index(drop=True)
-train_transform = transforms.Compose([transforms.CenterCrop(IMG_SIZE),
+train_transform = transforms.Compose([transforms.CenterCrop(CROP_SIZE),
                                       transforms.RandomHorizontalFlip(),
                                       transforms.RandomVerticalFlip(),
                                       transforms.RandomRotation(20),
@@ -152,10 +117,8 @@ train_transform = transforms.Compose([transforms.CenterCrop(IMG_SIZE),
                                       transforms.ToTensor(), 
                                       transforms.Normalize(NORM_MEAN, NORM_STD)])
 TRAIN_SET = HAM10k(TRAIN_DF, train_transform)
-TRAIN_BATCH_SAMPLER = BalancedBatchSampler(TRAIN_DF, CLASSES, BATCH_SIZE)
 TRAIN_LOADER = DataLoader(TRAIN_SET,
-#                       batch_size=BATCH_SIZE,
-                          batch_sampler=TRAIN_BATCH_SAMPLER,
+                          batch_size=BATCH_SIZE,
                           shuffle=True,
                           num_workers=NUM_WORKERS)
 
@@ -164,7 +127,7 @@ val_ids = []
 with open(os.path.join(HAM_DIR,'TrainSplits','val.txt'),'r') as f:
     for line in f:
         val_ids.append(line.rstrip())
-val_transform = transforms.Compose([transforms.CenterCrop(IMG_SIZE), 
+val_transform = transforms.Compose([transforms.CenterCrop(CROP_SIZE), 
                                     transforms.ToTensor(),
                                     transforms.Normalize(NORM_MEAN, NORM_STD)])
 VAL_DF = DF.loc[DF['id'].isin(val_ids)]
@@ -270,15 +233,20 @@ def validate(tracker, model, criterion, optimizer):
         print('Computing val stats..')
         for i, data in enumerate(VAL_LOADER):
             images, labels = data
-            N = images.size(0)  # batch size
+            for idx, l in enumerate(labels):
+                labels[idx] = 0 if labels[idx] != 0 else 1
             images = Variable(images).to(DEVICE)
-            labels = Variable(labels).to(DEVICE)
-
-            outputs = model(images)
-            prediction = outputs.max(1, keepdim=True)[1]
+            labels = Variable(labels.to(torch.float32)).to(DEVICE)
+            N = images.size(0)
+            
+            output = model(images).squeeze()
+            sig = nn.Sigmoid()
+            output = sig(output)
+            
+            prediction = output.round()
             num_correct = prediction.eq(labels.view_as(prediction)).sum().item()
 
-            sum_vl += criterion(outputs, labels).item()
+            sum_vl += criterion(output, labels).item()
             sum_vacc += num_correct/N
     vacc, vloss = sum_vacc/len(VAL_LOADER), sum_vl/len(VAL_LOADER)
     return vloss, vacc
@@ -295,18 +263,29 @@ def train_model(train_loader, model, criterion, optimizer, scheduler,
         model.train()
         for i, data in enumerate(train_loader):
             images, labels = data
+            for idx, l in enumerate(labels):
+                labels[idx] = 0 if labels[idx] != 0 else 1
             images = Variable(images).to(DEVICE)
-            labels = Variable(labels).to(DEVICE)
+            labels = Variable(labels.to(torch.float32)).to(DEVICE)
             N = images.size(0)
             
             optimizer.zero_grad()
-            output = model(images)
+            output = model(images).squeeze()
+            sig = nn.Sigmoid()
+            output = sig(output)
+            
             loss = criterion(output, labels)
             loss.backward()
             optimizer.step()
             
-            prediction = output.max(1, keepdim=True)[1]
+            prediction = output.round()
             num_correct = prediction.eq(labels.view_as(prediction)).sum().item()
+
+            # print(f'sig-out: {output}')
+            # print(f'pred:    {prediction}')
+            # print(f'lab:     {labels}')
+            # print(f'num-correct: {num_correct}')
+            # sys.exit()
             
             # Stats and status
             sum_tl += loss.item()
@@ -328,8 +307,8 @@ def train_models():
     
     # Train
     for modelname in MODEL_NAMES:
-        model_ft, input_size = initialize_model(modelname, 
-                                                len(CLASSES), 
+        model_ft, input_size = initialize_model(modelname,
+                                                1, # len(CLASSES), 
                                                 feature_extract=False, 
                                                 use_pretrained=True)
         model = model_ft.to(DEVICE)
@@ -339,7 +318,7 @@ def train_models():
                                                          verbose=True,
                                                          factor=LRD, 
                                                          patience=PATIENCE)
-        criterion = nn.CrossEntropyLoss().to(DEVICE)
+        criterion = nn.BCELoss().to(DEVICE) #nn.CrossEntropyLoss().to(DEVICE)
         tracker = StatTracker()
         
         train_model(TRAIN_LOADER,
@@ -361,7 +340,7 @@ def train_models():
 
 if __name__ == '__main__':
     trackers = train_models()
-    with open('tracker_list.pkl', 'wb') as f:
+    with open(f'trackerlist_{EXP_NAME}.pkl', 'wb') as f:
         pickle.dump(trackers, f)
 
 

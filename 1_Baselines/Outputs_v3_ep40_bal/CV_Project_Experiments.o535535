@@ -1,0 +1,2892 @@
+Loading python/3.7.3
+  Loading requirement: tcl/8.6.8 gcc/8.3.0
+Loading pytorch/1.1.0
+  Loading requirement: cudnn/7.4
+Loading python/3.7.3
+  Loading requirement: tcl/8.6.8 gcc/8.3.0
+Loading pytorch/1.1.0
+  Loading requirement: cuda/10.0 cudnn/7.4
+
+=========
+Training Epoch 1 (densenet121)
+=========
+
+[Epoch 1], [Iter 1/1510], [TrnLoss 2.067], [TrnAcc 0.07143]
+[Epoch 1], [Iter 101/1510], [TrnLoss 1.389], [TrnAcc 0.5]
+[Epoch 1], [Iter 201/1510], [TrnLoss 1.096], [TrnAcc 0.6429]
+[Epoch 1], [Iter 301/1510], [TrnLoss 1.0], [TrnAcc 0.6786]
+[Epoch 1], [Iter 401/1510], [TrnLoss 0.9744], [TrnAcc 0.6429]
+[Epoch 1], [Iter 501/1510], [TrnLoss 1.129], [TrnAcc 0.6071]
+[Epoch 1], [Iter 601/1510], [TrnLoss 1.19], [TrnAcc 0.5357]
+[Epoch 1], [Iter 701/1510], [TrnLoss 1.336], [TrnAcc 0.4643]
+[Epoch 1], [Iter 801/1510], [TrnLoss 0.9835], [TrnAcc 0.6429]
+[Epoch 1], [Iter 901/1510], [TrnLoss 1.104], [TrnAcc 0.6071]
+[Epoch 1], [Iter 1001/1510], [TrnLoss 1.151], [TrnAcc 0.5714]
+[Epoch 1], [Iter 1101/1510], [TrnLoss 0.5678], [TrnAcc 0.8571]
+[Epoch 1], [Iter 1201/1510], [TrnLoss 1.061], [TrnAcc 0.6071]
+[Epoch 1], [Iter 1301/1510], [TrnLoss 1.231], [TrnAcc 0.5]
+[Epoch 1], [Iter 1401/1510], [TrnLoss 1.071], [TrnAcc 0.5714]
+[Epoch 1], [Iter 1501/1510], [TrnLoss 0.9981], [TrnAcc 0.5714]
+Computing val stats..
+-------
+[Epoch 1], [Train Acc 0.6311, [Val Acc 0.2824], [Val Loss 2.399]
+
+=========
+Training Epoch 2 (densenet121)
+=========
+
+[Epoch 2], [Iter 1/1510], [TrnLoss 1.039], [TrnAcc 0.5357]
+[Epoch 2], [Iter 101/1510], [TrnLoss 0.8053], [TrnAcc 0.7143]
+[Epoch 2], [Iter 201/1510], [TrnLoss 1.028], [TrnAcc 0.5714]
+[Epoch 2], [Iter 301/1510], [TrnLoss 0.892], [TrnAcc 0.75]
+[Epoch 2], [Iter 401/1510], [TrnLoss 0.8074], [TrnAcc 0.7857]
+[Epoch 2], [Iter 501/1510], [TrnLoss 0.9704], [TrnAcc 0.6071]
+[Epoch 2], [Iter 601/1510], [TrnLoss 0.9087], [TrnAcc 0.6786]
+[Epoch 2], [Iter 701/1510], [TrnLoss 0.6645], [TrnAcc 0.8214]
+[Epoch 2], [Iter 801/1510], [TrnLoss 0.668], [TrnAcc 0.7857]
+[Epoch 2], [Iter 901/1510], [TrnLoss 0.6962], [TrnAcc 0.7857]
+[Epoch 2], [Iter 1001/1510], [TrnLoss 0.7586], [TrnAcc 0.75]
+[Epoch 2], [Iter 1101/1510], [TrnLoss 0.4978], [TrnAcc 0.8571]
+[Epoch 2], [Iter 1201/1510], [TrnLoss 0.7535], [TrnAcc 0.6786]
+[Epoch 2], [Iter 1301/1510], [TrnLoss 1.296], [TrnAcc 0.4643]
+[Epoch 2], [Iter 1401/1510], [TrnLoss 0.6259], [TrnAcc 0.7857]
+[Epoch 2], [Iter 1501/1510], [TrnLoss 0.7013], [TrnAcc 0.7143]
+Computing val stats..
+-------
+[Epoch 2], [Train Acc 0.7044, [Val Acc 0.2893], [Val Loss 2.175]
+
+=========
+Training Epoch 3 (densenet121)
+=========
+
+[Epoch 3], [Iter 1/1510], [TrnLoss 0.8669], [TrnAcc 0.6429]
+[Epoch 3], [Iter 101/1510], [TrnLoss 0.8611], [TrnAcc 0.7143]
+[Epoch 3], [Iter 201/1510], [TrnLoss 1.091], [TrnAcc 0.6071]
+[Epoch 3], [Iter 301/1510], [TrnLoss 0.6935], [TrnAcc 0.8571]
+[Epoch 3], [Iter 401/1510], [TrnLoss 0.935], [TrnAcc 0.7143]
+[Epoch 3], [Iter 501/1510], [TrnLoss 0.4712], [TrnAcc 0.9286]
+[Epoch 3], [Iter 601/1510], [TrnLoss 0.7272], [TrnAcc 0.75]
+[Epoch 3], [Iter 701/1510], [TrnLoss 0.6005], [TrnAcc 0.8571]
+[Epoch 3], [Iter 801/1510], [TrnLoss 0.8254], [TrnAcc 0.6786]
+[Epoch 3], [Iter 901/1510], [TrnLoss 0.9008], [TrnAcc 0.6429]
+[Epoch 3], [Iter 1001/1510], [TrnLoss 1.116], [TrnAcc 0.5714]
+[Epoch 3], [Iter 1101/1510], [TrnLoss 0.5515], [TrnAcc 0.8929]
+[Epoch 3], [Iter 1201/1510], [TrnLoss 0.8043], [TrnAcc 0.8214]
+[Epoch 3], [Iter 1301/1510], [TrnLoss 0.8703], [TrnAcc 0.75]
+[Epoch 3], [Iter 1401/1510], [TrnLoss 0.7936], [TrnAcc 0.6786]
+[Epoch 3], [Iter 1501/1510], [TrnLoss 0.7852], [TrnAcc 0.6786]
+Computing val stats..
+-------
+[Epoch 3], [Train Acc 0.7252, [Val Acc 0.2509], [Val Loss 2.351]
+
+=========
+Training Epoch 4 (densenet121)
+=========
+
+[Epoch 4], [Iter 1/1510], [TrnLoss 0.9168], [TrnAcc 0.6071]
+[Epoch 4], [Iter 101/1510], [TrnLoss 0.9239], [TrnAcc 0.6071]
+[Epoch 4], [Iter 201/1510], [TrnLoss 0.9986], [TrnAcc 0.6786]
+[Epoch 4], [Iter 301/1510], [TrnLoss 0.7619], [TrnAcc 0.7143]
+[Epoch 4], [Iter 401/1510], [TrnLoss 0.5441], [TrnAcc 0.8571]
+[Epoch 4], [Iter 501/1510], [TrnLoss 0.6074], [TrnAcc 0.7857]
+[Epoch 4], [Iter 601/1510], [TrnLoss 0.9662], [TrnAcc 0.6429]
+[Epoch 4], [Iter 701/1510], [TrnLoss 1.087], [TrnAcc 0.5357]
+[Epoch 4], [Iter 801/1510], [TrnLoss 0.8711], [TrnAcc 0.7143]
+[Epoch 4], [Iter 901/1510], [TrnLoss 0.8362], [TrnAcc 0.6786]
+[Epoch 4], [Iter 1001/1510], [TrnLoss 0.847], [TrnAcc 0.75]
+[Epoch 4], [Iter 1101/1510], [TrnLoss 0.818], [TrnAcc 0.6429]
+[Epoch 4], [Iter 1201/1510], [TrnLoss 0.7917], [TrnAcc 0.6429]
+[Epoch 4], [Iter 1301/1510], [TrnLoss 0.7017], [TrnAcc 0.7857]
+[Epoch 4], [Iter 1401/1510], [TrnLoss 0.6848], [TrnAcc 0.7143]
+[Epoch 4], [Iter 1501/1510], [TrnLoss 1.014], [TrnAcc 0.7143]
+Computing val stats..
+-------
+[Epoch 4], [Train Acc 0.745, [Val Acc 0.268], [Val Loss 2.314]
+
+=========
+Training Epoch 5 (densenet121)
+=========
+
+[Epoch 5], [Iter 1/1510], [TrnLoss 0.7279], [TrnAcc 0.75]
+[Epoch 5], [Iter 101/1510], [TrnLoss 0.6977], [TrnAcc 0.7143]
+[Epoch 5], [Iter 201/1510], [TrnLoss 0.806], [TrnAcc 0.6786]
+[Epoch 5], [Iter 301/1510], [TrnLoss 0.8854], [TrnAcc 0.7143]
+[Epoch 5], [Iter 401/1510], [TrnLoss 0.4427], [TrnAcc 0.8929]
+[Epoch 5], [Iter 501/1510], [TrnLoss 0.7056], [TrnAcc 0.7857]
+[Epoch 5], [Iter 601/1510], [TrnLoss 0.5838], [TrnAcc 0.8571]
+[Epoch 5], [Iter 701/1510], [TrnLoss 0.6354], [TrnAcc 0.6429]
+[Epoch 5], [Iter 801/1510], [TrnLoss 0.4347], [TrnAcc 0.8929]
+[Epoch 5], [Iter 901/1510], [TrnLoss 0.9912], [TrnAcc 0.6071]
+[Epoch 5], [Iter 1001/1510], [TrnLoss 0.8766], [TrnAcc 0.6071]
+[Epoch 5], [Iter 1101/1510], [TrnLoss 0.5081], [TrnAcc 0.8929]
+[Epoch 5], [Iter 1201/1510], [TrnLoss 0.7347], [TrnAcc 0.7143]
+[Epoch 5], [Iter 1301/1510], [TrnLoss 0.8457], [TrnAcc 0.6786]
+[Epoch 5], [Iter 1401/1510], [TrnLoss 0.5257], [TrnAcc 0.7857]
+[Epoch 5], [Iter 1501/1510], [TrnLoss 0.7975], [TrnAcc 0.6429]
+Computing val stats..
+-------
+[Epoch 5], [Train Acc 0.7564, [Val Acc 0.237], [Val Loss 2.246]
+
+=========
+Training Epoch 6 (densenet121)
+=========
+
+[Epoch 6], [Iter 1/1510], [TrnLoss 0.71], [TrnAcc 0.7143]
+[Epoch 6], [Iter 101/1510], [TrnLoss 0.5395], [TrnAcc 0.8214]
+[Epoch 6], [Iter 201/1510], [TrnLoss 0.5152], [TrnAcc 0.8214]
+[Epoch 6], [Iter 301/1510], [TrnLoss 0.9212], [TrnAcc 0.7143]
+[Epoch 6], [Iter 401/1510], [TrnLoss 1.061], [TrnAcc 0.7143]
+[Epoch 6], [Iter 501/1510], [TrnLoss 0.4885], [TrnAcc 0.8571]
+[Epoch 6], [Iter 601/1510], [TrnLoss 0.4876], [TrnAcc 0.8571]
+[Epoch 6], [Iter 701/1510], [TrnLoss 0.6752], [TrnAcc 0.7143]
+[Epoch 6], [Iter 801/1510], [TrnLoss 0.5731], [TrnAcc 0.75]
+[Epoch 6], [Iter 901/1510], [TrnLoss 0.6532], [TrnAcc 0.75]
+[Epoch 6], [Iter 1001/1510], [TrnLoss 0.6382], [TrnAcc 0.7143]
+[Epoch 6], [Iter 1101/1510], [TrnLoss 0.8131], [TrnAcc 0.7143]
+[Epoch 6], [Iter 1201/1510], [TrnLoss 0.7612], [TrnAcc 0.75]
+[Epoch 6], [Iter 1301/1510], [TrnLoss 0.7904], [TrnAcc 0.6786]
+[Epoch 6], [Iter 1401/1510], [TrnLoss 0.4885], [TrnAcc 0.8929]
+[Epoch 6], [Iter 1501/1510], [TrnLoss 0.5509], [TrnAcc 0.75]
+Computing val stats..
+-------
+[Epoch 6], [Train Acc 0.7664, [Val Acc 0.2614], [Val Loss 2.323]
+
+=========
+Training Epoch 7 (densenet121)
+=========
+
+[Epoch 7], [Iter 1/1510], [TrnLoss 0.575], [TrnAcc 0.8214]
+[Epoch 7], [Iter 101/1510], [TrnLoss 0.6302], [TrnAcc 0.75]
+[Epoch 7], [Iter 201/1510], [TrnLoss 0.5534], [TrnAcc 0.7857]
+[Epoch 7], [Iter 301/1510], [TrnLoss 0.8829], [TrnAcc 0.6429]
+[Epoch 7], [Iter 401/1510], [TrnLoss 0.5756], [TrnAcc 0.7857]
+[Epoch 7], [Iter 501/1510], [TrnLoss 0.5283], [TrnAcc 0.8214]
+[Epoch 7], [Iter 601/1510], [TrnLoss 0.4528], [TrnAcc 0.8571]
+[Epoch 7], [Iter 701/1510], [TrnLoss 0.6822], [TrnAcc 0.6786]
+[Epoch 7], [Iter 801/1510], [TrnLoss 0.6153], [TrnAcc 0.7857]
+[Epoch 7], [Iter 901/1510], [TrnLoss 0.6713], [TrnAcc 0.8214]
+[Epoch 7], [Iter 1001/1510], [TrnLoss 0.6555], [TrnAcc 0.7857]
+[Epoch 7], [Iter 1101/1510], [TrnLoss 0.3977], [TrnAcc 0.8929]
+[Epoch 7], [Iter 1201/1510], [TrnLoss 0.4275], [TrnAcc 0.8571]
+[Epoch 7], [Iter 1301/1510], [TrnLoss 0.6193], [TrnAcc 0.75]
+[Epoch 7], [Iter 1401/1510], [TrnLoss 0.5849], [TrnAcc 0.8571]
+[Epoch 7], [Iter 1501/1510], [TrnLoss 0.597], [TrnAcc 0.8214]
+Computing val stats..
+-------
+[Epoch 7], [Train Acc 0.7746, [Val Acc 0.2449], [Val Loss 2.353]
+
+=========
+Training Epoch 8 (densenet121)
+=========
+
+[Epoch 8], [Iter 1/1510], [TrnLoss 0.734], [TrnAcc 0.7143]
+[Epoch 8], [Iter 101/1510], [TrnLoss 0.9403], [TrnAcc 0.7143]
+[Epoch 8], [Iter 201/1510], [TrnLoss 0.4565], [TrnAcc 0.7857]
+[Epoch 8], [Iter 301/1510], [TrnLoss 0.7973], [TrnAcc 0.6429]
+[Epoch 8], [Iter 401/1510], [TrnLoss 0.3224], [TrnAcc 0.8929]
+[Epoch 8], [Iter 501/1510], [TrnLoss 0.8108], [TrnAcc 0.7857]
+[Epoch 8], [Iter 601/1510], [TrnLoss 0.2396], [TrnAcc 1.0]
+[Epoch 8], [Iter 701/1510], [TrnLoss 0.7635], [TrnAcc 0.7143]
+[Epoch 8], [Iter 801/1510], [TrnLoss 0.6518], [TrnAcc 0.8571]
+[Epoch 8], [Iter 901/1510], [TrnLoss 0.4691], [TrnAcc 0.8214]
+[Epoch 8], [Iter 1001/1510], [TrnLoss 0.9282], [TrnAcc 0.7143]
+[Epoch 8], [Iter 1101/1510], [TrnLoss 0.6888], [TrnAcc 0.75]
+[Epoch 8], [Iter 1201/1510], [TrnLoss 0.5469], [TrnAcc 0.7857]
+[Epoch 8], [Iter 1301/1510], [TrnLoss 0.5376], [TrnAcc 0.8214]
+[Epoch 8], [Iter 1401/1510], [TrnLoss 0.7969], [TrnAcc 0.6071]
+[Epoch 8], [Iter 1501/1510], [TrnLoss 0.8617], [TrnAcc 0.5714]
+Computing val stats..
+-------
+[Epoch 8], [Train Acc 0.7727, [Val Acc 0.2698], [Val Loss 2.327]
+
+=========
+Training Epoch 9 (densenet121)
+=========
+
+[Epoch 9], [Iter 1/1510], [TrnLoss 0.9204], [TrnAcc 0.6786]
+[Epoch 9], [Iter 101/1510], [TrnLoss 0.6369], [TrnAcc 0.75]
+[Epoch 9], [Iter 201/1510], [TrnLoss 0.5682], [TrnAcc 0.8214]
+[Epoch 9], [Iter 301/1510], [TrnLoss 0.8186], [TrnAcc 0.7143]
+[Epoch 9], [Iter 401/1510], [TrnLoss 0.6729], [TrnAcc 0.6786]
+[Epoch 9], [Iter 501/1510], [TrnLoss 0.7965], [TrnAcc 0.5714]
+[Epoch 9], [Iter 601/1510], [TrnLoss 0.5363], [TrnAcc 0.7857]
+[Epoch 9], [Iter 701/1510], [TrnLoss 0.4752], [TrnAcc 0.8571]
+[Epoch 9], [Iter 801/1510], [TrnLoss 0.8122], [TrnAcc 0.7143]
+[Epoch 9], [Iter 901/1510], [TrnLoss 0.7228], [TrnAcc 0.75]
+[Epoch 9], [Iter 1001/1510], [TrnLoss 0.6242], [TrnAcc 0.75]
+[Epoch 9], [Iter 1101/1510], [TrnLoss 0.507], [TrnAcc 0.8214]
+[Epoch 9], [Iter 1201/1510], [TrnLoss 0.5586], [TrnAcc 0.8214]
+[Epoch 9], [Iter 1301/1510], [TrnLoss 0.8708], [TrnAcc 0.6786]
+[Epoch 9], [Iter 1401/1510], [TrnLoss 0.7617], [TrnAcc 0.7143]
+[Epoch 9], [Iter 1501/1510], [TrnLoss 0.5809], [TrnAcc 0.7143]
+Computing val stats..
+-------
+[Epoch 9], [Train Acc 0.7713, [Val Acc 0.2703], [Val Loss 2.44]
+
+=========
+Training Epoch 10 (densenet121)
+=========
+
+[Epoch 10], [Iter 1/1510], [TrnLoss 0.5535], [TrnAcc 0.7857]
+[Epoch 10], [Iter 101/1510], [TrnLoss 0.8181], [TrnAcc 0.75]
+[Epoch 10], [Iter 201/1510], [TrnLoss 0.7003], [TrnAcc 0.6786]
+[Epoch 10], [Iter 301/1510], [TrnLoss 0.6341], [TrnAcc 0.75]
+[Epoch 10], [Iter 401/1510], [TrnLoss 0.3246], [TrnAcc 0.9286]
+[Epoch 10], [Iter 501/1510], [TrnLoss 0.7151], [TrnAcc 0.75]
+[Epoch 10], [Iter 601/1510], [TrnLoss 0.4183], [TrnAcc 0.8214]
+[Epoch 10], [Iter 701/1510], [TrnLoss 0.2798], [TrnAcc 0.9643]
+[Epoch 10], [Iter 801/1510], [TrnLoss 0.6291], [TrnAcc 0.75]
+[Epoch 10], [Iter 901/1510], [TrnLoss 0.4084], [TrnAcc 0.9286]
+[Epoch 10], [Iter 1001/1510], [TrnLoss 1.11], [TrnAcc 0.6786]
+[Epoch 10], [Iter 1101/1510], [TrnLoss 0.3614], [TrnAcc 0.8571]
+[Epoch 10], [Iter 1201/1510], [TrnLoss 0.609], [TrnAcc 0.7857]
+[Epoch 10], [Iter 1301/1510], [TrnLoss 0.4736], [TrnAcc 0.8571]
+[Epoch 10], [Iter 1401/1510], [TrnLoss 0.7546], [TrnAcc 0.6786]
+[Epoch 10], [Iter 1501/1510], [TrnLoss 0.6059], [TrnAcc 0.7857]
+Computing val stats..
+-------
+[Epoch 10], [Train Acc 0.7693, [Val Acc 0.3012], [Val Loss 2.314]
+
+=========
+Training Epoch 11 (densenet121)
+=========
+
+[Epoch 11], [Iter 1/1510], [TrnLoss 0.6666], [TrnAcc 0.8214]
+[Epoch 11], [Iter 101/1510], [TrnLoss 0.6878], [TrnAcc 0.7143]
+[Epoch 11], [Iter 201/1510], [TrnLoss 0.6391], [TrnAcc 0.75]
+[Epoch 11], [Iter 301/1510], [TrnLoss 0.8734], [TrnAcc 0.7143]
+[Epoch 11], [Iter 401/1510], [TrnLoss 0.7466], [TrnAcc 0.7857]
+[Epoch 11], [Iter 501/1510], [TrnLoss 0.6694], [TrnAcc 0.7143]
+[Epoch 11], [Iter 601/1510], [TrnLoss 0.5569], [TrnAcc 0.75]
+[Epoch 11], [Iter 701/1510], [TrnLoss 0.8295], [TrnAcc 0.7857]
+[Epoch 11], [Iter 801/1510], [TrnLoss 0.2829], [TrnAcc 0.9286]
+[Epoch 11], [Iter 901/1510], [TrnLoss 0.7723], [TrnAcc 0.7143]
+[Epoch 11], [Iter 1001/1510], [TrnLoss 0.569], [TrnAcc 0.7857]
+[Epoch 11], [Iter 1101/1510], [TrnLoss 0.3768], [TrnAcc 0.8571]
+[Epoch 11], [Iter 1201/1510], [TrnLoss 0.4625], [TrnAcc 0.8571]
+[Epoch 11], [Iter 1301/1510], [TrnLoss 0.7126], [TrnAcc 0.7143]
+[Epoch 11], [Iter 1401/1510], [TrnLoss 0.7003], [TrnAcc 0.7143]
+[Epoch 11], [Iter 1501/1510], [TrnLoss 0.5613], [TrnAcc 0.7857]
+Computing val stats..
+-------
+[Epoch 11], [Train Acc 0.7739, [Val Acc 0.2569], [Val Loss 2.338]
+
+=========
+Training Epoch 12 (densenet121)
+=========
+
+[Epoch 12], [Iter 1/1510], [TrnLoss 0.6017], [TrnAcc 0.75]
+[Epoch 12], [Iter 101/1510], [TrnLoss 0.592], [TrnAcc 0.7857]
+[Epoch 12], [Iter 201/1510], [TrnLoss 0.6926], [TrnAcc 0.7857]
+[Epoch 12], [Iter 301/1510], [TrnLoss 0.5963], [TrnAcc 0.7857]
+[Epoch 12], [Iter 401/1510], [TrnLoss 0.8061], [TrnAcc 0.75]
+[Epoch 12], [Iter 501/1510], [TrnLoss 0.66], [TrnAcc 0.7857]
+[Epoch 12], [Iter 601/1510], [TrnLoss 0.5481], [TrnAcc 0.75]
+[Epoch 12], [Iter 701/1510], [TrnLoss 0.3107], [TrnAcc 0.8929]
+[Epoch 12], [Iter 801/1510], [TrnLoss 0.5259], [TrnAcc 0.7857]
+[Epoch 12], [Iter 901/1510], [TrnLoss 0.4651], [TrnAcc 0.8929]
+[Epoch 12], [Iter 1001/1510], [TrnLoss 0.5721], [TrnAcc 0.8214]
+[Epoch 12], [Iter 1101/1510], [TrnLoss 0.5303], [TrnAcc 0.8571]
+[Epoch 12], [Iter 1201/1510], [TrnLoss 0.9108], [TrnAcc 0.6786]
+[Epoch 12], [Iter 1301/1510], [TrnLoss 0.7481], [TrnAcc 0.75]
+[Epoch 12], [Iter 1401/1510], [TrnLoss 0.5471], [TrnAcc 0.8214]
+[Epoch 12], [Iter 1501/1510], [TrnLoss 0.6679], [TrnAcc 0.75]
+Computing val stats..
+-------
+[Epoch 12], [Train Acc 0.7805, [Val Acc 0.2663], [Val Loss 2.338]
+
+=========
+Training Epoch 13 (densenet121)
+=========
+
+[Epoch 13], [Iter 1/1510], [TrnLoss 0.7564], [TrnAcc 0.6786]
+[Epoch 13], [Iter 101/1510], [TrnLoss 0.731], [TrnAcc 0.75]
+[Epoch 13], [Iter 201/1510], [TrnLoss 0.6685], [TrnAcc 0.7857]
+[Epoch 13], [Iter 301/1510], [TrnLoss 0.8277], [TrnAcc 0.7143]
+[Epoch 13], [Iter 401/1510], [TrnLoss 0.6654], [TrnAcc 0.7143]
+[Epoch 13], [Iter 501/1510], [TrnLoss 0.7215], [TrnAcc 0.75]
+[Epoch 13], [Iter 601/1510], [TrnLoss 0.4489], [TrnAcc 0.8214]
+[Epoch 13], [Iter 701/1510], [TrnLoss 0.3139], [TrnAcc 0.8929]
+[Epoch 13], [Iter 801/1510], [TrnLoss 0.6112], [TrnAcc 0.7857]
+[Epoch 13], [Iter 901/1510], [TrnLoss 0.5219], [TrnAcc 0.8214]
+[Epoch 13], [Iter 1001/1510], [TrnLoss 0.9344], [TrnAcc 0.6071]
+[Epoch 13], [Iter 1101/1510], [TrnLoss 0.5221], [TrnAcc 0.75]
+[Epoch 13], [Iter 1201/1510], [TrnLoss 0.5285], [TrnAcc 0.7857]
+[Epoch 13], [Iter 1301/1510], [TrnLoss 0.736], [TrnAcc 0.7143]
+[Epoch 13], [Iter 1401/1510], [TrnLoss 0.7774], [TrnAcc 0.75]
+[Epoch 13], [Iter 1501/1510], [TrnLoss 0.5578], [TrnAcc 0.8214]
+Computing val stats..
+-------
+[Epoch 13], [Train Acc 0.7831, [Val Acc 0.2363], [Val Loss 2.454]
+
+=========
+Training Epoch 14 (densenet121)
+=========
+
+[Epoch 14], [Iter 1/1510], [TrnLoss 0.9586], [TrnAcc 0.5714]
+[Epoch 14], [Iter 101/1510], [TrnLoss 0.6523], [TrnAcc 0.75]
+[Epoch 14], [Iter 201/1510], [TrnLoss 0.3534], [TrnAcc 0.8929]
+[Epoch 14], [Iter 301/1510], [TrnLoss 0.7475], [TrnAcc 0.7143]
+[Epoch 14], [Iter 401/1510], [TrnLoss 0.6573], [TrnAcc 0.75]
+[Epoch 14], [Iter 501/1510], [TrnLoss 0.4014], [TrnAcc 0.8571]
+[Epoch 14], [Iter 601/1510], [TrnLoss 0.465], [TrnAcc 0.8214]
+[Epoch 14], [Iter 701/1510], [TrnLoss 0.5666], [TrnAcc 0.8571]
+[Epoch 14], [Iter 801/1510], [TrnLoss 0.969], [TrnAcc 0.6786]
+[Epoch 14], [Iter 901/1510], [TrnLoss 0.5259], [TrnAcc 0.7857]
+[Epoch 14], [Iter 1001/1510], [TrnLoss 0.5727], [TrnAcc 0.8571]
+[Epoch 14], [Iter 1101/1510], [TrnLoss 0.6029], [TrnAcc 0.7857]
+[Epoch 14], [Iter 1201/1510], [TrnLoss 0.6548], [TrnAcc 0.75]
+[Epoch 14], [Iter 1301/1510], [TrnLoss 0.7347], [TrnAcc 0.6429]
+[Epoch 14], [Iter 1401/1510], [TrnLoss 0.4876], [TrnAcc 0.7857]
+[Epoch 14], [Iter 1501/1510], [TrnLoss 0.8072], [TrnAcc 0.6786]
+Computing val stats..
+-------
+[Epoch 14], [Train Acc 0.7853, [Val Acc 0.2417], [Val Loss 2.373]
+
+=========
+Training Epoch 15 (densenet121)
+=========
+
+[Epoch 15], [Iter 1/1510], [TrnLoss 0.6394], [TrnAcc 0.6429]
+[Epoch 15], [Iter 101/1510], [TrnLoss 0.5335], [TrnAcc 0.75]
+[Epoch 15], [Iter 201/1510], [TrnLoss 0.6023], [TrnAcc 0.75]
+[Epoch 15], [Iter 301/1510], [TrnLoss 0.8635], [TrnAcc 0.6786]
+[Epoch 15], [Iter 401/1510], [TrnLoss 0.4307], [TrnAcc 0.8929]
+[Epoch 15], [Iter 501/1510], [TrnLoss 0.5138], [TrnAcc 0.7857]
+[Epoch 15], [Iter 601/1510], [TrnLoss 0.3773], [TrnAcc 0.8571]
+[Epoch 15], [Iter 701/1510], [TrnLoss 0.4015], [TrnAcc 0.8929]
+[Epoch 15], [Iter 801/1510], [TrnLoss 0.4813], [TrnAcc 0.8571]
+[Epoch 15], [Iter 901/1510], [TrnLoss 0.5151], [TrnAcc 0.7857]
+[Epoch 15], [Iter 1001/1510], [TrnLoss 0.5428], [TrnAcc 0.8214]
+[Epoch 15], [Iter 1101/1510], [TrnLoss 0.4896], [TrnAcc 0.8571]
+[Epoch 15], [Iter 1201/1510], [TrnLoss 0.5821], [TrnAcc 0.8214]
+[Epoch 15], [Iter 1301/1510], [TrnLoss 0.5174], [TrnAcc 0.8571]
+[Epoch 15], [Iter 1401/1510], [TrnLoss 0.6978], [TrnAcc 0.7143]
+[Epoch 15], [Iter 1501/1510], [TrnLoss 0.4997], [TrnAcc 0.8571]
+Computing val stats..
+-------
+[Epoch 15], [Train Acc 0.7898, [Val Acc 0.2323], [Val Loss 2.402]
+
+=========
+Training Epoch 16 (densenet121)
+=========
+
+[Epoch 16], [Iter 1/1510], [TrnLoss 0.8259], [TrnAcc 0.6786]
+[Epoch 16], [Iter 101/1510], [TrnLoss 0.6928], [TrnAcc 0.6786]
+[Epoch 16], [Iter 201/1510], [TrnLoss 0.5988], [TrnAcc 0.7857]
+[Epoch 16], [Iter 301/1510], [TrnLoss 0.6708], [TrnAcc 0.6429]
+[Epoch 16], [Iter 401/1510], [TrnLoss 0.3915], [TrnAcc 0.8571]
+[Epoch 16], [Iter 501/1510], [TrnLoss 0.3123], [TrnAcc 0.9643]
+[Epoch 16], [Iter 601/1510], [TrnLoss 0.3868], [TrnAcc 0.8929]
+[Epoch 16], [Iter 701/1510], [TrnLoss 0.3681], [TrnAcc 0.8571]
+[Epoch 16], [Iter 801/1510], [TrnLoss 0.6445], [TrnAcc 0.8214]
+[Epoch 16], [Iter 901/1510], [TrnLoss 0.4186], [TrnAcc 0.8571]
+[Epoch 16], [Iter 1001/1510], [TrnLoss 0.4752], [TrnAcc 0.8214]
+[Epoch 16], [Iter 1101/1510], [TrnLoss 0.6067], [TrnAcc 0.75]
+[Epoch 16], [Iter 1201/1510], [TrnLoss 0.5182], [TrnAcc 0.8571]
+[Epoch 16], [Iter 1301/1510], [TrnLoss 0.5681], [TrnAcc 0.6786]
+[Epoch 16], [Iter 1401/1510], [TrnLoss 0.6116], [TrnAcc 0.75]
+[Epoch 16], [Iter 1501/1510], [TrnLoss 0.6097], [TrnAcc 0.7143]
+Computing val stats..
+-------
+[Epoch 16], [Train Acc 0.7878, [Val Acc 0.239], [Val Loss 2.458]
+
+=========
+Training Epoch 17 (densenet121)
+=========
+
+[Epoch 17], [Iter 1/1510], [TrnLoss 0.5488], [TrnAcc 0.75]
+[Epoch 17], [Iter 101/1510], [TrnLoss 0.596], [TrnAcc 0.75]
+[Epoch 17], [Iter 201/1510], [TrnLoss 1.026], [TrnAcc 0.6429]
+[Epoch 17], [Iter 301/1510], [TrnLoss 0.6128], [TrnAcc 0.75]
+[Epoch 17], [Iter 401/1510], [TrnLoss 0.3739], [TrnAcc 0.8929]
+[Epoch 17], [Iter 501/1510], [TrnLoss 0.6038], [TrnAcc 0.75]
+[Epoch 17], [Iter 601/1510], [TrnLoss 0.2715], [TrnAcc 0.8929]
+[Epoch 17], [Iter 701/1510], [TrnLoss 0.687], [TrnAcc 0.6071]
+[Epoch 17], [Iter 801/1510], [TrnLoss 0.4755], [TrnAcc 0.7857]
+[Epoch 17], [Iter 901/1510], [TrnLoss 0.4202], [TrnAcc 0.8929]
+[Epoch 17], [Iter 1001/1510], [TrnLoss 0.5348], [TrnAcc 0.8571]
+[Epoch 17], [Iter 1101/1510], [TrnLoss 0.4213], [TrnAcc 0.8214]
+[Epoch 17], [Iter 1201/1510], [TrnLoss 0.552], [TrnAcc 0.7857]
+[Epoch 17], [Iter 1301/1510], [TrnLoss 0.6529], [TrnAcc 0.6786]
+[Epoch 17], [Iter 1401/1510], [TrnLoss 0.8263], [TrnAcc 0.7143]
+[Epoch 17], [Iter 1501/1510], [TrnLoss 0.5758], [TrnAcc 0.7857]
+Computing val stats..
+-------
+[Epoch 17], [Train Acc 0.7875, [Val Acc 0.2757], [Val Loss 2.346]
+
+=========
+Training Epoch 18 (densenet121)
+=========
+
+[Epoch 18], [Iter 1/1510], [TrnLoss 0.4913], [TrnAcc 0.8214]
+[Epoch 18], [Iter 101/1510], [TrnLoss 0.6261], [TrnAcc 0.7857]
+[Epoch 18], [Iter 201/1510], [TrnLoss 0.3959], [TrnAcc 0.8571]
+[Epoch 18], [Iter 301/1510], [TrnLoss 0.7734], [TrnAcc 0.7143]
+[Epoch 18], [Iter 401/1510], [TrnLoss 0.3734], [TrnAcc 0.8929]
+[Epoch 18], [Iter 501/1510], [TrnLoss 0.3978], [TrnAcc 0.8929]
+[Epoch 18], [Iter 601/1510], [TrnLoss 0.2372], [TrnAcc 1.0]
+[Epoch 18], [Iter 701/1510], [TrnLoss 0.5965], [TrnAcc 0.75]
+[Epoch 18], [Iter 801/1510], [TrnLoss 0.3225], [TrnAcc 0.8571]
+[Epoch 18], [Iter 901/1510], [TrnLoss 0.5525], [TrnAcc 0.8214]
+[Epoch 18], [Iter 1001/1510], [TrnLoss 0.4512], [TrnAcc 0.8214]
+[Epoch 18], [Iter 1101/1510], [TrnLoss 0.3654], [TrnAcc 0.8929]
+[Epoch 18], [Iter 1201/1510], [TrnLoss 0.5968], [TrnAcc 0.75]
+[Epoch 18], [Iter 1301/1510], [TrnLoss 0.8431], [TrnAcc 0.6071]
+[Epoch 18], [Iter 1401/1510], [TrnLoss 0.5128], [TrnAcc 0.8571]
+[Epoch 18], [Iter 1501/1510], [TrnLoss 0.5257], [TrnAcc 0.7857]
+Computing val stats..
+-------
+[Epoch 18], [Train Acc 0.7904, [Val Acc 0.2617], [Val Loss 2.441]
+
+=========
+Training Epoch 19 (densenet121)
+=========
+
+[Epoch 19], [Iter 1/1510], [TrnLoss 0.7762], [TrnAcc 0.75]
+[Epoch 19], [Iter 101/1510], [TrnLoss 0.5938], [TrnAcc 0.7143]
+[Epoch 19], [Iter 201/1510], [TrnLoss 0.5716], [TrnAcc 0.8214]
+[Epoch 19], [Iter 301/1510], [TrnLoss 0.8383], [TrnAcc 0.7143]
+[Epoch 19], [Iter 401/1510], [TrnLoss 0.3948], [TrnAcc 0.8571]
+[Epoch 19], [Iter 501/1510], [TrnLoss 0.5801], [TrnAcc 0.7143]
+[Epoch 19], [Iter 601/1510], [TrnLoss 0.4219], [TrnAcc 0.8571]
+[Epoch 19], [Iter 701/1510], [TrnLoss 0.4702], [TrnAcc 0.7857]
+[Epoch 19], [Iter 801/1510], [TrnLoss 0.5138], [TrnAcc 0.8214]
+[Epoch 19], [Iter 901/1510], [TrnLoss 0.3651], [TrnAcc 0.8571]
+[Epoch 19], [Iter 1001/1510], [TrnLoss 0.6617], [TrnAcc 0.75]
+[Epoch 19], [Iter 1101/1510], [TrnLoss 0.4655], [TrnAcc 0.8214]
+[Epoch 19], [Iter 1201/1510], [TrnLoss 0.408], [TrnAcc 0.7857]
+[Epoch 19], [Iter 1301/1510], [TrnLoss 0.8823], [TrnAcc 0.7143]
+[Epoch 19], [Iter 1401/1510], [TrnLoss 0.6626], [TrnAcc 0.7857]
+[Epoch 19], [Iter 1501/1510], [TrnLoss 0.6093], [TrnAcc 0.75]
+Computing val stats..
+-------
+[Epoch 19], [Train Acc 0.7907, [Val Acc 0.2363], [Val Loss 2.46]
+
+=========
+Training Epoch 20 (densenet121)
+=========
+
+[Epoch 20], [Iter 1/1510], [TrnLoss 0.8314], [TrnAcc 0.6786]
+[Epoch 20], [Iter 101/1510], [TrnLoss 0.8146], [TrnAcc 0.7143]
+[Epoch 20], [Iter 201/1510], [TrnLoss 0.4419], [TrnAcc 0.8929]
+[Epoch 20], [Iter 301/1510], [TrnLoss 0.5759], [TrnAcc 0.7857]
+[Epoch 20], [Iter 401/1510], [TrnLoss 0.6111], [TrnAcc 0.7143]
+[Epoch 20], [Iter 501/1510], [TrnLoss 0.5838], [TrnAcc 0.7143]
+[Epoch 20], [Iter 601/1510], [TrnLoss 0.5715], [TrnAcc 0.7857]
+[Epoch 20], [Iter 701/1510], [TrnLoss 0.6999], [TrnAcc 0.7857]
+[Epoch 20], [Iter 801/1510], [TrnLoss 0.7484], [TrnAcc 0.6786]
+[Epoch 20], [Iter 901/1510], [TrnLoss 0.5392], [TrnAcc 0.8571]
+[Epoch 20], [Iter 1001/1510], [TrnLoss 0.6411], [TrnAcc 0.8214]
+[Epoch 20], [Iter 1101/1510], [TrnLoss 0.6851], [TrnAcc 0.75]
+[Epoch 20], [Iter 1201/1510], [TrnLoss 0.5018], [TrnAcc 0.8571]
+[Epoch 20], [Iter 1301/1510], [TrnLoss 0.7282], [TrnAcc 0.7857]
+[Epoch 20], [Iter 1401/1510], [TrnLoss 0.7211], [TrnAcc 0.75]
+[Epoch 20], [Iter 1501/1510], [TrnLoss 0.6608], [TrnAcc 0.75]
+Computing val stats..
+-------
+[Epoch 20], [Train Acc 0.7908, [Val Acc 0.2536], [Val Loss 2.368]
+
+=========
+Training Epoch 21 (densenet121)
+=========
+
+[Epoch 21], [Iter 1/1510], [TrnLoss 0.5436], [TrnAcc 0.7857]
+[Epoch 21], [Iter 101/1510], [TrnLoss 0.5941], [TrnAcc 0.7857]
+[Epoch 21], [Iter 201/1510], [TrnLoss 0.6271], [TrnAcc 0.7857]
+[Epoch 21], [Iter 301/1510], [TrnLoss 0.6857], [TrnAcc 0.75]
+[Epoch 21], [Iter 401/1510], [TrnLoss 0.5446], [TrnAcc 0.75]
+[Epoch 21], [Iter 501/1510], [TrnLoss 0.4058], [TrnAcc 0.7857]
+[Epoch 21], [Iter 601/1510], [TrnLoss 0.3731], [TrnAcc 0.8214]
+[Epoch 21], [Iter 701/1510], [TrnLoss 0.6516], [TrnAcc 0.75]
+[Epoch 21], [Iter 801/1510], [TrnLoss 0.4684], [TrnAcc 0.8571]
+[Epoch 21], [Iter 901/1510], [TrnLoss 0.4123], [TrnAcc 0.8571]
+[Epoch 21], [Iter 1001/1510], [TrnLoss 0.4847], [TrnAcc 0.8929]
+[Epoch 21], [Iter 1101/1510], [TrnLoss 0.4963], [TrnAcc 0.8214]
+[Epoch 21], [Iter 1201/1510], [TrnLoss 0.3683], [TrnAcc 0.8571]
+[Epoch 21], [Iter 1301/1510], [TrnLoss 0.7359], [TrnAcc 0.7143]
+[Epoch 21], [Iter 1401/1510], [TrnLoss 0.6131], [TrnAcc 0.7857]
+[Epoch 21], [Iter 1501/1510], [TrnLoss 0.5453], [TrnAcc 0.7857]
+Computing val stats..
+-------
+[Epoch 21], [Train Acc 0.7933, [Val Acc 0.2278], [Val Loss 2.418]
+
+=========
+Training Epoch 22 (densenet121)
+=========
+
+[Epoch 22], [Iter 1/1510], [TrnLoss 0.9085], [TrnAcc 0.6786]
+[Epoch 22], [Iter 101/1510], [TrnLoss 0.6431], [TrnAcc 0.7143]
+[Epoch 22], [Iter 201/1510], [TrnLoss 0.6499], [TrnAcc 0.75]
+[Epoch 22], [Iter 301/1510], [TrnLoss 0.7013], [TrnAcc 0.75]
+[Epoch 22], [Iter 401/1510], [TrnLoss 0.4876], [TrnAcc 0.8571]
+[Epoch 22], [Iter 501/1510], [TrnLoss 0.4079], [TrnAcc 0.8214]
+[Epoch 22], [Iter 601/1510], [TrnLoss 0.3398], [TrnAcc 0.8929]
+[Epoch 22], [Iter 701/1510], [TrnLoss 0.5735], [TrnAcc 0.8214]
+[Epoch 22], [Iter 801/1510], [TrnLoss 0.5231], [TrnAcc 0.7143]
+[Epoch 22], [Iter 901/1510], [TrnLoss 0.475], [TrnAcc 0.7857]
+[Epoch 22], [Iter 1001/1510], [TrnLoss 0.6048], [TrnAcc 0.75]
+[Epoch 22], [Iter 1101/1510], [TrnLoss 0.3788], [TrnAcc 0.8929]
+[Epoch 22], [Iter 1201/1510], [TrnLoss 0.4123], [TrnAcc 0.8571]
+[Epoch 22], [Iter 1301/1510], [TrnLoss 0.7009], [TrnAcc 0.6786]
+[Epoch 22], [Iter 1401/1510], [TrnLoss 0.7891], [TrnAcc 0.6786]
+[Epoch 22], [Iter 1501/1510], [TrnLoss 0.6908], [TrnAcc 0.7143]
+Computing val stats..
+-------
+[Epoch 22], [Train Acc 0.7891, [Val Acc 0.2631], [Val Loss 2.318]
+
+=========
+Training Epoch 23 (densenet121)
+=========
+
+[Epoch 23], [Iter 1/1510], [TrnLoss 0.5335], [TrnAcc 0.75]
+[Epoch 23], [Iter 101/1510], [TrnLoss 0.5969], [TrnAcc 0.7143]
+[Epoch 23], [Iter 201/1510], [TrnLoss 0.6028], [TrnAcc 0.75]
+[Epoch 23], [Iter 301/1510], [TrnLoss 0.3654], [TrnAcc 0.8571]
+[Epoch 23], [Iter 401/1510], [TrnLoss 0.4638], [TrnAcc 0.8929]
+[Epoch 23], [Iter 501/1510], [TrnLoss 0.4858], [TrnAcc 0.8571]
+[Epoch 23], [Iter 601/1510], [TrnLoss 0.4712], [TrnAcc 0.8571]
+[Epoch 23], [Iter 701/1510], [TrnLoss 0.4399], [TrnAcc 0.8571]
+[Epoch 23], [Iter 801/1510], [TrnLoss 0.4784], [TrnAcc 0.8929]
+[Epoch 23], [Iter 901/1510], [TrnLoss 0.4692], [TrnAcc 0.8571]
+[Epoch 23], [Iter 1001/1510], [TrnLoss 0.6057], [TrnAcc 0.7857]
+[Epoch 23], [Iter 1101/1510], [TrnLoss 0.4059], [TrnAcc 0.8571]
+[Epoch 23], [Iter 1201/1510], [TrnLoss 0.5579], [TrnAcc 0.8571]
+[Epoch 23], [Iter 1301/1510], [TrnLoss 0.528], [TrnAcc 0.7143]
+[Epoch 23], [Iter 1401/1510], [TrnLoss 0.7948], [TrnAcc 0.6786]
+[Epoch 23], [Iter 1501/1510], [TrnLoss 0.5781], [TrnAcc 0.8571]
+Computing val stats..
+-------
+[Epoch 23], [Train Acc 0.7921, [Val Acc 0.2449], [Val Loss 2.594]
+
+=========
+Training Epoch 24 (densenet121)
+=========
+
+[Epoch 24], [Iter 1/1510], [TrnLoss 0.6924], [TrnAcc 0.7143]
+[Epoch 24], [Iter 101/1510], [TrnLoss 0.6404], [TrnAcc 0.7857]
+[Epoch 24], [Iter 201/1510], [TrnLoss 0.4198], [TrnAcc 0.8571]
+[Epoch 24], [Iter 301/1510], [TrnLoss 0.5634], [TrnAcc 0.8214]
+[Epoch 24], [Iter 401/1510], [TrnLoss 0.3944], [TrnAcc 0.9286]
+[Epoch 24], [Iter 501/1510], [TrnLoss 0.9354], [TrnAcc 0.6071]
+[Epoch 24], [Iter 601/1510], [TrnLoss 0.5068], [TrnAcc 0.8214]
+[Epoch 24], [Iter 701/1510], [TrnLoss 0.3732], [TrnAcc 0.8929]
+[Epoch 24], [Iter 801/1510], [TrnLoss 0.5818], [TrnAcc 0.7857]
+[Epoch 24], [Iter 901/1510], [TrnLoss 0.7644], [TrnAcc 0.6786]
+[Epoch 24], [Iter 1001/1510], [TrnLoss 0.4067], [TrnAcc 0.8214]
+[Epoch 24], [Iter 1101/1510], [TrnLoss 0.534], [TrnAcc 0.8571]
+[Epoch 24], [Iter 1201/1510], [TrnLoss 0.463], [TrnAcc 0.8571]
+[Epoch 24], [Iter 1301/1510], [TrnLoss 0.5901], [TrnAcc 0.8214]
+[Epoch 24], [Iter 1401/1510], [TrnLoss 0.5911], [TrnAcc 0.75]
+[Epoch 24], [Iter 1501/1510], [TrnLoss 0.4668], [TrnAcc 0.8929]
+Computing val stats..
+-------
+[Epoch 24], [Train Acc 0.7924, [Val Acc 0.2675], [Val Loss 2.353]
+
+=========
+Training Epoch 25 (densenet121)
+=========
+
+[Epoch 25], [Iter 1/1510], [TrnLoss 0.4883], [TrnAcc 0.8214]
+[Epoch 25], [Iter 101/1510], [TrnLoss 0.722], [TrnAcc 0.75]
+[Epoch 25], [Iter 201/1510], [TrnLoss 1.05], [TrnAcc 0.6071]
+[Epoch 25], [Iter 301/1510], [TrnLoss 0.5467], [TrnAcc 0.7857]
+[Epoch 25], [Iter 401/1510], [TrnLoss 0.3491], [TrnAcc 0.8929]
+[Epoch 25], [Iter 501/1510], [TrnLoss 0.5654], [TrnAcc 0.75]
+[Epoch 25], [Iter 601/1510], [TrnLoss 0.7423], [TrnAcc 0.6786]
+[Epoch 25], [Iter 701/1510], [TrnLoss 0.4242], [TrnAcc 0.8571]
+[Epoch 25], [Iter 801/1510], [TrnLoss 0.4697], [TrnAcc 0.8571]
+[Epoch 25], [Iter 901/1510], [TrnLoss 0.4318], [TrnAcc 0.8214]
+[Epoch 25], [Iter 1001/1510], [TrnLoss 0.4931], [TrnAcc 0.8571]
+[Epoch 25], [Iter 1101/1510], [TrnLoss 0.4304], [TrnAcc 0.8571]
+[Epoch 25], [Iter 1201/1510], [TrnLoss 0.57], [TrnAcc 0.7857]
+[Epoch 25], [Iter 1301/1510], [TrnLoss 1.0], [TrnAcc 0.5357]
+[Epoch 25], [Iter 1401/1510], [TrnLoss 0.5951], [TrnAcc 0.7857]
+[Epoch 25], [Iter 1501/1510], [TrnLoss 0.8097], [TrnAcc 0.7143]
+Computing val stats..
+-------
+[Epoch 25], [Train Acc 0.7942, [Val Acc 0.237], [Val Loss 2.407]
+
+=========
+Training Epoch 26 (densenet121)
+=========
+
+[Epoch 26], [Iter 1/1510], [TrnLoss 0.7162], [TrnAcc 0.6429]
+[Epoch 26], [Iter 101/1510], [TrnLoss 0.6619], [TrnAcc 0.75]
+[Epoch 26], [Iter 201/1510], [TrnLoss 0.531], [TrnAcc 0.8214]
+[Epoch 26], [Iter 301/1510], [TrnLoss 0.7625], [TrnAcc 0.75]
+[Epoch 26], [Iter 401/1510], [TrnLoss 0.442], [TrnAcc 0.7857]
+[Epoch 26], [Iter 501/1510], [TrnLoss 0.5199], [TrnAcc 0.7857]
+[Epoch 26], [Iter 601/1510], [TrnLoss 0.3747], [TrnAcc 0.9286]
+[Epoch 26], [Iter 701/1510], [TrnLoss 0.4372], [TrnAcc 0.8571]
+[Epoch 26], [Iter 801/1510], [TrnLoss 0.5012], [TrnAcc 0.8214]
+[Epoch 26], [Iter 901/1510], [TrnLoss 0.3749], [TrnAcc 0.9286]
+[Epoch 26], [Iter 1001/1510], [TrnLoss 0.7245], [TrnAcc 0.75]
+[Epoch 26], [Iter 1101/1510], [TrnLoss 0.4586], [TrnAcc 0.8214]
+[Epoch 26], [Iter 1201/1510], [TrnLoss 0.5886], [TrnAcc 0.7857]
+[Epoch 26], [Iter 1301/1510], [TrnLoss 0.6406], [TrnAcc 0.7143]
+[Epoch 26], [Iter 1401/1510], [TrnLoss 0.5245], [TrnAcc 0.8214]
+[Epoch 26], [Iter 1501/1510], [TrnLoss 0.5388], [TrnAcc 0.8214]
+Computing val stats..
+-------
+[Epoch 26], [Train Acc 0.7984, [Val Acc 0.2477], [Val Loss 2.4]
+
+=========
+Training Epoch 27 (densenet121)
+=========
+
+[Epoch 27], [Iter 1/1510], [TrnLoss 0.6547], [TrnAcc 0.7143]
+[Epoch 27], [Iter 101/1510], [TrnLoss 0.6969], [TrnAcc 0.75]
+[Epoch 27], [Iter 201/1510], [TrnLoss 0.6634], [TrnAcc 0.7857]
+[Epoch 27], [Iter 301/1510], [TrnLoss 0.7303], [TrnAcc 0.8214]
+[Epoch 27], [Iter 401/1510], [TrnLoss 0.272], [TrnAcc 0.9643]
+[Epoch 27], [Iter 501/1510], [TrnLoss 0.4755], [TrnAcc 0.8214]
+[Epoch 27], [Iter 601/1510], [TrnLoss 0.7263], [TrnAcc 0.75]
+[Epoch 27], [Iter 701/1510], [TrnLoss 0.4872], [TrnAcc 0.8214]
+[Epoch 27], [Iter 801/1510], [TrnLoss 0.4787], [TrnAcc 0.8929]
+[Epoch 27], [Iter 901/1510], [TrnLoss 0.4833], [TrnAcc 0.8214]
+[Epoch 27], [Iter 1001/1510], [TrnLoss 0.8552], [TrnAcc 0.75]
+[Epoch 27], [Iter 1101/1510], [TrnLoss 0.5512], [TrnAcc 0.8571]
+[Epoch 27], [Iter 1201/1510], [TrnLoss 0.6382], [TrnAcc 0.7857]
+[Epoch 27], [Iter 1301/1510], [TrnLoss 0.6018], [TrnAcc 0.7857]
+[Epoch 27], [Iter 1401/1510], [TrnLoss 0.3829], [TrnAcc 0.8571]
+[Epoch 27], [Iter 1501/1510], [TrnLoss 0.6615], [TrnAcc 0.75]
+Computing val stats..
+-------
+[Epoch 27], [Train Acc 0.7947, [Val Acc 0.268], [Val Loss 2.328]
+
+=========
+Training Epoch 28 (densenet121)
+=========
+
+[Epoch 28], [Iter 1/1510], [TrnLoss 0.4936], [TrnAcc 0.8214]
+[Epoch 28], [Iter 101/1510], [TrnLoss 0.5358], [TrnAcc 0.75]
+[Epoch 28], [Iter 201/1510], [TrnLoss 0.4865], [TrnAcc 0.8929]
+[Epoch 28], [Iter 301/1510], [TrnLoss 0.5142], [TrnAcc 0.8571]
+[Epoch 28], [Iter 401/1510], [TrnLoss 0.4917], [TrnAcc 0.75]
+[Epoch 28], [Iter 501/1510], [TrnLoss 0.5462], [TrnAcc 0.8214]
+[Epoch 28], [Iter 601/1510], [TrnLoss 0.477], [TrnAcc 0.7857]
+[Epoch 28], [Iter 701/1510], [TrnLoss 0.5053], [TrnAcc 0.7857]
+[Epoch 28], [Iter 801/1510], [TrnLoss 0.5953], [TrnAcc 0.8214]
+[Epoch 28], [Iter 901/1510], [TrnLoss 0.4746], [TrnAcc 0.8571]
+[Epoch 28], [Iter 1001/1510], [TrnLoss 0.3667], [TrnAcc 0.8214]
+[Epoch 28], [Iter 1101/1510], [TrnLoss 0.8273], [TrnAcc 0.6071]
+[Epoch 28], [Iter 1201/1510], [TrnLoss 0.5979], [TrnAcc 0.7143]
+[Epoch 28], [Iter 1301/1510], [TrnLoss 0.5187], [TrnAcc 0.8929]
+[Epoch 28], [Iter 1401/1510], [TrnLoss 0.5041], [TrnAcc 0.8214]
+[Epoch 28], [Iter 1501/1510], [TrnLoss 0.677], [TrnAcc 0.6786]
+Computing val stats..
+-------
+[Epoch 28], [Train Acc 0.7956, [Val Acc 0.2569], [Val Loss 2.42]
+
+=========
+Training Epoch 29 (densenet121)
+=========
+
+[Epoch 29], [Iter 1/1510], [TrnLoss 0.5338], [TrnAcc 0.7857]
+[Epoch 29], [Iter 101/1510], [TrnLoss 0.5387], [TrnAcc 0.8214]
+[Epoch 29], [Iter 201/1510], [TrnLoss 0.4554], [TrnAcc 0.8214]
+[Epoch 29], [Iter 301/1510], [TrnLoss 0.677], [TrnAcc 0.7143]
+[Epoch 29], [Iter 401/1510], [TrnLoss 0.3487], [TrnAcc 0.8571]
+[Epoch 29], [Iter 501/1510], [TrnLoss 0.7309], [TrnAcc 0.7857]
+[Epoch 29], [Iter 601/1510], [TrnLoss 0.3285], [TrnAcc 0.9286]
+[Epoch 29], [Iter 701/1510], [TrnLoss 0.311], [TrnAcc 0.9286]
+[Epoch 29], [Iter 801/1510], [TrnLoss 0.6831], [TrnAcc 0.8214]
+[Epoch 29], [Iter 901/1510], [TrnLoss 0.6284], [TrnAcc 0.75]
+[Epoch 29], [Iter 1001/1510], [TrnLoss 0.8776], [TrnAcc 0.6786]
+[Epoch 29], [Iter 1101/1510], [TrnLoss 0.6505], [TrnAcc 0.75]
+[Epoch 29], [Iter 1201/1510], [TrnLoss 0.5611], [TrnAcc 0.8571]
+[Epoch 29], [Iter 1301/1510], [TrnLoss 0.5673], [TrnAcc 0.7143]
+[Epoch 29], [Iter 1401/1510], [TrnLoss 0.7509], [TrnAcc 0.7143]
+[Epoch 29], [Iter 1501/1510], [TrnLoss 0.6831], [TrnAcc 0.75]
+Computing val stats..
+-------
+[Epoch 29], [Train Acc 0.7949, [Val Acc 0.2403], [Val Loss 2.373]
+
+=========
+Training Epoch 30 (densenet121)
+=========
+
+[Epoch 30], [Iter 1/1510], [TrnLoss 0.6793], [TrnAcc 0.6786]
+[Epoch 30], [Iter 101/1510], [TrnLoss 0.4872], [TrnAcc 0.8214]
+[Epoch 30], [Iter 201/1510], [TrnLoss 0.8521], [TrnAcc 0.6429]
+[Epoch 30], [Iter 301/1510], [TrnLoss 0.9277], [TrnAcc 0.6786]
+[Epoch 30], [Iter 401/1510], [TrnLoss 0.4354], [TrnAcc 0.8571]
+[Epoch 30], [Iter 501/1510], [TrnLoss 0.5808], [TrnAcc 0.8214]
+[Epoch 30], [Iter 601/1510], [TrnLoss 0.8266], [TrnAcc 0.6786]
+[Epoch 30], [Iter 701/1510], [TrnLoss 0.3417], [TrnAcc 0.9643]
+[Epoch 30], [Iter 801/1510], [TrnLoss 0.4376], [TrnAcc 0.8571]
+[Epoch 30], [Iter 901/1510], [TrnLoss 0.5738], [TrnAcc 0.7857]
+[Epoch 30], [Iter 1001/1510], [TrnLoss 0.5752], [TrnAcc 0.7857]
+[Epoch 30], [Iter 1101/1510], [TrnLoss 0.4506], [TrnAcc 0.7857]
+[Epoch 30], [Iter 1201/1510], [TrnLoss 0.5007], [TrnAcc 0.7857]
+[Epoch 30], [Iter 1301/1510], [TrnLoss 0.5722], [TrnAcc 0.7857]
+[Epoch 30], [Iter 1401/1510], [TrnLoss 0.7512], [TrnAcc 0.6786]
+[Epoch 30], [Iter 1501/1510], [TrnLoss 0.6289], [TrnAcc 0.7857]
+Computing val stats..
+-------
+[Epoch 30], [Train Acc 0.7985, [Val Acc 0.2316], [Val Loss 2.384]
+
+=========
+Training Epoch 31 (densenet121)
+=========
+
+[Epoch 31], [Iter 1/1510], [TrnLoss 0.6831], [TrnAcc 0.7857]
+[Epoch 31], [Iter 101/1510], [TrnLoss 0.4937], [TrnAcc 0.8214]
+[Epoch 31], [Iter 201/1510], [TrnLoss 0.5788], [TrnAcc 0.7857]
+[Epoch 31], [Iter 301/1510], [TrnLoss 0.776], [TrnAcc 0.7143]
+[Epoch 31], [Iter 401/1510], [TrnLoss 0.3367], [TrnAcc 0.8929]
+[Epoch 31], [Iter 501/1510], [TrnLoss 0.5385], [TrnAcc 0.75]
+[Epoch 31], [Iter 601/1510], [TrnLoss 0.4588], [TrnAcc 0.8214]
+[Epoch 31], [Iter 701/1510], [TrnLoss 0.3879], [TrnAcc 0.8929]
+[Epoch 31], [Iter 801/1510], [TrnLoss 0.4094], [TrnAcc 0.8929]
+[Epoch 31], [Iter 901/1510], [TrnLoss 0.5894], [TrnAcc 0.8571]
+[Epoch 31], [Iter 1001/1510], [TrnLoss 0.8298], [TrnAcc 0.7143]
+[Epoch 31], [Iter 1101/1510], [TrnLoss 0.4048], [TrnAcc 0.8929]
+[Epoch 31], [Iter 1201/1510], [TrnLoss 0.413], [TrnAcc 0.8929]
+[Epoch 31], [Iter 1301/1510], [TrnLoss 0.6046], [TrnAcc 0.6429]
+[Epoch 31], [Iter 1401/1510], [TrnLoss 0.5516], [TrnAcc 0.8571]
+[Epoch 31], [Iter 1501/1510], [TrnLoss 0.6661], [TrnAcc 0.75]
+Computing val stats..
+-------
+[Epoch 31], [Train Acc 0.7952, [Val Acc 0.2569], [Val Loss 2.313]
+
+=========
+Training Epoch 32 (densenet121)
+=========
+
+[Epoch 32], [Iter 1/1510], [TrnLoss 0.7304], [TrnAcc 0.7143]
+[Epoch 32], [Iter 101/1510], [TrnLoss 0.5772], [TrnAcc 0.7857]
+[Epoch 32], [Iter 201/1510], [TrnLoss 0.5079], [TrnAcc 0.8571]
+[Epoch 32], [Iter 301/1510], [TrnLoss 0.8617], [TrnAcc 0.7143]
+[Epoch 32], [Iter 401/1510], [TrnLoss 0.7115], [TrnAcc 0.6786]
+[Epoch 32], [Iter 501/1510], [TrnLoss 0.417], [TrnAcc 0.8929]
+[Epoch 32], [Iter 601/1510], [TrnLoss 0.3321], [TrnAcc 0.8214]
+[Epoch 32], [Iter 701/1510], [TrnLoss 0.6664], [TrnAcc 0.7143]
+[Epoch 32], [Iter 801/1510], [TrnLoss 0.6899], [TrnAcc 0.7143]
+[Epoch 32], [Iter 901/1510], [TrnLoss 0.4512], [TrnAcc 0.8214]
+[Epoch 32], [Iter 1001/1510], [TrnLoss 0.5596], [TrnAcc 0.8214]
+[Epoch 32], [Iter 1101/1510], [TrnLoss 0.5492], [TrnAcc 0.7857]
+[Epoch 32], [Iter 1201/1510], [TrnLoss 0.3957], [TrnAcc 0.9286]
+[Epoch 32], [Iter 1301/1510], [TrnLoss 0.6075], [TrnAcc 0.8214]
+[Epoch 32], [Iter 1401/1510], [TrnLoss 0.573], [TrnAcc 0.7143]
+[Epoch 32], [Iter 1501/1510], [TrnLoss 0.4956], [TrnAcc 0.8214]
+Computing val stats..
+-------
+[Epoch 32], [Train Acc 0.7981, [Val Acc 0.2157], [Val Loss 2.453]
+
+=========
+Training Epoch 33 (densenet121)
+=========
+
+[Epoch 33], [Iter 1/1510], [TrnLoss 0.7254], [TrnAcc 0.75]
+[Epoch 33], [Iter 101/1510], [TrnLoss 0.7622], [TrnAcc 0.7143]
+[Epoch 33], [Iter 201/1510], [TrnLoss 0.633], [TrnAcc 0.7143]
+[Epoch 33], [Iter 301/1510], [TrnLoss 0.5202], [TrnAcc 0.8571]
+[Epoch 33], [Iter 401/1510], [TrnLoss 0.3963], [TrnAcc 0.9286]
+[Epoch 33], [Iter 501/1510], [TrnLoss 0.6803], [TrnAcc 0.6786]
+[Epoch 33], [Iter 601/1510], [TrnLoss 0.5506], [TrnAcc 0.7857]
+[Epoch 33], [Iter 701/1510], [TrnLoss 0.6694], [TrnAcc 0.75]
+[Epoch 33], [Iter 801/1510], [TrnLoss 0.6136], [TrnAcc 0.7143]
+[Epoch 33], [Iter 901/1510], [TrnLoss 0.5987], [TrnAcc 0.7857]
+[Epoch 33], [Iter 1001/1510], [TrnLoss 0.719], [TrnAcc 0.8214]
+[Epoch 33], [Iter 1101/1510], [TrnLoss 0.5034], [TrnAcc 0.8571]
+[Epoch 33], [Iter 1201/1510], [TrnLoss 0.4519], [TrnAcc 0.8214]
+[Epoch 33], [Iter 1301/1510], [TrnLoss 0.8128], [TrnAcc 0.7857]
+[Epoch 33], [Iter 1401/1510], [TrnLoss 0.5325], [TrnAcc 0.8214]
+[Epoch 33], [Iter 1501/1510], [TrnLoss 0.4844], [TrnAcc 0.8214]
+Computing val stats..
+-------
+[Epoch 33], [Train Acc 0.7983, [Val Acc 0.2469], [Val Loss 2.369]
+
+=========
+Training Epoch 34 (densenet121)
+=========
+
+[Epoch 34], [Iter 1/1510], [TrnLoss 0.6781], [TrnAcc 0.7143]
+[Epoch 34], [Iter 101/1510], [TrnLoss 0.7364], [TrnAcc 0.75]
+[Epoch 34], [Iter 201/1510], [TrnLoss 0.5914], [TrnAcc 0.8571]
+[Epoch 34], [Iter 301/1510], [TrnLoss 0.6987], [TrnAcc 0.75]
+[Epoch 34], [Iter 401/1510], [TrnLoss 0.2976], [TrnAcc 0.9286]
+[Epoch 34], [Iter 501/1510], [TrnLoss 0.4996], [TrnAcc 0.8214]
+[Epoch 34], [Iter 601/1510], [TrnLoss 0.3719], [TrnAcc 0.9286]
+[Epoch 34], [Iter 701/1510], [TrnLoss 0.4577], [TrnAcc 0.8929]
+[Epoch 34], [Iter 801/1510], [TrnLoss 0.5884], [TrnAcc 0.75]
+[Epoch 34], [Iter 901/1510], [TrnLoss 0.6016], [TrnAcc 0.7857]
+[Epoch 34], [Iter 1001/1510], [TrnLoss 0.3926], [TrnAcc 0.8929]
+[Epoch 34], [Iter 1101/1510], [TrnLoss 0.4767], [TrnAcc 0.8571]
+[Epoch 34], [Iter 1201/1510], [TrnLoss 0.5859], [TrnAcc 0.75]
+[Epoch 34], [Iter 1301/1510], [TrnLoss 0.5119], [TrnAcc 0.8571]
+[Epoch 34], [Iter 1401/1510], [TrnLoss 0.5173], [TrnAcc 0.8214]
+[Epoch 34], [Iter 1501/1510], [TrnLoss 0.7337], [TrnAcc 0.6786]
+Computing val stats..
+-------
+[Epoch 34], [Train Acc 0.7955, [Val Acc 0.2615], [Val Loss 2.382]
+
+=========
+Training Epoch 35 (densenet121)
+=========
+
+[Epoch 35], [Iter 1/1510], [TrnLoss 0.5454], [TrnAcc 0.75]
+[Epoch 35], [Iter 101/1510], [TrnLoss 0.7336], [TrnAcc 0.6786]
+[Epoch 35], [Iter 201/1510], [TrnLoss 0.3987], [TrnAcc 0.8929]
+[Epoch 35], [Iter 301/1510], [TrnLoss 0.882], [TrnAcc 0.7143]
+[Epoch 35], [Iter 401/1510], [TrnLoss 0.2699], [TrnAcc 0.9643]
+[Epoch 35], [Iter 501/1510], [TrnLoss 0.6252], [TrnAcc 0.7143]
+[Epoch 35], [Iter 601/1510], [TrnLoss 0.393], [TrnAcc 0.8929]
+[Epoch 35], [Iter 701/1510], [TrnLoss 0.5056], [TrnAcc 0.8571]
+[Epoch 35], [Iter 801/1510], [TrnLoss 0.3285], [TrnAcc 0.9286]
+[Epoch 35], [Iter 901/1510], [TrnLoss 0.7391], [TrnAcc 0.6786]
+[Epoch 35], [Iter 1001/1510], [TrnLoss 0.7253], [TrnAcc 0.7857]
+[Epoch 35], [Iter 1101/1510], [TrnLoss 0.4101], [TrnAcc 0.8929]
+[Epoch 35], [Iter 1201/1510], [TrnLoss 0.4326], [TrnAcc 0.8571]
+[Epoch 35], [Iter 1301/1510], [TrnLoss 0.5547], [TrnAcc 0.7143]
+[Epoch 35], [Iter 1401/1510], [TrnLoss 0.54], [TrnAcc 0.75]
+[Epoch 35], [Iter 1501/1510], [TrnLoss 0.4336], [TrnAcc 0.8929]
+Computing val stats..
+-------
+[Epoch 35], [Train Acc 0.7956, [Val Acc 0.2559], [Val Loss 2.483]
+
+=========
+Training Epoch 36 (densenet121)
+=========
+
+[Epoch 36], [Iter 1/1510], [TrnLoss 0.5825], [TrnAcc 0.75]
+[Epoch 36], [Iter 101/1510], [TrnLoss 0.7636], [TrnAcc 0.6786]
+[Epoch 36], [Iter 201/1510], [TrnLoss 0.5139], [TrnAcc 0.8571]
+[Epoch 36], [Iter 301/1510], [TrnLoss 0.4256], [TrnAcc 0.7857]
+[Epoch 36], [Iter 401/1510], [TrnLoss 0.4119], [TrnAcc 0.8571]
+[Epoch 36], [Iter 501/1510], [TrnLoss 0.6684], [TrnAcc 0.6786]
+[Epoch 36], [Iter 601/1510], [TrnLoss 0.648], [TrnAcc 0.7857]
+[Epoch 36], [Iter 701/1510], [TrnLoss 0.5809], [TrnAcc 0.8214]
+[Epoch 36], [Iter 801/1510], [TrnLoss 0.3891], [TrnAcc 0.9286]
+[Epoch 36], [Iter 901/1510], [TrnLoss 0.3349], [TrnAcc 0.8929]
+[Epoch 36], [Iter 1001/1510], [TrnLoss 0.7926], [TrnAcc 0.75]
+[Epoch 36], [Iter 1101/1510], [TrnLoss 0.4282], [TrnAcc 0.8929]
+[Epoch 36], [Iter 1201/1510], [TrnLoss 0.5955], [TrnAcc 0.7857]
+[Epoch 36], [Iter 1301/1510], [TrnLoss 0.7441], [TrnAcc 0.7143]
+[Epoch 36], [Iter 1401/1510], [TrnLoss 0.576], [TrnAcc 0.7857]
+[Epoch 36], [Iter 1501/1510], [TrnLoss 0.6044], [TrnAcc 0.75]
+Computing val stats..
+-------
+[Epoch 36], [Train Acc 0.7989, [Val Acc 0.2523], [Val Loss 2.525]
+
+=========
+Training Epoch 37 (densenet121)
+=========
+
+[Epoch 37], [Iter 1/1510], [TrnLoss 0.787], [TrnAcc 0.75]
+[Epoch 37], [Iter 101/1510], [TrnLoss 0.6008], [TrnAcc 0.8214]
+[Epoch 37], [Iter 201/1510], [TrnLoss 0.6333], [TrnAcc 0.75]
+[Epoch 37], [Iter 301/1510], [TrnLoss 0.7083], [TrnAcc 0.6786]
+[Epoch 37], [Iter 401/1510], [TrnLoss 0.5217], [TrnAcc 0.7857]
+[Epoch 37], [Iter 501/1510], [TrnLoss 0.5343], [TrnAcc 0.8214]
+[Epoch 37], [Iter 601/1510], [TrnLoss 0.5866], [TrnAcc 0.7857]
+[Epoch 37], [Iter 701/1510], [TrnLoss 0.5766], [TrnAcc 0.7857]
+[Epoch 37], [Iter 801/1510], [TrnLoss 0.561], [TrnAcc 0.7857]
+[Epoch 37], [Iter 901/1510], [TrnLoss 0.4434], [TrnAcc 0.8571]
+[Epoch 37], [Iter 1001/1510], [TrnLoss 0.6782], [TrnAcc 0.7857]
+[Epoch 37], [Iter 1101/1510], [TrnLoss 0.5448], [TrnAcc 0.8214]
+[Epoch 37], [Iter 1201/1510], [TrnLoss 0.3473], [TrnAcc 0.9286]
+[Epoch 37], [Iter 1301/1510], [TrnLoss 0.7415], [TrnAcc 0.7857]
+[Epoch 37], [Iter 1401/1510], [TrnLoss 0.4981], [TrnAcc 0.8571]
+[Epoch 37], [Iter 1501/1510], [TrnLoss 0.5824], [TrnAcc 0.7857]
+Computing val stats..
+-------
+[Epoch 37], [Train Acc 0.7949, [Val Acc 0.2727], [Val Loss 2.3]
+
+=========
+Training Epoch 38 (densenet121)
+=========
+
+[Epoch 38], [Iter 1/1510], [TrnLoss 0.5567], [TrnAcc 0.7857]
+[Epoch 38], [Iter 101/1510], [TrnLoss 0.5393], [TrnAcc 0.75]
+[Epoch 38], [Iter 201/1510], [TrnLoss 0.5194], [TrnAcc 0.75]
+[Epoch 38], [Iter 301/1510], [TrnLoss 0.7385], [TrnAcc 0.7143]
+[Epoch 38], [Iter 401/1510], [TrnLoss 0.4224], [TrnAcc 0.8571]
+[Epoch 38], [Iter 501/1510], [TrnLoss 0.3886], [TrnAcc 0.8571]
+[Epoch 38], [Iter 601/1510], [TrnLoss 0.4868], [TrnAcc 0.8571]
+[Epoch 38], [Iter 701/1510], [TrnLoss 0.3462], [TrnAcc 0.8571]
+[Epoch 38], [Iter 801/1510], [TrnLoss 0.5866], [TrnAcc 0.75]
+[Epoch 38], [Iter 901/1510], [TrnLoss 0.4599], [TrnAcc 0.8214]
+[Epoch 38], [Iter 1001/1510], [TrnLoss 0.6423], [TrnAcc 0.8214]
+[Epoch 38], [Iter 1101/1510], [TrnLoss 0.4072], [TrnAcc 0.8571]
+[Epoch 38], [Iter 1201/1510], [TrnLoss 0.9335], [TrnAcc 0.6429]
+[Epoch 38], [Iter 1301/1510], [TrnLoss 0.7792], [TrnAcc 0.6786]
+[Epoch 38], [Iter 1401/1510], [TrnLoss 0.6725], [TrnAcc 0.6786]
+[Epoch 38], [Iter 1501/1510], [TrnLoss 0.4956], [TrnAcc 0.8571]
+Computing val stats..
+-------
+[Epoch 38], [Train Acc 0.7978, [Val Acc 0.243], [Val Loss 2.43]
+
+=========
+Training Epoch 39 (densenet121)
+=========
+
+[Epoch 39], [Iter 1/1510], [TrnLoss 0.5958], [TrnAcc 0.7857]
+[Epoch 39], [Iter 101/1510], [TrnLoss 0.6503], [TrnAcc 0.75]
+[Epoch 39], [Iter 201/1510], [TrnLoss 0.5755], [TrnAcc 0.7857]
+[Epoch 39], [Iter 301/1510], [TrnLoss 0.6366], [TrnAcc 0.75]
+[Epoch 39], [Iter 401/1510], [TrnLoss 0.559], [TrnAcc 0.7857]
+[Epoch 39], [Iter 501/1510], [TrnLoss 0.6685], [TrnAcc 0.8214]
+[Epoch 39], [Iter 601/1510], [TrnLoss 0.3647], [TrnAcc 0.8929]
+[Epoch 39], [Iter 701/1510], [TrnLoss 0.4261], [TrnAcc 0.8571]
+[Epoch 39], [Iter 801/1510], [TrnLoss 0.6773], [TrnAcc 0.7143]
+[Epoch 39], [Iter 901/1510], [TrnLoss 0.2869], [TrnAcc 0.9286]
+[Epoch 39], [Iter 1001/1510], [TrnLoss 0.6974], [TrnAcc 0.8214]
+[Epoch 39], [Iter 1101/1510], [TrnLoss 0.6193], [TrnAcc 0.75]
+[Epoch 39], [Iter 1201/1510], [TrnLoss 0.5233], [TrnAcc 0.8214]
+[Epoch 39], [Iter 1301/1510], [TrnLoss 0.9468], [TrnAcc 0.5714]
+[Epoch 39], [Iter 1401/1510], [TrnLoss 0.8366], [TrnAcc 0.7143]
+[Epoch 39], [Iter 1501/1510], [TrnLoss 0.6993], [TrnAcc 0.7857]
+Computing val stats..
+-------
+[Epoch 39], [Train Acc 0.7974, [Val Acc 0.2333], [Val Loss 2.501]
+
+=========
+Training Epoch 40 (densenet121)
+=========
+
+[Epoch 40], [Iter 1/1510], [TrnLoss 0.5876], [TrnAcc 0.7857]
+[Epoch 40], [Iter 101/1510], [TrnLoss 0.5554], [TrnAcc 0.7857]
+[Epoch 40], [Iter 201/1510], [TrnLoss 0.6859], [TrnAcc 0.75]
+[Epoch 40], [Iter 301/1510], [TrnLoss 0.6905], [TrnAcc 0.7857]
+[Epoch 40], [Iter 401/1510], [TrnLoss 0.2963], [TrnAcc 0.8571]
+[Epoch 40], [Iter 501/1510], [TrnLoss 0.4339], [TrnAcc 0.8929]
+[Epoch 40], [Iter 601/1510], [TrnLoss 0.4708], [TrnAcc 0.8571]
+[Epoch 40], [Iter 701/1510], [TrnLoss 0.6125], [TrnAcc 0.7143]
+[Epoch 40], [Iter 801/1510], [TrnLoss 0.5477], [TrnAcc 0.7857]
+[Epoch 40], [Iter 901/1510], [TrnLoss 0.5431], [TrnAcc 0.8571]
+[Epoch 40], [Iter 1001/1510], [TrnLoss 0.6566], [TrnAcc 0.7857]
+[Epoch 40], [Iter 1101/1510], [TrnLoss 0.406], [TrnAcc 0.8929]
+[Epoch 40], [Iter 1201/1510], [TrnLoss 0.689], [TrnAcc 0.6429]
+[Epoch 40], [Iter 1301/1510], [TrnLoss 0.7757], [TrnAcc 0.7143]
+[Epoch 40], [Iter 1401/1510], [TrnLoss 0.4584], [TrnAcc 0.8571]
+[Epoch 40], [Iter 1501/1510], [TrnLoss 0.7281], [TrnAcc 0.7143]
+Computing val stats..
+-------
+[Epoch 40], [Train Acc 0.8013, [Val Acc 0.2447], [Val Loss 2.455]
+
+=========
+Training Epoch 1 (densenet201)
+=========
+
+[Epoch 1], [Iter 1/1510], [TrnLoss 2.009], [TrnAcc 0.1429]
+[Epoch 1], [Iter 101/1510], [TrnLoss 1.363], [TrnAcc 0.5714]
+[Epoch 1], [Iter 201/1510], [TrnLoss 1.353], [TrnAcc 0.4643]
+[Epoch 1], [Iter 301/1510], [TrnLoss 1.16], [TrnAcc 0.5714]
+[Epoch 1], [Iter 401/1510], [TrnLoss 1.076], [TrnAcc 0.5714]
+[Epoch 1], [Iter 501/1510], [TrnLoss 1.013], [TrnAcc 0.6429]
+[Epoch 1], [Iter 601/1510], [TrnLoss 0.7991], [TrnAcc 0.6429]
+[Epoch 1], [Iter 701/1510], [TrnLoss 1.093], [TrnAcc 0.6786]
+[Epoch 1], [Iter 801/1510], [TrnLoss 0.8299], [TrnAcc 0.7857]
+[Epoch 1], [Iter 901/1510], [TrnLoss 0.7666], [TrnAcc 0.7143]
+[Epoch 1], [Iter 1001/1510], [TrnLoss 0.8726], [TrnAcc 0.75]
+[Epoch 1], [Iter 1101/1510], [TrnLoss 0.7543], [TrnAcc 0.75]
+[Epoch 1], [Iter 1201/1510], [TrnLoss 1.014], [TrnAcc 0.6071]
+[Epoch 1], [Iter 1301/1510], [TrnLoss 0.8146], [TrnAcc 0.6786]
+[Epoch 1], [Iter 1401/1510], [TrnLoss 0.7149], [TrnAcc 0.7857]
+[Epoch 1], [Iter 1501/1510], [TrnLoss 0.8399], [TrnAcc 0.6429]
+Computing val stats..
+-------
+[Epoch 1], [Train Acc 0.6149, [Val Acc 0.2909], [Val Loss 2.207]
+
+=========
+Training Epoch 2 (densenet201)
+=========
+
+[Epoch 2], [Iter 1/1510], [TrnLoss 0.7277], [TrnAcc 0.7143]
+[Epoch 2], [Iter 101/1510], [TrnLoss 0.8143], [TrnAcc 0.6429]
+[Epoch 2], [Iter 201/1510], [TrnLoss 0.7857], [TrnAcc 0.7143]
+[Epoch 2], [Iter 301/1510], [TrnLoss 0.7779], [TrnAcc 0.6786]
+[Epoch 2], [Iter 401/1510], [TrnLoss 0.5802], [TrnAcc 0.8571]
+[Epoch 2], [Iter 501/1510], [TrnLoss 0.7284], [TrnAcc 0.75]
+[Epoch 2], [Iter 601/1510], [TrnLoss 0.5778], [TrnAcc 0.8214]
+[Epoch 2], [Iter 701/1510], [TrnLoss 1.002], [TrnAcc 0.7143]
+[Epoch 2], [Iter 801/1510], [TrnLoss 0.6072], [TrnAcc 0.8214]
+[Epoch 2], [Iter 901/1510], [TrnLoss 0.7475], [TrnAcc 0.75]
+[Epoch 2], [Iter 1001/1510], [TrnLoss 0.6798], [TrnAcc 0.75]
+[Epoch 2], [Iter 1101/1510], [TrnLoss 0.6454], [TrnAcc 0.7857]
+[Epoch 2], [Iter 1201/1510], [TrnLoss 0.8645], [TrnAcc 0.75]
+[Epoch 2], [Iter 1301/1510], [TrnLoss 0.8659], [TrnAcc 0.6429]
+[Epoch 2], [Iter 1401/1510], [TrnLoss 0.8084], [TrnAcc 0.6786]
+[Epoch 2], [Iter 1501/1510], [TrnLoss 0.7714], [TrnAcc 0.7143]
+Computing val stats..
+-------
+[Epoch 2], [Train Acc 0.693, [Val Acc 0.3049], [Val Loss 2.058]
+
+=========
+Training Epoch 3 (densenet201)
+=========
+
+[Epoch 3], [Iter 1/1510], [TrnLoss 0.6274], [TrnAcc 0.7857]
+[Epoch 3], [Iter 101/1510], [TrnLoss 0.8633], [TrnAcc 0.6429]
+[Epoch 3], [Iter 201/1510], [TrnLoss 0.8078], [TrnAcc 0.6429]
+[Epoch 3], [Iter 301/1510], [TrnLoss 0.7832], [TrnAcc 0.75]
+[Epoch 3], [Iter 401/1510], [TrnLoss 0.6819], [TrnAcc 0.7857]
+[Epoch 3], [Iter 501/1510], [TrnLoss 0.6566], [TrnAcc 0.6786]
+[Epoch 3], [Iter 601/1510], [TrnLoss 0.6705], [TrnAcc 0.75]
+[Epoch 3], [Iter 701/1510], [TrnLoss 0.8503], [TrnAcc 0.7143]
+[Epoch 3], [Iter 801/1510], [TrnLoss 1.112], [TrnAcc 0.6429]
+[Epoch 3], [Iter 901/1510], [TrnLoss 0.4616], [TrnAcc 0.8929]
+[Epoch 3], [Iter 1001/1510], [TrnLoss 0.836], [TrnAcc 0.5714]
+[Epoch 3], [Iter 1101/1510], [TrnLoss 0.5942], [TrnAcc 0.7857]
+[Epoch 3], [Iter 1201/1510], [TrnLoss 0.702], [TrnAcc 0.75]
+[Epoch 3], [Iter 1301/1510], [TrnLoss 1.024], [TrnAcc 0.5714]
+[Epoch 3], [Iter 1401/1510], [TrnLoss 0.7395], [TrnAcc 0.6786]
+[Epoch 3], [Iter 1501/1510], [TrnLoss 0.7263], [TrnAcc 0.8214]
+Computing val stats..
+-------
+[Epoch 3], [Train Acc 0.7234, [Val Acc 0.2705], [Val Loss 2.214]
+
+=========
+Training Epoch 4 (densenet201)
+=========
+
+[Epoch 4], [Iter 1/1510], [TrnLoss 0.7843], [TrnAcc 0.6786]
+[Epoch 4], [Iter 101/1510], [TrnLoss 0.7189], [TrnAcc 0.7143]
+[Epoch 4], [Iter 201/1510], [TrnLoss 0.7023], [TrnAcc 0.6786]
+[Epoch 4], [Iter 301/1510], [TrnLoss 0.7032], [TrnAcc 0.8214]
+[Epoch 4], [Iter 401/1510], [TrnLoss 0.7956], [TrnAcc 0.7143]
+[Epoch 4], [Iter 501/1510], [TrnLoss 0.7118], [TrnAcc 0.75]
+[Epoch 4], [Iter 601/1510], [TrnLoss 0.5992], [TrnAcc 0.8571]
+[Epoch 4], [Iter 701/1510], [TrnLoss 0.4788], [TrnAcc 0.8571]
+[Epoch 4], [Iter 801/1510], [TrnLoss 0.8661], [TrnAcc 0.7143]
+[Epoch 4], [Iter 901/1510], [TrnLoss 0.6842], [TrnAcc 0.7143]
+[Epoch 4], [Iter 1001/1510], [TrnLoss 0.8947], [TrnAcc 0.7143]
+[Epoch 4], [Iter 1101/1510], [TrnLoss 0.5295], [TrnAcc 0.8929]
+[Epoch 4], [Iter 1201/1510], [TrnLoss 0.5435], [TrnAcc 0.8214]
+[Epoch 4], [Iter 1301/1510], [TrnLoss 0.6767], [TrnAcc 0.75]
+[Epoch 4], [Iter 1401/1510], [TrnLoss 1.022], [TrnAcc 0.5357]
+[Epoch 4], [Iter 1501/1510], [TrnLoss 0.7393], [TrnAcc 0.7143]
+Computing val stats..
+-------
+[Epoch 4], [Train Acc 0.7404, [Val Acc 0.2457], [Val Loss 2.34]
+
+=========
+Training Epoch 5 (densenet201)
+=========
+
+[Epoch 5], [Iter 1/1510], [TrnLoss 0.7973], [TrnAcc 0.6429]
+[Epoch 5], [Iter 101/1510], [TrnLoss 0.6275], [TrnAcc 0.7857]
+[Epoch 5], [Iter 201/1510], [TrnLoss 0.7619], [TrnAcc 0.75]
+[Epoch 5], [Iter 301/1510], [TrnLoss 0.8399], [TrnAcc 0.7857]
+[Epoch 5], [Iter 401/1510], [TrnLoss 0.8207], [TrnAcc 0.7143]
+[Epoch 5], [Iter 501/1510], [TrnLoss 0.4698], [TrnAcc 0.8929]
+[Epoch 5], [Iter 601/1510], [TrnLoss 0.571], [TrnAcc 0.75]
+[Epoch 5], [Iter 701/1510], [TrnLoss 0.8567], [TrnAcc 0.6786]
+[Epoch 5], [Iter 801/1510], [TrnLoss 0.6361], [TrnAcc 0.6786]
+[Epoch 5], [Iter 901/1510], [TrnLoss 0.6792], [TrnAcc 0.6429]
+[Epoch 5], [Iter 1001/1510], [TrnLoss 1.075], [TrnAcc 0.5714]
+[Epoch 5], [Iter 1101/1510], [TrnLoss 0.6917], [TrnAcc 0.7143]
+[Epoch 5], [Iter 1201/1510], [TrnLoss 0.4287], [TrnAcc 0.8571]
+[Epoch 5], [Iter 1301/1510], [TrnLoss 0.6942], [TrnAcc 0.75]
+[Epoch 5], [Iter 1401/1510], [TrnLoss 0.5673], [TrnAcc 0.8214]
+[Epoch 5], [Iter 1501/1510], [TrnLoss 0.5237], [TrnAcc 0.8214]
+Computing val stats..
+-------
+[Epoch 5], [Train Acc 0.7531, [Val Acc 0.2787], [Val Loss 2.293]
+
+=========
+Training Epoch 6 (densenet201)
+=========
+
+[Epoch 6], [Iter 1/1510], [TrnLoss 0.8007], [TrnAcc 0.6786]
+[Epoch 6], [Iter 101/1510], [TrnLoss 0.8873], [TrnAcc 0.6429]
+[Epoch 6], [Iter 201/1510], [TrnLoss 0.8507], [TrnAcc 0.6429]
+[Epoch 6], [Iter 301/1510], [TrnLoss 0.8214], [TrnAcc 0.6786]
+[Epoch 6], [Iter 401/1510], [TrnLoss 0.7941], [TrnAcc 0.7143]
+[Epoch 6], [Iter 501/1510], [TrnLoss 0.6829], [TrnAcc 0.7143]
+[Epoch 6], [Iter 601/1510], [TrnLoss 0.4975], [TrnAcc 0.8571]
+[Epoch 6], [Iter 701/1510], [TrnLoss 0.662], [TrnAcc 0.6429]
+[Epoch 6], [Iter 801/1510], [TrnLoss 0.4712], [TrnAcc 0.8571]
+[Epoch 6], [Iter 901/1510], [TrnLoss 0.4427], [TrnAcc 0.8929]
+[Epoch 6], [Iter 1001/1510], [TrnLoss 0.4451], [TrnAcc 0.8929]
+[Epoch 6], [Iter 1101/1510], [TrnLoss 0.7868], [TrnAcc 0.75]
+[Epoch 6], [Iter 1201/1510], [TrnLoss 0.5816], [TrnAcc 0.8214]
+[Epoch 6], [Iter 1301/1510], [TrnLoss 0.8699], [TrnAcc 0.6429]
+[Epoch 6], [Iter 1401/1510], [TrnLoss 0.6829], [TrnAcc 0.75]
+[Epoch 6], [Iter 1501/1510], [TrnLoss 0.4809], [TrnAcc 0.8571]
+Computing val stats..
+-------
+[Epoch 6], [Train Acc 0.7622, [Val Acc 0.2338], [Val Loss 2.354]
+
+=========
+Training Epoch 7 (densenet201)
+=========
+
+[Epoch 7], [Iter 1/1510], [TrnLoss 0.8578], [TrnAcc 0.6429]
+[Epoch 7], [Iter 101/1510], [TrnLoss 0.9695], [TrnAcc 0.5357]
+[Epoch 7], [Iter 201/1510], [TrnLoss 0.6373], [TrnAcc 0.6786]
+[Epoch 7], [Iter 301/1510], [TrnLoss 0.6658], [TrnAcc 0.8214]
+[Epoch 7], [Iter 401/1510], [TrnLoss 0.3432], [TrnAcc 0.9286]
+[Epoch 7], [Iter 501/1510], [TrnLoss 0.6702], [TrnAcc 0.75]
+[Epoch 7], [Iter 601/1510], [TrnLoss 0.4527], [TrnAcc 0.7857]
+[Epoch 7], [Iter 701/1510], [TrnLoss 0.7997], [TrnAcc 0.75]
+[Epoch 7], [Iter 801/1510], [TrnLoss 0.7443], [TrnAcc 0.6786]
+[Epoch 7], [Iter 901/1510], [TrnLoss 0.7144], [TrnAcc 0.7857]
+[Epoch 7], [Iter 1001/1510], [TrnLoss 0.5092], [TrnAcc 0.8571]
+[Epoch 7], [Iter 1101/1510], [TrnLoss 0.7119], [TrnAcc 0.7143]
+[Epoch 7], [Iter 1201/1510], [TrnLoss 0.9297], [TrnAcc 0.75]
+[Epoch 7], [Iter 1301/1510], [TrnLoss 0.7786], [TrnAcc 0.6429]
+[Epoch 7], [Iter 1401/1510], [TrnLoss 0.5972], [TrnAcc 0.7857]
+[Epoch 7], [Iter 1501/1510], [TrnLoss 0.4836], [TrnAcc 0.8214]
+Computing val stats..
+-------
+[Epoch 7], [Train Acc 0.761, [Val Acc 0.2886], [Val Loss 2.165]
+
+=========
+Training Epoch 8 (densenet201)
+=========
+
+[Epoch 8], [Iter 1/1510], [TrnLoss 0.7626], [TrnAcc 0.75]
+[Epoch 8], [Iter 101/1510], [TrnLoss 0.9817], [TrnAcc 0.6071]
+[Epoch 8], [Iter 201/1510], [TrnLoss 0.5014], [TrnAcc 0.8214]
+[Epoch 8], [Iter 301/1510], [TrnLoss 0.8469], [TrnAcc 0.6071]
+[Epoch 8], [Iter 401/1510], [TrnLoss 0.5231], [TrnAcc 0.7857]
+[Epoch 8], [Iter 501/1510], [TrnLoss 0.4797], [TrnAcc 0.8214]
+[Epoch 8], [Iter 601/1510], [TrnLoss 0.4956], [TrnAcc 0.8214]
+[Epoch 8], [Iter 701/1510], [TrnLoss 0.4883], [TrnAcc 0.8571]
+[Epoch 8], [Iter 801/1510], [TrnLoss 0.4218], [TrnAcc 0.8571]
+[Epoch 8], [Iter 901/1510], [TrnLoss 0.7333], [TrnAcc 0.75]
+[Epoch 8], [Iter 1001/1510], [TrnLoss 0.6357], [TrnAcc 0.8571]
+[Epoch 8], [Iter 1101/1510], [TrnLoss 0.6435], [TrnAcc 0.7857]
+[Epoch 8], [Iter 1201/1510], [TrnLoss 0.6146], [TrnAcc 0.7857]
+[Epoch 8], [Iter 1301/1510], [TrnLoss 0.4799], [TrnAcc 0.8929]
+[Epoch 8], [Iter 1401/1510], [TrnLoss 0.5339], [TrnAcc 0.8214]
+[Epoch 8], [Iter 1501/1510], [TrnLoss 0.4801], [TrnAcc 0.8571]
+Computing val stats..
+-------
+[Epoch 8], [Train Acc 0.7643, [Val Acc 0.24], [Val Loss 2.401]
+
+=========
+Training Epoch 9 (densenet201)
+=========
+
+[Epoch 9], [Iter 1/1510], [TrnLoss 0.9287], [TrnAcc 0.6429]
+[Epoch 9], [Iter 101/1510], [TrnLoss 0.7201], [TrnAcc 0.7143]
+[Epoch 9], [Iter 201/1510], [TrnLoss 0.7619], [TrnAcc 0.6786]
+[Epoch 9], [Iter 301/1510], [TrnLoss 0.7648], [TrnAcc 0.75]
+[Epoch 9], [Iter 401/1510], [TrnLoss 0.4808], [TrnAcc 0.8571]
+[Epoch 9], [Iter 501/1510], [TrnLoss 0.5295], [TrnAcc 0.8214]
+[Epoch 9], [Iter 601/1510], [TrnLoss 0.4068], [TrnAcc 0.8571]
+[Epoch 9], [Iter 701/1510], [TrnLoss 0.7865], [TrnAcc 0.75]
+[Epoch 9], [Iter 801/1510], [TrnLoss 0.4425], [TrnAcc 0.8571]
+[Epoch 9], [Iter 901/1510], [TrnLoss 0.6026], [TrnAcc 0.7857]
+[Epoch 9], [Iter 1001/1510], [TrnLoss 0.7087], [TrnAcc 0.75]
+[Epoch 9], [Iter 1101/1510], [TrnLoss 0.464], [TrnAcc 0.7857]
+[Epoch 9], [Iter 1201/1510], [TrnLoss 0.3658], [TrnAcc 0.9643]
+[Epoch 9], [Iter 1301/1510], [TrnLoss 0.7103], [TrnAcc 0.75]
+[Epoch 9], [Iter 1401/1510], [TrnLoss 0.7032], [TrnAcc 0.8214]
+[Epoch 9], [Iter 1501/1510], [TrnLoss 0.4577], [TrnAcc 0.8214]
+Computing val stats..
+-------
+[Epoch 9], [Train Acc 0.7658, [Val Acc 0.2397], [Val Loss 2.372]
+
+=========
+Training Epoch 10 (densenet201)
+=========
+
+[Epoch 10], [Iter 1/1510], [TrnLoss 0.6798], [TrnAcc 0.6786]
+[Epoch 10], [Iter 101/1510], [TrnLoss 0.6049], [TrnAcc 0.8214]
+[Epoch 10], [Iter 201/1510], [TrnLoss 0.7414], [TrnAcc 0.7143]
+[Epoch 10], [Iter 301/1510], [TrnLoss 0.705], [TrnAcc 0.8571]
+[Epoch 10], [Iter 401/1510], [TrnLoss 0.6518], [TrnAcc 0.7857]
+[Epoch 10], [Iter 501/1510], [TrnLoss 0.4923], [TrnAcc 0.75]
+[Epoch 10], [Iter 601/1510], [TrnLoss 0.446], [TrnAcc 0.8214]
+[Epoch 10], [Iter 701/1510], [TrnLoss 0.751], [TrnAcc 0.7143]
+[Epoch 10], [Iter 801/1510], [TrnLoss 0.5067], [TrnAcc 0.8214]
+[Epoch 10], [Iter 901/1510], [TrnLoss 0.57], [TrnAcc 0.6786]
+[Epoch 10], [Iter 1001/1510], [TrnLoss 0.5918], [TrnAcc 0.8214]
+[Epoch 10], [Iter 1101/1510], [TrnLoss 0.4126], [TrnAcc 0.8571]
+[Epoch 10], [Iter 1201/1510], [TrnLoss 0.7972], [TrnAcc 0.6786]
+[Epoch 10], [Iter 1301/1510], [TrnLoss 0.6848], [TrnAcc 0.75]
+[Epoch 10], [Iter 1401/1510], [TrnLoss 0.6959], [TrnAcc 0.75]
+[Epoch 10], [Iter 1501/1510], [TrnLoss 0.9899], [TrnAcc 0.6071]
+Computing val stats..
+-------
+[Epoch 10], [Train Acc 0.7736, [Val Acc 0.2655], [Val Loss 2.332]
+
+=========
+Training Epoch 11 (densenet201)
+=========
+
+[Epoch 11], [Iter 1/1510], [TrnLoss 0.8721], [TrnAcc 0.6786]
+[Epoch 11], [Iter 101/1510], [TrnLoss 0.8159], [TrnAcc 0.7143]
+[Epoch 11], [Iter 201/1510], [TrnLoss 0.7104], [TrnAcc 0.75]
+[Epoch 11], [Iter 301/1510], [TrnLoss 0.9198], [TrnAcc 0.6786]
+[Epoch 11], [Iter 401/1510], [TrnLoss 0.76], [TrnAcc 0.7143]
+[Epoch 11], [Iter 501/1510], [TrnLoss 0.6559], [TrnAcc 0.8214]
+[Epoch 11], [Iter 601/1510], [TrnLoss 0.5892], [TrnAcc 0.7857]
+[Epoch 11], [Iter 701/1510], [TrnLoss 0.5764], [TrnAcc 0.8214]
+[Epoch 11], [Iter 801/1510], [TrnLoss 0.4625], [TrnAcc 0.8571]
+[Epoch 11], [Iter 901/1510], [TrnLoss 0.3678], [TrnAcc 0.8214]
+[Epoch 11], [Iter 1001/1510], [TrnLoss 0.775], [TrnAcc 0.6786]
+[Epoch 11], [Iter 1101/1510], [TrnLoss 0.5048], [TrnAcc 0.7857]
+[Epoch 11], [Iter 1201/1510], [TrnLoss 0.5568], [TrnAcc 0.8214]
+[Epoch 11], [Iter 1301/1510], [TrnLoss 0.986], [TrnAcc 0.6786]
+[Epoch 11], [Iter 1401/1510], [TrnLoss 0.507], [TrnAcc 0.8214]
+[Epoch 11], [Iter 1501/1510], [TrnLoss 0.7849], [TrnAcc 0.75]
+Computing val stats..
+-------
+[Epoch 11], [Train Acc 0.7707, [Val Acc 0.2424], [Val Loss 2.404]
+
+=========
+Training Epoch 12 (densenet201)
+=========
+
+[Epoch 12], [Iter 1/1510], [TrnLoss 0.6817], [TrnAcc 0.75]
+[Epoch 12], [Iter 101/1510], [TrnLoss 0.6405], [TrnAcc 0.7143]
+[Epoch 12], [Iter 201/1510], [TrnLoss 0.5559], [TrnAcc 0.8214]
+[Epoch 12], [Iter 301/1510], [TrnLoss 0.6989], [TrnAcc 0.7857]
+[Epoch 12], [Iter 401/1510], [TrnLoss 0.5407], [TrnAcc 0.8929]
+[Epoch 12], [Iter 501/1510], [TrnLoss 0.3896], [TrnAcc 0.9643]
+[Epoch 12], [Iter 601/1510], [TrnLoss 0.6315], [TrnAcc 0.8214]
+[Epoch 12], [Iter 701/1510], [TrnLoss 0.6169], [TrnAcc 0.7857]
+[Epoch 12], [Iter 801/1510], [TrnLoss 0.8162], [TrnAcc 0.7143]
+[Epoch 12], [Iter 901/1510], [TrnLoss 0.7062], [TrnAcc 0.7857]
+[Epoch 12], [Iter 1001/1510], [TrnLoss 0.8093], [TrnAcc 0.7857]
+[Epoch 12], [Iter 1101/1510], [TrnLoss 0.6294], [TrnAcc 0.7143]
+[Epoch 12], [Iter 1201/1510], [TrnLoss 0.5095], [TrnAcc 0.8571]
+[Epoch 12], [Iter 1301/1510], [TrnLoss 0.6337], [TrnAcc 0.75]
+[Epoch 12], [Iter 1401/1510], [TrnLoss 0.8137], [TrnAcc 0.75]
+[Epoch 12], [Iter 1501/1510], [TrnLoss 0.9662], [TrnAcc 0.6786]
+Computing val stats..
+-------
+[Epoch 12], [Train Acc 0.7793, [Val Acc 0.2417], [Val Loss 2.401]
+
+=========
+Training Epoch 13 (densenet201)
+=========
+
+[Epoch 13], [Iter 1/1510], [TrnLoss 0.827], [TrnAcc 0.6429]
+[Epoch 13], [Iter 101/1510], [TrnLoss 0.6856], [TrnAcc 0.6786]
+[Epoch 13], [Iter 201/1510], [TrnLoss 0.4973], [TrnAcc 0.7857]
+[Epoch 13], [Iter 301/1510], [TrnLoss 0.5374], [TrnAcc 0.8571]
+[Epoch 13], [Iter 401/1510], [TrnLoss 0.4178], [TrnAcc 0.8214]
+[Epoch 13], [Iter 501/1510], [TrnLoss 0.7089], [TrnAcc 0.75]
+[Epoch 13], [Iter 601/1510], [TrnLoss 0.3773], [TrnAcc 0.9286]
+[Epoch 13], [Iter 701/1510], [TrnLoss 0.5489], [TrnAcc 0.8571]
+[Epoch 13], [Iter 801/1510], [TrnLoss 0.4956], [TrnAcc 0.75]
+[Epoch 13], [Iter 901/1510], [TrnLoss 0.3927], [TrnAcc 0.8214]
+[Epoch 13], [Iter 1001/1510], [TrnLoss 0.9629], [TrnAcc 0.6429]
+[Epoch 13], [Iter 1101/1510], [TrnLoss 0.5081], [TrnAcc 0.8214]
+[Epoch 13], [Iter 1201/1510], [TrnLoss 0.5967], [TrnAcc 0.7857]
+[Epoch 13], [Iter 1301/1510], [TrnLoss 0.7432], [TrnAcc 0.6786]
+[Epoch 13], [Iter 1401/1510], [TrnLoss 0.419], [TrnAcc 0.9286]
+[Epoch 13], [Iter 1501/1510], [TrnLoss 0.6071], [TrnAcc 0.7143]
+Computing val stats..
+-------
+[Epoch 13], [Train Acc 0.7696, [Val Acc 0.2415], [Val Loss 2.42]
+
+=========
+Training Epoch 14 (densenet201)
+=========
+
+[Epoch 14], [Iter 1/1510], [TrnLoss 0.6168], [TrnAcc 0.7857]
+[Epoch 14], [Iter 101/1510], [TrnLoss 0.6215], [TrnAcc 0.7143]
+[Epoch 14], [Iter 201/1510], [TrnLoss 0.5015], [TrnAcc 0.8571]
+[Epoch 14], [Iter 301/1510], [TrnLoss 0.6472], [TrnAcc 0.75]
+[Epoch 14], [Iter 401/1510], [TrnLoss 0.4633], [TrnAcc 0.7857]
+[Epoch 14], [Iter 501/1510], [TrnLoss 0.4743], [TrnAcc 0.8571]
+[Epoch 14], [Iter 601/1510], [TrnLoss 0.5261], [TrnAcc 0.8214]
+[Epoch 14], [Iter 701/1510], [TrnLoss 0.5753], [TrnAcc 0.8214]
+[Epoch 14], [Iter 801/1510], [TrnLoss 0.588], [TrnAcc 0.75]
+[Epoch 14], [Iter 901/1510], [TrnLoss 0.5139], [TrnAcc 0.8214]
+[Epoch 14], [Iter 1001/1510], [TrnLoss 0.7745], [TrnAcc 0.7857]
+[Epoch 14], [Iter 1101/1510], [TrnLoss 0.4465], [TrnAcc 0.8929]
+[Epoch 14], [Iter 1201/1510], [TrnLoss 0.5799], [TrnAcc 0.75]
+[Epoch 14], [Iter 1301/1510], [TrnLoss 0.8786], [TrnAcc 0.7143]
+[Epoch 14], [Iter 1401/1510], [TrnLoss 0.486], [TrnAcc 0.75]
+[Epoch 14], [Iter 1501/1510], [TrnLoss 0.6125], [TrnAcc 0.8214]
+Computing val stats..
+-------
+[Epoch 14], [Train Acc 0.7744, [Val Acc 0.2576], [Val Loss 2.39]
+
+=========
+Training Epoch 15 (densenet201)
+=========
+
+[Epoch 15], [Iter 1/1510], [TrnLoss 0.5259], [TrnAcc 0.7857]
+[Epoch 15], [Iter 101/1510], [TrnLoss 0.5182], [TrnAcc 0.75]
+[Epoch 15], [Iter 201/1510], [TrnLoss 0.7011], [TrnAcc 0.75]
+[Epoch 15], [Iter 301/1510], [TrnLoss 0.6373], [TrnAcc 0.8214]
+[Epoch 15], [Iter 401/1510], [TrnLoss 0.5336], [TrnAcc 0.8929]
+[Epoch 15], [Iter 501/1510], [TrnLoss 0.5957], [TrnAcc 0.7143]
+[Epoch 15], [Iter 601/1510], [TrnLoss 0.5434], [TrnAcc 0.8929]
+[Epoch 15], [Iter 701/1510], [TrnLoss 0.6506], [TrnAcc 0.75]
+[Epoch 15], [Iter 801/1510], [TrnLoss 0.9201], [TrnAcc 0.6429]
+[Epoch 15], [Iter 901/1510], [TrnLoss 0.6023], [TrnAcc 0.75]
+[Epoch 15], [Iter 1001/1510], [TrnLoss 0.7057], [TrnAcc 0.75]
+[Epoch 15], [Iter 1101/1510], [TrnLoss 0.4817], [TrnAcc 0.8571]
+[Epoch 15], [Iter 1201/1510], [TrnLoss 0.4815], [TrnAcc 0.8571]
+[Epoch 15], [Iter 1301/1510], [TrnLoss 0.5646], [TrnAcc 0.75]
+[Epoch 15], [Iter 1401/1510], [TrnLoss 0.5557], [TrnAcc 0.8214]
+[Epoch 15], [Iter 1501/1510], [TrnLoss 0.8299], [TrnAcc 0.6429]
+Computing val stats..
+-------
+[Epoch 15], [Train Acc 0.7805, [Val Acc 0.2342], [Val Loss 2.425]
+
+=========
+Training Epoch 16 (densenet201)
+=========
+
+[Epoch 16], [Iter 1/1510], [TrnLoss 0.5777], [TrnAcc 0.8214]
+[Epoch 16], [Iter 101/1510], [TrnLoss 0.5009], [TrnAcc 0.75]
+[Epoch 16], [Iter 201/1510], [TrnLoss 0.4656], [TrnAcc 0.8571]
+[Epoch 16], [Iter 301/1510], [TrnLoss 0.7644], [TrnAcc 0.7857]
+[Epoch 16], [Iter 401/1510], [TrnLoss 0.3032], [TrnAcc 0.9286]
+[Epoch 16], [Iter 501/1510], [TrnLoss 0.5775], [TrnAcc 0.75]
+[Epoch 16], [Iter 601/1510], [TrnLoss 0.4685], [TrnAcc 0.8214]
+[Epoch 16], [Iter 701/1510], [TrnLoss 1.107], [TrnAcc 0.5357]
+[Epoch 16], [Iter 801/1510], [TrnLoss 0.5529], [TrnAcc 0.8214]
+[Epoch 16], [Iter 901/1510], [TrnLoss 0.3782], [TrnAcc 0.8214]
+[Epoch 16], [Iter 1001/1510], [TrnLoss 0.5591], [TrnAcc 0.8929]
+[Epoch 16], [Iter 1101/1510], [TrnLoss 0.5106], [TrnAcc 0.7857]
+[Epoch 16], [Iter 1201/1510], [TrnLoss 0.3033], [TrnAcc 0.9643]
+[Epoch 16], [Iter 1301/1510], [TrnLoss 0.4335], [TrnAcc 0.8929]
+[Epoch 16], [Iter 1401/1510], [TrnLoss 0.61], [TrnAcc 0.6786]
+[Epoch 16], [Iter 1501/1510], [TrnLoss 0.7611], [TrnAcc 0.6786]
+Computing val stats..
+-------
+[Epoch 16], [Train Acc 0.7813, [Val Acc 0.2437], [Val Loss 2.547]
+
+=========
+Training Epoch 17 (densenet201)
+=========
+
+[Epoch 17], [Iter 1/1510], [TrnLoss 0.8056], [TrnAcc 0.7143]
+[Epoch 17], [Iter 101/1510], [TrnLoss 0.9128], [TrnAcc 0.6429]
+[Epoch 17], [Iter 201/1510], [TrnLoss 0.8482], [TrnAcc 0.6786]
+[Epoch 17], [Iter 301/1510], [TrnLoss 0.5934], [TrnAcc 0.75]
+[Epoch 17], [Iter 401/1510], [TrnLoss 0.5164], [TrnAcc 0.8571]
+[Epoch 17], [Iter 501/1510], [TrnLoss 0.6123], [TrnAcc 0.75]
+[Epoch 17], [Iter 601/1510], [TrnLoss 0.574], [TrnAcc 0.75]
+[Epoch 17], [Iter 701/1510], [TrnLoss 0.6676], [TrnAcc 0.75]
+[Epoch 17], [Iter 801/1510], [TrnLoss 0.5377], [TrnAcc 0.8214]
+[Epoch 17], [Iter 901/1510], [TrnLoss 0.4708], [TrnAcc 0.8929]
+[Epoch 17], [Iter 1001/1510], [TrnLoss 0.7462], [TrnAcc 0.7857]
+[Epoch 17], [Iter 1101/1510], [TrnLoss 0.4793], [TrnAcc 0.7857]
+[Epoch 17], [Iter 1201/1510], [TrnLoss 0.5787], [TrnAcc 0.8571]
+[Epoch 17], [Iter 1301/1510], [TrnLoss 0.6794], [TrnAcc 0.7857]
+[Epoch 17], [Iter 1401/1510], [TrnLoss 0.5519], [TrnAcc 0.7857]
+[Epoch 17], [Iter 1501/1510], [TrnLoss 0.7579], [TrnAcc 0.7143]
+Computing val stats..
+-------
+[Epoch 17], [Train Acc 0.7843, [Val Acc 0.272], [Val Loss 2.346]
+
+=========
+Training Epoch 18 (densenet201)
+=========
+
+[Epoch 18], [Iter 1/1510], [TrnLoss 0.4643], [TrnAcc 0.8214]
+[Epoch 18], [Iter 101/1510], [TrnLoss 0.8297], [TrnAcc 0.6786]
+[Epoch 18], [Iter 201/1510], [TrnLoss 0.5713], [TrnAcc 0.8214]
+[Epoch 18], [Iter 301/1510], [TrnLoss 0.6535], [TrnAcc 0.7857]
+[Epoch 18], [Iter 401/1510], [TrnLoss 0.7564], [TrnAcc 0.7143]
+[Epoch 18], [Iter 501/1510], [TrnLoss 0.4001], [TrnAcc 0.8571]
+[Epoch 18], [Iter 601/1510], [TrnLoss 0.4424], [TrnAcc 0.8571]
+[Epoch 18], [Iter 701/1510], [TrnLoss 0.3951], [TrnAcc 0.8571]
+[Epoch 18], [Iter 801/1510], [TrnLoss 0.5075], [TrnAcc 0.7857]
+[Epoch 18], [Iter 901/1510], [TrnLoss 0.5699], [TrnAcc 0.7857]
+[Epoch 18], [Iter 1001/1510], [TrnLoss 0.9604], [TrnAcc 0.6071]
+[Epoch 18], [Iter 1101/1510], [TrnLoss 0.5194], [TrnAcc 0.8214]
+[Epoch 18], [Iter 1201/1510], [TrnLoss 0.7517], [TrnAcc 0.7857]
+[Epoch 18], [Iter 1301/1510], [TrnLoss 0.6589], [TrnAcc 0.7857]
+[Epoch 18], [Iter 1401/1510], [TrnLoss 0.4419], [TrnAcc 0.8571]
+[Epoch 18], [Iter 1501/1510], [TrnLoss 0.5662], [TrnAcc 0.8214]
+Computing val stats..
+-------
+[Epoch 18], [Train Acc 0.7868, [Val Acc 0.2209], [Val Loss 2.425]
+
+=========
+Training Epoch 19 (densenet201)
+=========
+
+[Epoch 19], [Iter 1/1510], [TrnLoss 0.7985], [TrnAcc 0.6429]
+[Epoch 19], [Iter 101/1510], [TrnLoss 0.8563], [TrnAcc 0.75]
+[Epoch 19], [Iter 201/1510], [TrnLoss 0.4395], [TrnAcc 0.8571]
+[Epoch 19], [Iter 301/1510], [TrnLoss 0.8165], [TrnAcc 0.8214]
+[Epoch 19], [Iter 401/1510], [TrnLoss 0.4872], [TrnAcc 0.8571]
+[Epoch 19], [Iter 501/1510], [TrnLoss 0.269], [TrnAcc 0.9286]
+[Epoch 19], [Iter 601/1510], [TrnLoss 0.4926], [TrnAcc 0.8214]
+[Epoch 19], [Iter 701/1510], [TrnLoss 0.7151], [TrnAcc 0.7857]
+[Epoch 19], [Iter 801/1510], [TrnLoss 0.4415], [TrnAcc 0.8214]
+[Epoch 19], [Iter 901/1510], [TrnLoss 0.7938], [TrnAcc 0.7143]
+[Epoch 19], [Iter 1001/1510], [TrnLoss 0.6058], [TrnAcc 0.8214]
+[Epoch 19], [Iter 1101/1510], [TrnLoss 0.5242], [TrnAcc 0.7857]
+[Epoch 19], [Iter 1201/1510], [TrnLoss 0.7889], [TrnAcc 0.7143]
+[Epoch 19], [Iter 1301/1510], [TrnLoss 0.538], [TrnAcc 0.8214]
+[Epoch 19], [Iter 1401/1510], [TrnLoss 0.6172], [TrnAcc 0.8214]
+[Epoch 19], [Iter 1501/1510], [TrnLoss 0.5466], [TrnAcc 0.8571]
+Computing val stats..
+-------
+[Epoch 19], [Train Acc 0.7873, [Val Acc 0.2231], [Val Loss 2.463]
+
+=========
+Training Epoch 20 (densenet201)
+=========
+
+[Epoch 20], [Iter 1/1510], [TrnLoss 0.7355], [TrnAcc 0.7143]
+[Epoch 20], [Iter 101/1510], [TrnLoss 0.6809], [TrnAcc 0.7143]
+[Epoch 20], [Iter 201/1510], [TrnLoss 0.6542], [TrnAcc 0.75]
+[Epoch 20], [Iter 301/1510], [TrnLoss 0.6292], [TrnAcc 0.7857]
+[Epoch 20], [Iter 401/1510], [TrnLoss 0.4632], [TrnAcc 0.8929]
+[Epoch 20], [Iter 501/1510], [TrnLoss 0.5282], [TrnAcc 0.7857]
+[Epoch 20], [Iter 601/1510], [TrnLoss 0.5809], [TrnAcc 0.7857]
+[Epoch 20], [Iter 701/1510], [TrnLoss 0.3795], [TrnAcc 0.8929]
+[Epoch 20], [Iter 801/1510], [TrnLoss 0.5242], [TrnAcc 0.8214]
+[Epoch 20], [Iter 901/1510], [TrnLoss 0.4336], [TrnAcc 0.8929]
+[Epoch 20], [Iter 1001/1510], [TrnLoss 0.8795], [TrnAcc 0.7143]
+[Epoch 20], [Iter 1101/1510], [TrnLoss 0.5803], [TrnAcc 0.7857]
+[Epoch 20], [Iter 1201/1510], [TrnLoss 0.4534], [TrnAcc 0.8929]
+[Epoch 20], [Iter 1301/1510], [TrnLoss 0.6254], [TrnAcc 0.75]
+[Epoch 20], [Iter 1401/1510], [TrnLoss 0.5691], [TrnAcc 0.8214]
+[Epoch 20], [Iter 1501/1510], [TrnLoss 0.7966], [TrnAcc 0.7143]
+Computing val stats..
+-------
+[Epoch 20], [Train Acc 0.7834, [Val Acc 0.2668], [Val Loss 2.41]
+
+=========
+Training Epoch 21 (densenet201)
+=========
+
+[Epoch 21], [Iter 1/1510], [TrnLoss 0.5919], [TrnAcc 0.75]
+[Epoch 21], [Iter 101/1510], [TrnLoss 0.732], [TrnAcc 0.6429]
+[Epoch 21], [Iter 201/1510], [TrnLoss 0.5735], [TrnAcc 0.8214]
+[Epoch 21], [Iter 301/1510], [TrnLoss 0.4409], [TrnAcc 0.8571]
+[Epoch 21], [Iter 401/1510], [TrnLoss 0.3613], [TrnAcc 0.9286]
+[Epoch 21], [Iter 501/1510], [TrnLoss 0.5085], [TrnAcc 0.8214]
+[Epoch 21], [Iter 601/1510], [TrnLoss 0.4905], [TrnAcc 0.8214]
+[Epoch 21], [Iter 701/1510], [TrnLoss 0.6357], [TrnAcc 0.8214]
+[Epoch 21], [Iter 801/1510], [TrnLoss 0.7555], [TrnAcc 0.6786]
+[Epoch 21], [Iter 901/1510], [TrnLoss 0.6072], [TrnAcc 0.8214]
+[Epoch 21], [Iter 1001/1510], [TrnLoss 0.4195], [TrnAcc 0.8929]
+[Epoch 21], [Iter 1101/1510], [TrnLoss 0.3806], [TrnAcc 0.9286]
+[Epoch 21], [Iter 1201/1510], [TrnLoss 0.4576], [TrnAcc 0.8214]
+[Epoch 21], [Iter 1301/1510], [TrnLoss 0.8102], [TrnAcc 0.6429]
+[Epoch 21], [Iter 1401/1510], [TrnLoss 0.8239], [TrnAcc 0.75]
+[Epoch 21], [Iter 1501/1510], [TrnLoss 0.4941], [TrnAcc 0.8214]
+Computing val stats..
+-------
+[Epoch 21], [Train Acc 0.7853, [Val Acc 0.238], [Val Loss 2.514]
+
+=========
+Training Epoch 22 (densenet201)
+=========
+
+[Epoch 22], [Iter 1/1510], [TrnLoss 0.6423], [TrnAcc 0.75]
+[Epoch 22], [Iter 101/1510], [TrnLoss 0.7293], [TrnAcc 0.6786]
+[Epoch 22], [Iter 201/1510], [TrnLoss 0.4723], [TrnAcc 0.8214]
+[Epoch 22], [Iter 301/1510], [TrnLoss 0.6606], [TrnAcc 0.7857]
+[Epoch 22], [Iter 401/1510], [TrnLoss 0.5195], [TrnAcc 0.8571]
+[Epoch 22], [Iter 501/1510], [TrnLoss 0.6436], [TrnAcc 0.8214]
+[Epoch 22], [Iter 601/1510], [TrnLoss 0.4482], [TrnAcc 0.8214]
+[Epoch 22], [Iter 701/1510], [TrnLoss 0.4067], [TrnAcc 0.8571]
+[Epoch 22], [Iter 801/1510], [TrnLoss 0.5481], [TrnAcc 0.8571]
+[Epoch 22], [Iter 901/1510], [TrnLoss 0.3463], [TrnAcc 0.9286]
+[Epoch 22], [Iter 1001/1510], [TrnLoss 0.7193], [TrnAcc 0.75]
+[Epoch 22], [Iter 1101/1510], [TrnLoss 0.4695], [TrnAcc 0.8571]
+[Epoch 22], [Iter 1201/1510], [TrnLoss 0.4961], [TrnAcc 0.8571]
+[Epoch 22], [Iter 1301/1510], [TrnLoss 0.5329], [TrnAcc 0.8929]
+[Epoch 22], [Iter 1401/1510], [TrnLoss 0.6558], [TrnAcc 0.6429]
+[Epoch 22], [Iter 1501/1510], [TrnLoss 0.6697], [TrnAcc 0.75]
+Computing val stats..
+-------
+[Epoch 22], [Train Acc 0.7869, [Val Acc 0.2546], [Val Loss 2.456]
+
+=========
+Training Epoch 23 (densenet201)
+=========
+
+[Epoch 23], [Iter 1/1510], [TrnLoss 0.4285], [TrnAcc 0.8571]
+[Epoch 23], [Iter 101/1510], [TrnLoss 0.7261], [TrnAcc 0.75]
+[Epoch 23], [Iter 201/1510], [TrnLoss 0.626], [TrnAcc 0.8214]
+[Epoch 23], [Iter 301/1510], [TrnLoss 0.5744], [TrnAcc 0.75]
+[Epoch 23], [Iter 401/1510], [TrnLoss 0.4829], [TrnAcc 0.8214]
+[Epoch 23], [Iter 501/1510], [TrnLoss 0.5849], [TrnAcc 0.7857]
+[Epoch 23], [Iter 601/1510], [TrnLoss 0.5001], [TrnAcc 0.7857]
+[Epoch 23], [Iter 701/1510], [TrnLoss 0.6358], [TrnAcc 0.8214]
+[Epoch 23], [Iter 801/1510], [TrnLoss 0.6023], [TrnAcc 0.7857]
+[Epoch 23], [Iter 901/1510], [TrnLoss 0.8941], [TrnAcc 0.6429]
+[Epoch 23], [Iter 1001/1510], [TrnLoss 0.5905], [TrnAcc 0.7857]
+[Epoch 23], [Iter 1101/1510], [TrnLoss 0.3288], [TrnAcc 0.9286]
+[Epoch 23], [Iter 1201/1510], [TrnLoss 0.2244], [TrnAcc 1.0]
+[Epoch 23], [Iter 1301/1510], [TrnLoss 0.5054], [TrnAcc 0.75]
+[Epoch 23], [Iter 1401/1510], [TrnLoss 0.471], [TrnAcc 0.8214]
+[Epoch 23], [Iter 1501/1510], [TrnLoss 0.499], [TrnAcc 0.8214]
+Computing val stats..
+-------
+[Epoch 23], [Train Acc 0.7945, [Val Acc 0.276], [Val Loss 2.414]
+
+=========
+Training Epoch 24 (densenet201)
+=========
+
+[Epoch 24], [Iter 1/1510], [TrnLoss 0.6314], [TrnAcc 0.6786]
+[Epoch 24], [Iter 101/1510], [TrnLoss 0.6146], [TrnAcc 0.6429]
+[Epoch 24], [Iter 201/1510], [TrnLoss 0.5888], [TrnAcc 0.7143]
+[Epoch 24], [Iter 301/1510], [TrnLoss 0.4433], [TrnAcc 0.8214]
+[Epoch 24], [Iter 401/1510], [TrnLoss 0.561], [TrnAcc 0.7143]
+[Epoch 24], [Iter 501/1510], [TrnLoss 0.7362], [TrnAcc 0.75]
+[Epoch 24], [Iter 601/1510], [TrnLoss 0.4917], [TrnAcc 0.8214]
+[Epoch 24], [Iter 701/1510], [TrnLoss 0.6499], [TrnAcc 0.75]
+[Epoch 24], [Iter 801/1510], [TrnLoss 0.6233], [TrnAcc 0.7857]
+[Epoch 24], [Iter 901/1510], [TrnLoss 0.4929], [TrnAcc 0.7857]
+[Epoch 24], [Iter 1001/1510], [TrnLoss 0.7406], [TrnAcc 0.7143]
+[Epoch 24], [Iter 1101/1510], [TrnLoss 0.5446], [TrnAcc 0.7857]
+[Epoch 24], [Iter 1201/1510], [TrnLoss 0.4082], [TrnAcc 0.8571]
+[Epoch 24], [Iter 1301/1510], [TrnLoss 0.6858], [TrnAcc 0.8214]
+[Epoch 24], [Iter 1401/1510], [TrnLoss 0.6298], [TrnAcc 0.75]
+[Epoch 24], [Iter 1501/1510], [TrnLoss 0.6263], [TrnAcc 0.8214]
+Computing val stats..
+-------
+[Epoch 24], [Train Acc 0.7894, [Val Acc 0.2849], [Val Loss 2.377]
+
+=========
+Training Epoch 25 (densenet201)
+=========
+
+[Epoch 25], [Iter 1/1510], [TrnLoss 0.673], [TrnAcc 0.7143]
+[Epoch 25], [Iter 101/1510], [TrnLoss 0.7788], [TrnAcc 0.6429]
+[Epoch 25], [Iter 201/1510], [TrnLoss 0.4268], [TrnAcc 0.7857]
+[Epoch 25], [Iter 301/1510], [TrnLoss 0.4521], [TrnAcc 0.8571]
+[Epoch 25], [Iter 401/1510], [TrnLoss 0.4119], [TrnAcc 0.8929]
+[Epoch 25], [Iter 501/1510], [TrnLoss 0.3764], [TrnAcc 0.8929]
+[Epoch 25], [Iter 601/1510], [TrnLoss 0.5104], [TrnAcc 0.8214]
+[Epoch 25], [Iter 701/1510], [TrnLoss 0.538], [TrnAcc 0.75]
+[Epoch 25], [Iter 801/1510], [TrnLoss 0.6382], [TrnAcc 0.7857]
+[Epoch 25], [Iter 901/1510], [TrnLoss 0.5936], [TrnAcc 0.7143]
+[Epoch 25], [Iter 1001/1510], [TrnLoss 0.7002], [TrnAcc 0.75]
+[Epoch 25], [Iter 1101/1510], [TrnLoss 0.3745], [TrnAcc 0.8571]
+[Epoch 25], [Iter 1201/1510], [TrnLoss 0.4191], [TrnAcc 0.8571]
+[Epoch 25], [Iter 1301/1510], [TrnLoss 0.574], [TrnAcc 0.75]
+[Epoch 25], [Iter 1401/1510], [TrnLoss 0.5357], [TrnAcc 0.8214]
+[Epoch 25], [Iter 1501/1510], [TrnLoss 0.5698], [TrnAcc 0.8571]
+Computing val stats..
+-------
+[Epoch 25], [Train Acc 0.7908, [Val Acc 0.2675], [Val Loss 2.342]
+
+=========
+Training Epoch 26 (densenet201)
+=========
+
+[Epoch 26], [Iter 1/1510], [TrnLoss 0.702], [TrnAcc 0.7143]
+[Epoch 26], [Iter 101/1510], [TrnLoss 0.8286], [TrnAcc 0.5714]
+[Epoch 26], [Iter 201/1510], [TrnLoss 0.4212], [TrnAcc 0.8929]
+[Epoch 26], [Iter 301/1510], [TrnLoss 0.5081], [TrnAcc 0.8929]
+[Epoch 26], [Iter 401/1510], [TrnLoss 0.5276], [TrnAcc 0.8571]
+[Epoch 26], [Iter 501/1510], [TrnLoss 0.411], [TrnAcc 0.8214]
+[Epoch 26], [Iter 601/1510], [TrnLoss 0.3464], [TrnAcc 0.8929]
+[Epoch 26], [Iter 701/1510], [TrnLoss 0.4187], [TrnAcc 0.8929]
+[Epoch 26], [Iter 801/1510], [TrnLoss 0.6294], [TrnAcc 0.7143]
+[Epoch 26], [Iter 901/1510], [TrnLoss 0.7056], [TrnAcc 0.75]
+[Epoch 26], [Iter 1001/1510], [TrnLoss 0.5947], [TrnAcc 0.75]
+[Epoch 26], [Iter 1101/1510], [TrnLoss 0.5173], [TrnAcc 0.8214]
+[Epoch 26], [Iter 1201/1510], [TrnLoss 0.5488], [TrnAcc 0.8214]
+[Epoch 26], [Iter 1301/1510], [TrnLoss 0.6096], [TrnAcc 0.75]
+[Epoch 26], [Iter 1401/1510], [TrnLoss 0.4877], [TrnAcc 0.8571]
+[Epoch 26], [Iter 1501/1510], [TrnLoss 0.5851], [TrnAcc 0.75]
+Computing val stats..
+-------
+[Epoch 26], [Train Acc 0.7944, [Val Acc 0.2494], [Val Loss 2.407]
+
+=========
+Training Epoch 27 (densenet201)
+=========
+
+[Epoch 27], [Iter 1/1510], [TrnLoss 0.6649], [TrnAcc 0.6786]
+[Epoch 27], [Iter 101/1510], [TrnLoss 0.6742], [TrnAcc 0.7143]
+[Epoch 27], [Iter 201/1510], [TrnLoss 0.4467], [TrnAcc 0.7857]
+[Epoch 27], [Iter 301/1510], [TrnLoss 0.7164], [TrnAcc 0.7857]
+[Epoch 27], [Iter 401/1510], [TrnLoss 0.6657], [TrnAcc 0.6786]
+[Epoch 27], [Iter 501/1510], [TrnLoss 0.5435], [TrnAcc 0.8214]
+[Epoch 27], [Iter 601/1510], [TrnLoss 0.5753], [TrnAcc 0.7857]
+[Epoch 27], [Iter 701/1510], [TrnLoss 0.4757], [TrnAcc 0.8214]
+[Epoch 27], [Iter 801/1510], [TrnLoss 0.353], [TrnAcc 0.8571]
+[Epoch 27], [Iter 901/1510], [TrnLoss 0.599], [TrnAcc 0.7143]
+[Epoch 27], [Iter 1001/1510], [TrnLoss 0.7011], [TrnAcc 0.7857]
+[Epoch 27], [Iter 1101/1510], [TrnLoss 0.4382], [TrnAcc 0.7857]
+[Epoch 27], [Iter 1201/1510], [TrnLoss 0.3422], [TrnAcc 0.9643]
+[Epoch 27], [Iter 1301/1510], [TrnLoss 0.8355], [TrnAcc 0.6786]
+[Epoch 27], [Iter 1401/1510], [TrnLoss 0.4804], [TrnAcc 0.7857]
+[Epoch 27], [Iter 1501/1510], [TrnLoss 0.4333], [TrnAcc 0.8214]
+Computing val stats..
+-------
+[Epoch 27], [Train Acc 0.7948, [Val Acc 0.2373], [Val Loss 2.461]
+
+=========
+Training Epoch 28 (densenet201)
+=========
+
+[Epoch 28], [Iter 1/1510], [TrnLoss 0.6241], [TrnAcc 0.7143]
+[Epoch 28], [Iter 101/1510], [TrnLoss 0.6338], [TrnAcc 0.7143]
+[Epoch 28], [Iter 201/1510], [TrnLoss 0.6614], [TrnAcc 0.7143]
+[Epoch 28], [Iter 301/1510], [TrnLoss 0.5454], [TrnAcc 0.8571]
+[Epoch 28], [Iter 401/1510], [TrnLoss 0.529], [TrnAcc 0.8571]
+[Epoch 28], [Iter 501/1510], [TrnLoss 0.4695], [TrnAcc 0.75]
+[Epoch 28], [Iter 601/1510], [TrnLoss 0.6374], [TrnAcc 0.75]
+[Epoch 28], [Iter 701/1510], [TrnLoss 0.6357], [TrnAcc 0.7143]
+[Epoch 28], [Iter 801/1510], [TrnLoss 0.648], [TrnAcc 0.75]
+[Epoch 28], [Iter 901/1510], [TrnLoss 0.4185], [TrnAcc 0.7857]
+[Epoch 28], [Iter 1001/1510], [TrnLoss 0.7964], [TrnAcc 0.6786]
+[Epoch 28], [Iter 1101/1510], [TrnLoss 0.4931], [TrnAcc 0.8214]
+[Epoch 28], [Iter 1201/1510], [TrnLoss 0.5552], [TrnAcc 0.7857]
+[Epoch 28], [Iter 1301/1510], [TrnLoss 0.5121], [TrnAcc 0.7857]
+[Epoch 28], [Iter 1401/1510], [TrnLoss 0.4891], [TrnAcc 0.75]
+[Epoch 28], [Iter 1501/1510], [TrnLoss 0.7054], [TrnAcc 0.7857]
+Computing val stats..
+-------
+[Epoch 28], [Train Acc 0.7919, [Val Acc 0.2516], [Val Loss 2.496]
+
+=========
+Training Epoch 29 (densenet201)
+=========
+
+[Epoch 29], [Iter 1/1510], [TrnLoss 0.6243], [TrnAcc 0.75]
+[Epoch 29], [Iter 101/1510], [TrnLoss 0.5896], [TrnAcc 0.75]
+[Epoch 29], [Iter 201/1510], [TrnLoss 0.382], [TrnAcc 0.8929]
+[Epoch 29], [Iter 301/1510], [TrnLoss 0.5639], [TrnAcc 0.75]
+[Epoch 29], [Iter 401/1510], [TrnLoss 0.6143], [TrnAcc 0.8214]
+[Epoch 29], [Iter 501/1510], [TrnLoss 0.7729], [TrnAcc 0.7857]
+[Epoch 29], [Iter 601/1510], [TrnLoss 0.5407], [TrnAcc 0.8571]
+[Epoch 29], [Iter 701/1510], [TrnLoss 0.4663], [TrnAcc 0.8571]
+[Epoch 29], [Iter 801/1510], [TrnLoss 0.4984], [TrnAcc 0.8214]
+[Epoch 29], [Iter 901/1510], [TrnLoss 0.5329], [TrnAcc 0.7857]
+[Epoch 29], [Iter 1001/1510], [TrnLoss 0.5914], [TrnAcc 0.7857]
+[Epoch 29], [Iter 1101/1510], [TrnLoss 0.513], [TrnAcc 0.7857]
+[Epoch 29], [Iter 1201/1510], [TrnLoss 0.5551], [TrnAcc 0.7857]
+[Epoch 29], [Iter 1301/1510], [TrnLoss 0.7434], [TrnAcc 0.6429]
+[Epoch 29], [Iter 1401/1510], [TrnLoss 0.4802], [TrnAcc 0.8571]
+[Epoch 29], [Iter 1501/1510], [TrnLoss 0.8553], [TrnAcc 0.7143]
+Computing val stats..
+-------
+[Epoch 29], [Train Acc 0.7992, [Val Acc 0.2519], [Val Loss 2.488]
+
+=========
+Training Epoch 30 (densenet201)
+=========
+
+[Epoch 30], [Iter 1/1510], [TrnLoss 0.7143], [TrnAcc 0.6786]
+[Epoch 30], [Iter 101/1510], [TrnLoss 0.5089], [TrnAcc 0.75]
+[Epoch 30], [Iter 201/1510], [TrnLoss 0.721], [TrnAcc 0.6786]
+[Epoch 30], [Iter 301/1510], [TrnLoss 0.6876], [TrnAcc 0.7143]
+[Epoch 30], [Iter 401/1510], [TrnLoss 0.8417], [TrnAcc 0.6786]
+[Epoch 30], [Iter 501/1510], [TrnLoss 0.5042], [TrnAcc 0.8214]
+[Epoch 30], [Iter 601/1510], [TrnLoss 0.7542], [TrnAcc 0.7143]
+[Epoch 30], [Iter 701/1510], [TrnLoss 0.6435], [TrnAcc 0.6786]
+[Epoch 30], [Iter 801/1510], [TrnLoss 0.6047], [TrnAcc 0.7143]
+[Epoch 30], [Iter 901/1510], [TrnLoss 0.5941], [TrnAcc 0.7143]
+[Epoch 30], [Iter 1001/1510], [TrnLoss 0.7033], [TrnAcc 0.6786]
+[Epoch 30], [Iter 1101/1510], [TrnLoss 0.4452], [TrnAcc 0.8929]
+[Epoch 30], [Iter 1201/1510], [TrnLoss 0.4248], [TrnAcc 0.7857]
+[Epoch 30], [Iter 1301/1510], [TrnLoss 0.5038], [TrnAcc 0.8571]
+[Epoch 30], [Iter 1401/1510], [TrnLoss 0.5966], [TrnAcc 0.7857]
+[Epoch 30], [Iter 1501/1510], [TrnLoss 0.562], [TrnAcc 0.6786]
+Computing val stats..
+-------
+[Epoch 30], [Train Acc 0.7916, [Val Acc 0.2638], [Val Loss 2.351]
+
+=========
+Training Epoch 31 (densenet201)
+=========
+
+[Epoch 31], [Iter 1/1510], [TrnLoss 0.3624], [TrnAcc 0.9286]
+[Epoch 31], [Iter 101/1510], [TrnLoss 0.4109], [TrnAcc 0.8929]
+[Epoch 31], [Iter 201/1510], [TrnLoss 0.5582], [TrnAcc 0.7857]
+[Epoch 31], [Iter 301/1510], [TrnLoss 0.7924], [TrnAcc 0.75]
+[Epoch 31], [Iter 401/1510], [TrnLoss 0.4647], [TrnAcc 0.8214]
+[Epoch 31], [Iter 501/1510], [TrnLoss 0.4139], [TrnAcc 0.8929]
+[Epoch 31], [Iter 601/1510], [TrnLoss 0.3824], [TrnAcc 0.8571]
+[Epoch 31], [Iter 701/1510], [TrnLoss 0.4595], [TrnAcc 0.8214]
+[Epoch 31], [Iter 801/1510], [TrnLoss 0.6172], [TrnAcc 0.75]
+[Epoch 31], [Iter 901/1510], [TrnLoss 0.4811], [TrnAcc 0.8571]
+[Epoch 31], [Iter 1001/1510], [TrnLoss 0.5477], [TrnAcc 0.8929]
+[Epoch 31], [Iter 1101/1510], [TrnLoss 0.5812], [TrnAcc 0.7857]
+[Epoch 31], [Iter 1201/1510], [TrnLoss 0.5919], [TrnAcc 0.7857]
+[Epoch 31], [Iter 1301/1510], [TrnLoss 0.4914], [TrnAcc 0.8214]
+[Epoch 31], [Iter 1401/1510], [TrnLoss 0.5263], [TrnAcc 0.8571]
+[Epoch 31], [Iter 1501/1510], [TrnLoss 0.6373], [TrnAcc 0.7857]
+Computing val stats..
+-------
+[Epoch 31], [Train Acc 0.7952, [Val Acc 0.2615], [Val Loss 2.405]
+
+=========
+Training Epoch 32 (densenet201)
+=========
+
+[Epoch 32], [Iter 1/1510], [TrnLoss 0.5892], [TrnAcc 0.8214]
+[Epoch 32], [Iter 101/1510], [TrnLoss 0.5858], [TrnAcc 0.75]
+[Epoch 32], [Iter 201/1510], [TrnLoss 0.6466], [TrnAcc 0.6429]
+[Epoch 32], [Iter 301/1510], [TrnLoss 0.3451], [TrnAcc 0.9286]
+[Epoch 32], [Iter 401/1510], [TrnLoss 0.5973], [TrnAcc 0.8214]
+[Epoch 32], [Iter 501/1510], [TrnLoss 0.3877], [TrnAcc 0.8929]
+[Epoch 32], [Iter 601/1510], [TrnLoss 0.2743], [TrnAcc 0.8929]
+[Epoch 32], [Iter 701/1510], [TrnLoss 0.4966], [TrnAcc 0.7857]
+[Epoch 32], [Iter 801/1510], [TrnLoss 0.4583], [TrnAcc 0.8214]
+[Epoch 32], [Iter 901/1510], [TrnLoss 0.4344], [TrnAcc 0.8571]
+[Epoch 32], [Iter 1001/1510], [TrnLoss 0.8517], [TrnAcc 0.7143]
+[Epoch 32], [Iter 1101/1510], [TrnLoss 0.3584], [TrnAcc 0.8571]
+[Epoch 32], [Iter 1201/1510], [TrnLoss 0.5646], [TrnAcc 0.75]
+[Epoch 32], [Iter 1301/1510], [TrnLoss 0.4836], [TrnAcc 0.7857]
+[Epoch 32], [Iter 1401/1510], [TrnLoss 0.5978], [TrnAcc 0.8214]
+[Epoch 32], [Iter 1501/1510], [TrnLoss 0.7423], [TrnAcc 0.75]
+Computing val stats..
+-------
+[Epoch 32], [Train Acc 0.7969, [Val Acc 0.2836], [Val Loss 2.372]
+
+=========
+Training Epoch 33 (densenet201)
+=========
+
+[Epoch 33], [Iter 1/1510], [TrnLoss 0.5543], [TrnAcc 0.75]
+[Epoch 33], [Iter 101/1510], [TrnLoss 0.5747], [TrnAcc 0.75]
+[Epoch 33], [Iter 201/1510], [TrnLoss 0.4923], [TrnAcc 0.8214]
+[Epoch 33], [Iter 301/1510], [TrnLoss 0.6492], [TrnAcc 0.7857]
+[Epoch 33], [Iter 401/1510], [TrnLoss 0.4596], [TrnAcc 0.8214]
+[Epoch 33], [Iter 501/1510], [TrnLoss 0.7091], [TrnAcc 0.7857]
+[Epoch 33], [Iter 601/1510], [TrnLoss 0.4504], [TrnAcc 0.8214]
+[Epoch 33], [Iter 701/1510], [TrnLoss 0.8228], [TrnAcc 0.6429]
+[Epoch 33], [Iter 801/1510], [TrnLoss 0.6479], [TrnAcc 0.7857]
+[Epoch 33], [Iter 901/1510], [TrnLoss 0.7252], [TrnAcc 0.6429]
+[Epoch 33], [Iter 1001/1510], [TrnLoss 0.5112], [TrnAcc 0.8929]
+[Epoch 33], [Iter 1101/1510], [TrnLoss 0.4329], [TrnAcc 0.8571]
+[Epoch 33], [Iter 1201/1510], [TrnLoss 0.4659], [TrnAcc 0.7857]
+[Epoch 33], [Iter 1301/1510], [TrnLoss 0.4595], [TrnAcc 0.8214]
+[Epoch 33], [Iter 1401/1510], [TrnLoss 0.5461], [TrnAcc 0.8214]
+[Epoch 33], [Iter 1501/1510], [TrnLoss 0.7539], [TrnAcc 0.75]
+Computing val stats..
+-------
+[Epoch 33], [Train Acc 0.7968, [Val Acc 0.2333], [Val Loss 2.464]
+
+=========
+Training Epoch 34 (densenet201)
+=========
+
+[Epoch 34], [Iter 1/1510], [TrnLoss 0.7779], [TrnAcc 0.75]
+[Epoch 34], [Iter 101/1510], [TrnLoss 0.7413], [TrnAcc 0.6786]
+[Epoch 34], [Iter 201/1510], [TrnLoss 0.5707], [TrnAcc 0.7143]
+[Epoch 34], [Iter 301/1510], [TrnLoss 0.5069], [TrnAcc 0.8214]
+[Epoch 34], [Iter 401/1510], [TrnLoss 0.5165], [TrnAcc 0.7857]
+[Epoch 34], [Iter 501/1510], [TrnLoss 0.6142], [TrnAcc 0.7143]
+[Epoch 34], [Iter 601/1510], [TrnLoss 0.5082], [TrnAcc 0.8571]
+[Epoch 34], [Iter 701/1510], [TrnLoss 0.4643], [TrnAcc 0.8571]
+[Epoch 34], [Iter 801/1510], [TrnLoss 0.763], [TrnAcc 0.75]
+[Epoch 34], [Iter 901/1510], [TrnLoss 0.5394], [TrnAcc 0.8571]
+[Epoch 34], [Iter 1001/1510], [TrnLoss 0.4223], [TrnAcc 0.9286]
+[Epoch 34], [Iter 1101/1510], [TrnLoss 0.7247], [TrnAcc 0.6786]
+[Epoch 34], [Iter 1201/1510], [TrnLoss 0.3719], [TrnAcc 0.8214]
+[Epoch 34], [Iter 1301/1510], [TrnLoss 0.7246], [TrnAcc 0.7857]
+[Epoch 34], [Iter 1401/1510], [TrnLoss 0.6731], [TrnAcc 0.7143]
+[Epoch 34], [Iter 1501/1510], [TrnLoss 0.484], [TrnAcc 0.75]
+Computing val stats..
+-------
+[Epoch 34], [Train Acc 0.7994, [Val Acc 0.2889], [Val Loss 2.272]
+
+=========
+Training Epoch 35 (densenet201)
+=========
+
+[Epoch 35], [Iter 1/1510], [TrnLoss 0.4768], [TrnAcc 0.8571]
+[Epoch 35], [Iter 101/1510], [TrnLoss 0.5516], [TrnAcc 0.7857]
+[Epoch 35], [Iter 201/1510], [TrnLoss 0.5925], [TrnAcc 0.7857]
+[Epoch 35], [Iter 301/1510], [TrnLoss 0.4506], [TrnAcc 0.8571]
+[Epoch 35], [Iter 401/1510], [TrnLoss 0.5035], [TrnAcc 0.8214]
+[Epoch 35], [Iter 501/1510], [TrnLoss 0.9149], [TrnAcc 0.6786]
+[Epoch 35], [Iter 601/1510], [TrnLoss 0.3189], [TrnAcc 0.9286]
+[Epoch 35], [Iter 701/1510], [TrnLoss 0.6589], [TrnAcc 0.7857]
+[Epoch 35], [Iter 801/1510], [TrnLoss 0.3868], [TrnAcc 0.8571]
+[Epoch 35], [Iter 901/1510], [TrnLoss 0.348], [TrnAcc 0.8929]
+[Epoch 35], [Iter 1001/1510], [TrnLoss 0.8306], [TrnAcc 0.7143]
+[Epoch 35], [Iter 1101/1510], [TrnLoss 0.4015], [TrnAcc 0.8929]
+[Epoch 35], [Iter 1201/1510], [TrnLoss 0.3755], [TrnAcc 0.8929]
+[Epoch 35], [Iter 1301/1510], [TrnLoss 0.5306], [TrnAcc 0.8571]
+[Epoch 35], [Iter 1401/1510], [TrnLoss 0.4889], [TrnAcc 0.7857]
+[Epoch 35], [Iter 1501/1510], [TrnLoss 0.3609], [TrnAcc 0.8929]
+Computing val stats..
+-------
+[Epoch 35], [Train Acc 0.7997, [Val Acc 0.2532], [Val Loss 2.388]
+
+=========
+Training Epoch 36 (densenet201)
+=========
+
+[Epoch 36], [Iter 1/1510], [TrnLoss 0.5942], [TrnAcc 0.7143]
+[Epoch 36], [Iter 101/1510], [TrnLoss 0.5843], [TrnAcc 0.75]
+[Epoch 36], [Iter 201/1510], [TrnLoss 0.6392], [TrnAcc 0.7857]
+[Epoch 36], [Iter 301/1510], [TrnLoss 0.5832], [TrnAcc 0.6786]
+[Epoch 36], [Iter 401/1510], [TrnLoss 0.5194], [TrnAcc 0.8929]
+[Epoch 36], [Iter 501/1510], [TrnLoss 0.5798], [TrnAcc 0.7857]
+[Epoch 36], [Iter 601/1510], [TrnLoss 0.5291], [TrnAcc 0.75]
+[Epoch 36], [Iter 701/1510], [TrnLoss 0.4693], [TrnAcc 0.8214]
+[Epoch 36], [Iter 801/1510], [TrnLoss 0.4682], [TrnAcc 0.8214]
+[Epoch 36], [Iter 901/1510], [TrnLoss 0.5188], [TrnAcc 0.8929]
+[Epoch 36], [Iter 1001/1510], [TrnLoss 0.9102], [TrnAcc 0.6786]
+[Epoch 36], [Iter 1101/1510], [TrnLoss 0.4191], [TrnAcc 0.8571]
+[Epoch 36], [Iter 1201/1510], [TrnLoss 0.3769], [TrnAcc 0.8571]
+[Epoch 36], [Iter 1301/1510], [TrnLoss 0.629], [TrnAcc 0.75]
+[Epoch 36], [Iter 1401/1510], [TrnLoss 0.4266], [TrnAcc 0.8214]
+[Epoch 36], [Iter 1501/1510], [TrnLoss 0.402], [TrnAcc 0.8571]
+Computing val stats..
+-------
+[Epoch 36], [Train Acc 0.8017, [Val Acc 0.2385], [Val Loss 2.409]
+
+=========
+Training Epoch 37 (densenet201)
+=========
+
+[Epoch 37], [Iter 1/1510], [TrnLoss 0.6973], [TrnAcc 0.75]
+[Epoch 37], [Iter 101/1510], [TrnLoss 0.7273], [TrnAcc 0.6786]
+[Epoch 37], [Iter 201/1510], [TrnLoss 0.7385], [TrnAcc 0.7143]
+[Epoch 37], [Iter 301/1510], [TrnLoss 0.6637], [TrnAcc 0.7857]
+[Epoch 37], [Iter 401/1510], [TrnLoss 0.3898], [TrnAcc 0.8929]
+[Epoch 37], [Iter 501/1510], [TrnLoss 0.7104], [TrnAcc 0.6786]
+[Epoch 37], [Iter 601/1510], [TrnLoss 0.4057], [TrnAcc 0.9286]
+[Epoch 37], [Iter 701/1510], [TrnLoss 0.5334], [TrnAcc 0.7857]
+[Epoch 37], [Iter 801/1510], [TrnLoss 0.3422], [TrnAcc 0.8571]
+[Epoch 37], [Iter 901/1510], [TrnLoss 0.5005], [TrnAcc 0.8214]
+[Epoch 37], [Iter 1001/1510], [TrnLoss 0.4793], [TrnAcc 0.8571]
+[Epoch 37], [Iter 1101/1510], [TrnLoss 0.8705], [TrnAcc 0.6429]
+[Epoch 37], [Iter 1201/1510], [TrnLoss 0.7114], [TrnAcc 0.75]
+[Epoch 37], [Iter 1301/1510], [TrnLoss 0.7859], [TrnAcc 0.6071]
+[Epoch 37], [Iter 1401/1510], [TrnLoss 0.578], [TrnAcc 0.75]
+[Epoch 37], [Iter 1501/1510], [TrnLoss 0.4593], [TrnAcc 0.7857]
+Computing val stats..
+-------
+[Epoch 37], [Train Acc 0.7978, [Val Acc 0.2598], [Val Loss 2.515]
+
+=========
+Training Epoch 38 (densenet201)
+=========
+
+[Epoch 38], [Iter 1/1510], [TrnLoss 0.3654], [TrnAcc 0.8929]
+[Epoch 38], [Iter 101/1510], [TrnLoss 0.4624], [TrnAcc 0.7857]
+[Epoch 38], [Iter 201/1510], [TrnLoss 0.4393], [TrnAcc 0.8214]
+[Epoch 38], [Iter 301/1510], [TrnLoss 0.4506], [TrnAcc 0.8929]
+[Epoch 38], [Iter 401/1510], [TrnLoss 0.4234], [TrnAcc 0.8929]
+[Epoch 38], [Iter 501/1510], [TrnLoss 0.4639], [TrnAcc 0.8571]
+[Epoch 38], [Iter 601/1510], [TrnLoss 0.3829], [TrnAcc 0.9286]
+[Epoch 38], [Iter 701/1510], [TrnLoss 0.4915], [TrnAcc 0.8571]
+[Epoch 38], [Iter 801/1510], [TrnLoss 0.6747], [TrnAcc 0.8214]
+[Epoch 38], [Iter 901/1510], [TrnLoss 0.5509], [TrnAcc 0.8214]
+[Epoch 38], [Iter 1001/1510], [TrnLoss 0.4468], [TrnAcc 0.8214]
+[Epoch 38], [Iter 1101/1510], [TrnLoss 0.3908], [TrnAcc 0.9286]
+[Epoch 38], [Iter 1201/1510], [TrnLoss 0.3364], [TrnAcc 0.8571]
+[Epoch 38], [Iter 1301/1510], [TrnLoss 0.9455], [TrnAcc 0.6429]
+[Epoch 38], [Iter 1401/1510], [TrnLoss 0.6867], [TrnAcc 0.75]
+[Epoch 38], [Iter 1501/1510], [TrnLoss 0.6397], [TrnAcc 0.8214]
+Computing val stats..
+-------
+[Epoch 38], [Train Acc 0.8024, [Val Acc 0.2846], [Val Loss 2.366]
+
+=========
+Training Epoch 39 (densenet201)
+=========
+
+[Epoch 39], [Iter 1/1510], [TrnLoss 0.5137], [TrnAcc 0.8571]
+[Epoch 39], [Iter 101/1510], [TrnLoss 0.7154], [TrnAcc 0.7143]
+[Epoch 39], [Iter 201/1510], [TrnLoss 0.5147], [TrnAcc 0.7857]
+[Epoch 39], [Iter 301/1510], [TrnLoss 0.5202], [TrnAcc 0.8571]
+[Epoch 39], [Iter 401/1510], [TrnLoss 0.3646], [TrnAcc 0.8929]
+[Epoch 39], [Iter 501/1510], [TrnLoss 0.6123], [TrnAcc 0.7857]
+[Epoch 39], [Iter 601/1510], [TrnLoss 0.4575], [TrnAcc 0.8571]
+[Epoch 39], [Iter 701/1510], [TrnLoss 0.2389], [TrnAcc 0.9643]
+[Epoch 39], [Iter 801/1510], [TrnLoss 0.4387], [TrnAcc 0.8214]
+[Epoch 39], [Iter 901/1510], [TrnLoss 0.5431], [TrnAcc 0.75]
+[Epoch 39], [Iter 1001/1510], [TrnLoss 0.7741], [TrnAcc 0.7857]
+[Epoch 39], [Iter 1101/1510], [TrnLoss 0.5025], [TrnAcc 0.8571]
+[Epoch 39], [Iter 1201/1510], [TrnLoss 0.6152], [TrnAcc 0.8214]
+[Epoch 39], [Iter 1301/1510], [TrnLoss 0.752], [TrnAcc 0.75]
+[Epoch 39], [Iter 1401/1510], [TrnLoss 0.6722], [TrnAcc 0.7143]
+[Epoch 39], [Iter 1501/1510], [TrnLoss 0.4876], [TrnAcc 0.7857]
+Computing val stats..
+-------
+[Epoch 39], [Train Acc 0.8035, [Val Acc 0.2393], [Val Loss 2.508]
+
+=========
+Training Epoch 40 (densenet201)
+=========
+
+[Epoch 40], [Iter 1/1510], [TrnLoss 0.5226], [TrnAcc 0.7143]
+[Epoch 40], [Iter 101/1510], [TrnLoss 0.5351], [TrnAcc 0.8214]
+[Epoch 40], [Iter 201/1510], [TrnLoss 0.4336], [TrnAcc 0.8929]
+[Epoch 40], [Iter 301/1510], [TrnLoss 0.6441], [TrnAcc 0.7857]
+[Epoch 40], [Iter 401/1510], [TrnLoss 0.4038], [TrnAcc 0.8929]
+[Epoch 40], [Iter 501/1510], [TrnLoss 0.5474], [TrnAcc 0.7857]
+[Epoch 40], [Iter 601/1510], [TrnLoss 0.3345], [TrnAcc 0.9286]
+[Epoch 40], [Iter 701/1510], [TrnLoss 0.6313], [TrnAcc 0.7143]
+[Epoch 40], [Iter 801/1510], [TrnLoss 0.5434], [TrnAcc 0.8571]
+[Epoch 40], [Iter 901/1510], [TrnLoss 0.5291], [TrnAcc 0.8571]
+[Epoch 40], [Iter 1001/1510], [TrnLoss 0.5681], [TrnAcc 0.8571]
+[Epoch 40], [Iter 1101/1510], [TrnLoss 0.3683], [TrnAcc 0.8929]
+[Epoch 40], [Iter 1201/1510], [TrnLoss 0.6084], [TrnAcc 0.8214]
+[Epoch 40], [Iter 1301/1510], [TrnLoss 0.6402], [TrnAcc 0.7857]
+[Epoch 40], [Iter 1401/1510], [TrnLoss 0.5806], [TrnAcc 0.7857]
+[Epoch 40], [Iter 1501/1510], [TrnLoss 0.5769], [TrnAcc 0.7857]
+Computing val stats..
+-------
+[Epoch 40], [Train Acc 0.8021, [Val Acc 0.276], [Val Loss 2.393]
+
+=========
+Training Epoch 1 (vgg16)
+=========
+
+[Epoch 1], [Iter 1/1510], [TrnLoss 2.032], [TrnAcc 0.1786]
+[Epoch 1], [Iter 101/1510], [TrnLoss 2.48], [TrnAcc 0.1429]
+[Epoch 1], [Iter 201/1510], [TrnLoss 3.701], [TrnAcc 0.1786]
+[Epoch 1], [Iter 301/1510], [TrnLoss 2.177], [TrnAcc 0.1071]
+[Epoch 1], [Iter 401/1510], [TrnLoss 2.674], [TrnAcc 0.25]
+[Epoch 1], [Iter 501/1510], [TrnLoss 1.804], [TrnAcc 0.1786]
+[Epoch 1], [Iter 601/1510], [TrnLoss 2.244], [TrnAcc 0.3929]
+[Epoch 1], [Iter 701/1510], [TrnLoss 1.642], [TrnAcc 0.25]
+[Epoch 1], [Iter 801/1510], [TrnLoss 1.747], [TrnAcc 0.3214]
+[Epoch 1], [Iter 901/1510], [TrnLoss 1.998], [TrnAcc 0.25]
+[Epoch 1], [Iter 1001/1510], [TrnLoss 1.756], [TrnAcc 0.2857]
+[Epoch 1], [Iter 1101/1510], [TrnLoss 1.837], [TrnAcc 0.2857]
+[Epoch 1], [Iter 1201/1510], [TrnLoss 1.555], [TrnAcc 0.2857]
+[Epoch 1], [Iter 1301/1510], [TrnLoss 1.366], [TrnAcc 0.2857]
+[Epoch 1], [Iter 1401/1510], [TrnLoss 1.485], [TrnAcc 0.3929]
+[Epoch 1], [Iter 1501/1510], [TrnLoss 1.795], [TrnAcc 0.25]
+Computing val stats..
+-------
+[Epoch 1], [Train Acc 0.2734, [Val Acc 0.1618], [Val Loss 1.884]
+
+=========
+Training Epoch 2 (vgg16)
+=========
+
+[Epoch 2], [Iter 1/1510], [TrnLoss 1.535], [TrnAcc 0.25]
+[Epoch 2], [Iter 101/1510], [TrnLoss 1.635], [TrnAcc 0.2857]
+[Epoch 2], [Iter 201/1510], [TrnLoss 1.561], [TrnAcc 0.3929]
+[Epoch 2], [Iter 301/1510], [TrnLoss 1.44], [TrnAcc 0.4286]
+[Epoch 2], [Iter 401/1510], [TrnLoss 1.456], [TrnAcc 0.5714]
+[Epoch 2], [Iter 501/1510], [TrnLoss 1.313], [TrnAcc 0.5]
+[Epoch 2], [Iter 601/1510], [TrnLoss 1.35], [TrnAcc 0.3571]
+[Epoch 2], [Iter 701/1510], [TrnLoss 1.759], [TrnAcc 0.25]
+[Epoch 2], [Iter 801/1510], [TrnLoss 1.286], [TrnAcc 0.5]
+[Epoch 2], [Iter 901/1510], [TrnLoss 1.149], [TrnAcc 0.3929]
+[Epoch 2], [Iter 1001/1510], [TrnLoss 1.101], [TrnAcc 0.7143]
+[Epoch 2], [Iter 1101/1510], [TrnLoss 1.501], [TrnAcc 0.4286]
+[Epoch 2], [Iter 1201/1510], [TrnLoss 1.167], [TrnAcc 0.5]
+[Epoch 2], [Iter 1301/1510], [TrnLoss 1.155], [TrnAcc 0.6071]
+[Epoch 2], [Iter 1401/1510], [TrnLoss 1.345], [TrnAcc 0.3929]
+[Epoch 2], [Iter 1501/1510], [TrnLoss 1.304], [TrnAcc 0.4286]
+Computing val stats..
+-------
+[Epoch 2], [Train Acc 0.4422, [Val Acc 0.1221], [Val Loss 2.595]
+
+=========
+Training Epoch 3 (vgg16)
+=========
+
+[Epoch 3], [Iter 1/1510], [TrnLoss 1.453], [TrnAcc 0.4286]
+[Epoch 3], [Iter 101/1510], [TrnLoss 1.486], [TrnAcc 0.5]
+[Epoch 3], [Iter 201/1510], [TrnLoss 1.176], [TrnAcc 0.4643]
+[Epoch 3], [Iter 301/1510], [TrnLoss 1.731], [TrnAcc 0.4286]
+[Epoch 3], [Iter 401/1510], [TrnLoss 1.225], [TrnAcc 0.5]
+[Epoch 3], [Iter 501/1510], [TrnLoss 1.374], [TrnAcc 0.6071]
+[Epoch 3], [Iter 601/1510], [TrnLoss 1.291], [TrnAcc 0.5357]
+[Epoch 3], [Iter 701/1510], [TrnLoss 0.9459], [TrnAcc 0.6786]
+[Epoch 3], [Iter 801/1510], [TrnLoss 1.216], [TrnAcc 0.3929]
+[Epoch 3], [Iter 901/1510], [TrnLoss 1.27], [TrnAcc 0.4286]
+[Epoch 3], [Iter 1001/1510], [TrnLoss 1.245], [TrnAcc 0.6071]
+[Epoch 3], [Iter 1101/1510], [TrnLoss 1.115], [TrnAcc 0.6071]
+[Epoch 3], [Iter 1201/1510], [TrnLoss 1.036], [TrnAcc 0.6429]
+[Epoch 3], [Iter 1301/1510], [TrnLoss 1.314], [TrnAcc 0.5]
+[Epoch 3], [Iter 1401/1510], [TrnLoss 1.195], [TrnAcc 0.5357]
+[Epoch 3], [Iter 1501/1510], [TrnLoss 0.9244], [TrnAcc 0.7857]
+Computing val stats..
+-------
+[Epoch 3], [Train Acc 0.5263, [Val Acc 0.149], [Val Loss 2.574]
+
+=========
+Training Epoch 4 (vgg16)
+=========
+
+[Epoch 4], [Iter 1/1510], [TrnLoss 1.363], [TrnAcc 0.3571]
+[Epoch 4], [Iter 101/1510], [TrnLoss 1.207], [TrnAcc 0.5357]
+[Epoch 4], [Iter 201/1510], [TrnLoss 1.118], [TrnAcc 0.5357]
+[Epoch 4], [Iter 301/1510], [TrnLoss 1.247], [TrnAcc 0.5]
+[Epoch 4], [Iter 401/1510], [TrnLoss 1.003], [TrnAcc 0.6071]
+[Epoch 4], [Iter 501/1510], [TrnLoss 1.274], [TrnAcc 0.5]
+[Epoch 4], [Iter 601/1510], [TrnLoss 1.065], [TrnAcc 0.6786]
+[Epoch 4], [Iter 701/1510], [TrnLoss 1.207], [TrnAcc 0.6429]
+[Epoch 4], [Iter 801/1510], [TrnLoss 1.164], [TrnAcc 0.5]
+[Epoch 4], [Iter 901/1510], [TrnLoss 1.155], [TrnAcc 0.6071]
+[Epoch 4], [Iter 1001/1510], [TrnLoss 0.9304], [TrnAcc 0.7143]
+[Epoch 4], [Iter 1101/1510], [TrnLoss 1.159], [TrnAcc 0.6071]
+[Epoch 4], [Iter 1201/1510], [TrnLoss 1.082], [TrnAcc 0.5714]
+[Epoch 4], [Iter 1301/1510], [TrnLoss 1.139], [TrnAcc 0.5714]
+[Epoch 4], [Iter 1401/1510], [TrnLoss 0.9888], [TrnAcc 0.5357]
+[Epoch 4], [Iter 1501/1510], [TrnLoss 1.277], [TrnAcc 0.5714]
+Computing val stats..
+-------
+[Epoch 4], [Train Acc 0.5633, [Val Acc 0.2144], [Val Loss 2.183]
+
+=========
+Training Epoch 5 (vgg16)
+=========
+
+[Epoch 5], [Iter 1/1510], [TrnLoss 1.105], [TrnAcc 0.5714]
+[Epoch 5], [Iter 101/1510], [TrnLoss 1.202], [TrnAcc 0.5357]
+[Epoch 5], [Iter 201/1510], [TrnLoss 0.9507], [TrnAcc 0.6786]
+[Epoch 5], [Iter 301/1510], [TrnLoss 1.476], [TrnAcc 0.5]
+[Epoch 5], [Iter 401/1510], [TrnLoss 0.9987], [TrnAcc 0.6071]
+[Epoch 5], [Iter 501/1510], [TrnLoss 0.8616], [TrnAcc 0.7143]
+[Epoch 5], [Iter 601/1510], [TrnLoss 0.8907], [TrnAcc 0.6429]
+[Epoch 5], [Iter 701/1510], [TrnLoss 1.042], [TrnAcc 0.5]
+[Epoch 5], [Iter 801/1510], [TrnLoss 0.8916], [TrnAcc 0.6786]
+[Epoch 5], [Iter 901/1510], [TrnLoss 1.072], [TrnAcc 0.5714]
+[Epoch 5], [Iter 1001/1510], [TrnLoss 0.8361], [TrnAcc 0.6786]
+[Epoch 5], [Iter 1101/1510], [TrnLoss 1.072], [TrnAcc 0.5714]
+[Epoch 5], [Iter 1201/1510], [TrnLoss 0.8787], [TrnAcc 0.6071]
+[Epoch 5], [Iter 1301/1510], [TrnLoss 0.9953], [TrnAcc 0.6071]
+[Epoch 5], [Iter 1401/1510], [TrnLoss 1.098], [TrnAcc 0.4643]
+[Epoch 5], [Iter 1501/1510], [TrnLoss 1.204], [TrnAcc 0.5714]
+Computing val stats..
+-------
+[Epoch 5], [Train Acc 0.5774, [Val Acc 0.1971], [Val Loss 2.422]
+
+=========
+Training Epoch 6 (vgg16)
+=========
+
+[Epoch 6], [Iter 1/1510], [TrnLoss 1.172], [TrnAcc 0.5714]
+[Epoch 6], [Iter 101/1510], [TrnLoss 1.155], [TrnAcc 0.5714]
+[Epoch 6], [Iter 201/1510], [TrnLoss 1.099], [TrnAcc 0.5357]
+[Epoch 6], [Iter 301/1510], [TrnLoss 1.201], [TrnAcc 0.6786]
+[Epoch 6], [Iter 401/1510], [TrnLoss 0.7752], [TrnAcc 0.7143]
+[Epoch 6], [Iter 501/1510], [TrnLoss 1.168], [TrnAcc 0.5714]
+[Epoch 6], [Iter 601/1510], [TrnLoss 1.2], [TrnAcc 0.5714]
+[Epoch 6], [Iter 701/1510], [TrnLoss 1.075], [TrnAcc 0.6071]
+[Epoch 6], [Iter 801/1510], [TrnLoss 1.196], [TrnAcc 0.5]
+[Epoch 6], [Iter 901/1510], [TrnLoss 0.9548], [TrnAcc 0.7143]
+[Epoch 6], [Iter 1001/1510], [TrnLoss 1.244], [TrnAcc 0.5357]
+[Epoch 6], [Iter 1101/1510], [TrnLoss 1.057], [TrnAcc 0.6071]
+[Epoch 6], [Iter 1201/1510], [TrnLoss 0.9936], [TrnAcc 0.5]
+[Epoch 6], [Iter 1301/1510], [TrnLoss 1.213], [TrnAcc 0.5714]
+[Epoch 6], [Iter 1401/1510], [TrnLoss 1.317], [TrnAcc 0.6071]
+[Epoch 6], [Iter 1501/1510], [TrnLoss 1.193], [TrnAcc 0.5357]
+Computing val stats..
+-------
+[Epoch 6], [Train Acc 0.5904, [Val Acc 0.1966], [Val Loss 2.44]
+
+=========
+Training Epoch 7 (vgg16)
+=========
+
+[Epoch 7], [Iter 1/1510], [TrnLoss 1.186], [TrnAcc 0.3929]
+[Epoch 7], [Iter 101/1510], [TrnLoss 1.111], [TrnAcc 0.5714]
+[Epoch 7], [Iter 201/1510], [TrnLoss 1.056], [TrnAcc 0.6786]
+[Epoch 7], [Iter 301/1510], [TrnLoss 1.644], [TrnAcc 0.4286]
+[Epoch 7], [Iter 401/1510], [TrnLoss 0.9171], [TrnAcc 0.75]
+[Epoch 7], [Iter 501/1510], [TrnLoss 1.097], [TrnAcc 0.6071]
+[Epoch 7], [Iter 601/1510], [TrnLoss 0.9835], [TrnAcc 0.6071]
+[Epoch 7], [Iter 701/1510], [TrnLoss 0.9003], [TrnAcc 0.5714]
+[Epoch 7], [Iter 801/1510], [TrnLoss 1.096], [TrnAcc 0.5714]
+[Epoch 7], [Iter 901/1510], [TrnLoss 1.101], [TrnAcc 0.5714]
+[Epoch 7], [Iter 1001/1510], [TrnLoss 1.119], [TrnAcc 0.5714]
+[Epoch 7], [Iter 1101/1510], [TrnLoss 1.262], [TrnAcc 0.5714]
+[Epoch 7], [Iter 1201/1510], [TrnLoss 0.782], [TrnAcc 0.7143]
+[Epoch 7], [Iter 1301/1510], [TrnLoss 1.325], [TrnAcc 0.4286]
+[Epoch 7], [Iter 1401/1510], [TrnLoss 0.9294], [TrnAcc 0.7143]
+[Epoch 7], [Iter 1501/1510], [TrnLoss 1.061], [TrnAcc 0.5357]
+Computing val stats..
+-------
+[Epoch 7], [Train Acc 0.5974, [Val Acc 0.1861], [Val Loss 2.372]
+
+=========
+Training Epoch 8 (vgg16)
+=========
+
+[Epoch 8], [Iter 1/1510], [TrnLoss 1.083], [TrnAcc 0.5357]
+[Epoch 8], [Iter 101/1510], [TrnLoss 1.22], [TrnAcc 0.6071]
+[Epoch 8], [Iter 201/1510], [TrnLoss 0.9975], [TrnAcc 0.5714]
+[Epoch 8], [Iter 301/1510], [TrnLoss 1.269], [TrnAcc 0.4643]
+[Epoch 8], [Iter 401/1510], [TrnLoss 0.7608], [TrnAcc 0.7857]
+[Epoch 8], [Iter 501/1510], [TrnLoss 1.25], [TrnAcc 0.4643]
+[Epoch 8], [Iter 601/1510], [TrnLoss 0.9063], [TrnAcc 0.6786]
+[Epoch 8], [Iter 701/1510], [TrnLoss 1.078], [TrnAcc 0.5714]
+[Epoch 8], [Iter 801/1510], [TrnLoss 0.8137], [TrnAcc 0.7857]
+[Epoch 8], [Iter 901/1510], [TrnLoss 0.8184], [TrnAcc 0.7857]
+[Epoch 8], [Iter 1001/1510], [TrnLoss 1.094], [TrnAcc 0.6071]
+[Epoch 8], [Iter 1101/1510], [TrnLoss 0.7863], [TrnAcc 0.75]
+[Epoch 8], [Iter 1201/1510], [TrnLoss 1.062], [TrnAcc 0.5714]
+[Epoch 8], [Iter 1301/1510], [TrnLoss 1.283], [TrnAcc 0.4643]
+[Epoch 8], [Iter 1401/1510], [TrnLoss 1.135], [TrnAcc 0.6786]
+[Epoch 8], [Iter 1501/1510], [TrnLoss 0.896], [TrnAcc 0.6429]
+Computing val stats..
+-------
+[Epoch 8], [Train Acc 0.6046, [Val Acc 0.2621], [Val Loss 2.172]
+
+=========
+Training Epoch 9 (vgg16)
+=========
+
+[Epoch 9], [Iter 1/1510], [TrnLoss 1.025], [TrnAcc 0.6786]
+[Epoch 9], [Iter 101/1510], [TrnLoss 0.8816], [TrnAcc 0.6429]
+[Epoch 9], [Iter 201/1510], [TrnLoss 0.9439], [TrnAcc 0.6786]
+[Epoch 9], [Iter 301/1510], [TrnLoss 1.416], [TrnAcc 0.5714]
+[Epoch 9], [Iter 401/1510], [TrnLoss 1.269], [TrnAcc 0.6786]
+[Epoch 9], [Iter 501/1510], [TrnLoss 1.02], [TrnAcc 0.6786]
+[Epoch 9], [Iter 601/1510], [TrnLoss 1.011], [TrnAcc 0.6429]
+[Epoch 9], [Iter 701/1510], [TrnLoss 0.9309], [TrnAcc 0.7143]
+[Epoch 9], [Iter 801/1510], [TrnLoss 0.9592], [TrnAcc 0.6786]
+[Epoch 9], [Iter 901/1510], [TrnLoss 0.8256], [TrnAcc 0.75]
+[Epoch 9], [Iter 1001/1510], [TrnLoss 1.214], [TrnAcc 0.5714]
+[Epoch 9], [Iter 1101/1510], [TrnLoss 0.8913], [TrnAcc 0.6786]
+[Epoch 9], [Iter 1201/1510], [TrnLoss 0.7519], [TrnAcc 0.75]
+[Epoch 9], [Iter 1301/1510], [TrnLoss 1.066], [TrnAcc 0.6071]
+[Epoch 9], [Iter 1401/1510], [TrnLoss 1.275], [TrnAcc 0.6071]
+[Epoch 9], [Iter 1501/1510], [TrnLoss 1.103], [TrnAcc 0.5]
+Computing val stats..
+-------
+[Epoch 9], [Train Acc 0.6142, [Val Acc 0.2765], [Val Loss 2.175]
+
+=========
+Training Epoch 10 (vgg16)
+=========
+
+[Epoch 10], [Iter 1/1510], [TrnLoss 1.15], [TrnAcc 0.6071]
+[Epoch 10], [Iter 101/1510], [TrnLoss 0.8677], [TrnAcc 0.6786]
+[Epoch 10], [Iter 201/1510], [TrnLoss 0.8088], [TrnAcc 0.6786]
+[Epoch 10], [Iter 301/1510], [TrnLoss 1.14], [TrnAcc 0.5357]
+[Epoch 10], [Iter 401/1510], [TrnLoss 1.083], [TrnAcc 0.6786]
+[Epoch 10], [Iter 501/1510], [TrnLoss 1.262], [TrnAcc 0.4286]
+[Epoch 10], [Iter 601/1510], [TrnLoss 1.049], [TrnAcc 0.6786]
+[Epoch 10], [Iter 701/1510], [TrnLoss 0.9104], [TrnAcc 0.6071]
+[Epoch 10], [Iter 801/1510], [TrnLoss 1.167], [TrnAcc 0.5357]
+[Epoch 10], [Iter 901/1510], [TrnLoss 0.8776], [TrnAcc 0.6786]
+[Epoch 10], [Iter 1001/1510], [TrnLoss 1.137], [TrnAcc 0.6786]
+[Epoch 10], [Iter 1101/1510], [TrnLoss 0.8403], [TrnAcc 0.6786]
+[Epoch 10], [Iter 1201/1510], [TrnLoss 0.9983], [TrnAcc 0.6071]
+[Epoch 10], [Iter 1301/1510], [TrnLoss 1.29], [TrnAcc 0.5714]
+[Epoch 10], [Iter 1401/1510], [TrnLoss 1.158], [TrnAcc 0.5]
+[Epoch 10], [Iter 1501/1510], [TrnLoss 1.003], [TrnAcc 0.6429]
+Computing val stats..
+-------
+[Epoch 10], [Train Acc 0.6279, [Val Acc 0.1707], [Val Loss 2.446]
+
+=========
+Training Epoch 11 (vgg16)
+=========
+
+[Epoch 11], [Iter 1/1510], [TrnLoss 0.9808], [TrnAcc 0.5714]
+[Epoch 11], [Iter 101/1510], [TrnLoss 0.9577], [TrnAcc 0.7143]
+[Epoch 11], [Iter 201/1510], [TrnLoss 1.294], [TrnAcc 0.5357]
+[Epoch 11], [Iter 301/1510], [TrnLoss 1.075], [TrnAcc 0.5714]
+[Epoch 11], [Iter 401/1510], [TrnLoss 1.198], [TrnAcc 0.5357]
+[Epoch 11], [Iter 501/1510], [TrnLoss 1.273], [TrnAcc 0.7143]
+[Epoch 11], [Iter 601/1510], [TrnLoss 0.8267], [TrnAcc 0.7857]
+[Epoch 11], [Iter 701/1510], [TrnLoss 0.9213], [TrnAcc 0.6429]
+[Epoch 11], [Iter 801/1510], [TrnLoss 1.006], [TrnAcc 0.6429]
+[Epoch 11], [Iter 901/1510], [TrnLoss 0.7601], [TrnAcc 0.7143]
+[Epoch 11], [Iter 1001/1510], [TrnLoss 0.9758], [TrnAcc 0.5714]
+[Epoch 11], [Iter 1101/1510], [TrnLoss 0.8764], [TrnAcc 0.6071]
+[Epoch 11], [Iter 1201/1510], [TrnLoss 1.05], [TrnAcc 0.6071]
+[Epoch 11], [Iter 1301/1510], [TrnLoss 0.8361], [TrnAcc 0.6429]
+[Epoch 11], [Iter 1401/1510], [TrnLoss 1.321], [TrnAcc 0.5357]
+[Epoch 11], [Iter 1501/1510], [TrnLoss 0.7707], [TrnAcc 0.75]
+Computing val stats..
+-------
+[Epoch 11], [Train Acc 0.6354, [Val Acc 0.21], [Val Loss 2.423]
+
+=========
+Training Epoch 12 (vgg16)
+=========
+
+[Epoch 12], [Iter 1/1510], [TrnLoss 1.061], [TrnAcc 0.6071]
+[Epoch 12], [Iter 101/1510], [TrnLoss 0.8918], [TrnAcc 0.6071]
+[Epoch 12], [Iter 201/1510], [TrnLoss 1.416], [TrnAcc 0.5]
+[Epoch 12], [Iter 301/1510], [TrnLoss 1.248], [TrnAcc 0.6071]
+[Epoch 12], [Iter 401/1510], [TrnLoss 0.8062], [TrnAcc 0.6429]
+[Epoch 12], [Iter 501/1510], [TrnLoss 1.23], [TrnAcc 0.5357]
+[Epoch 12], [Iter 601/1510], [TrnLoss 0.9832], [TrnAcc 0.6786]
+[Epoch 12], [Iter 701/1510], [TrnLoss 0.9011], [TrnAcc 0.6786]
+[Epoch 12], [Iter 801/1510], [TrnLoss 0.8437], [TrnAcc 0.6786]
+[Epoch 12], [Iter 901/1510], [TrnLoss 0.9481], [TrnAcc 0.6429]
+[Epoch 12], [Iter 1001/1510], [TrnLoss 0.9263], [TrnAcc 0.6786]
+[Epoch 12], [Iter 1101/1510], [TrnLoss 0.8796], [TrnAcc 0.6786]
+[Epoch 12], [Iter 1201/1510], [TrnLoss 1.011], [TrnAcc 0.6071]
+[Epoch 12], [Iter 1301/1510], [TrnLoss 0.9342], [TrnAcc 0.6071]
+[Epoch 12], [Iter 1401/1510], [TrnLoss 0.94], [TrnAcc 0.6429]
+[Epoch 12], [Iter 1501/1510], [TrnLoss 1.135], [TrnAcc 0.5357]
+Computing val stats..
+-------
+[Epoch 12], [Train Acc 0.6381, [Val Acc 0.2308], [Val Loss 2.304]
+
+=========
+Training Epoch 13 (vgg16)
+=========
+
+[Epoch 13], [Iter 1/1510], [TrnLoss 0.9027], [TrnAcc 0.7143]
+[Epoch 13], [Iter 101/1510], [TrnLoss 1.155], [TrnAcc 0.5714]
+[Epoch 13], [Iter 201/1510], [TrnLoss 1.178], [TrnAcc 0.5357]
+[Epoch 13], [Iter 301/1510], [TrnLoss 1.071], [TrnAcc 0.6071]
+[Epoch 13], [Iter 401/1510], [TrnLoss 0.7397], [TrnAcc 0.75]
+[Epoch 13], [Iter 501/1510], [TrnLoss 0.9005], [TrnAcc 0.5714]
+[Epoch 13], [Iter 601/1510], [TrnLoss 0.6665], [TrnAcc 0.75]
+[Epoch 13], [Iter 701/1510], [TrnLoss 0.7764], [TrnAcc 0.75]
+[Epoch 13], [Iter 801/1510], [TrnLoss 0.9445], [TrnAcc 0.75]
+[Epoch 13], [Iter 901/1510], [TrnLoss 1.001], [TrnAcc 0.6786]
+[Epoch 13], [Iter 1001/1510], [TrnLoss 0.7686], [TrnAcc 0.75]
+[Epoch 13], [Iter 1101/1510], [TrnLoss 1.023], [TrnAcc 0.5714]
+[Epoch 13], [Iter 1201/1510], [TrnLoss 0.7626], [TrnAcc 0.7857]
+[Epoch 13], [Iter 1301/1510], [TrnLoss 0.9223], [TrnAcc 0.6429]
+[Epoch 13], [Iter 1401/1510], [TrnLoss 1.005], [TrnAcc 0.6786]
+[Epoch 13], [Iter 1501/1510], [TrnLoss 0.9927], [TrnAcc 0.6786]
+Computing val stats..
+-------
+[Epoch 13], [Train Acc 0.6443, [Val Acc 0.1601], [Val Loss 2.596]
+
+=========
+Training Epoch 14 (vgg16)
+=========
+
+[Epoch 14], [Iter 1/1510], [TrnLoss 0.8847], [TrnAcc 0.75]
+[Epoch 14], [Iter 101/1510], [TrnLoss 1.336], [TrnAcc 0.5]
+[Epoch 14], [Iter 201/1510], [TrnLoss 0.8275], [TrnAcc 0.6786]
+[Epoch 14], [Iter 301/1510], [TrnLoss 1.019], [TrnAcc 0.6786]
+[Epoch 14], [Iter 401/1510], [TrnLoss 0.6913], [TrnAcc 0.7857]
+[Epoch 14], [Iter 501/1510], [TrnLoss 0.6248], [TrnAcc 0.8214]
+[Epoch 14], [Iter 601/1510], [TrnLoss 0.8625], [TrnAcc 0.6071]
+[Epoch 14], [Iter 701/1510], [TrnLoss 0.7479], [TrnAcc 0.6786]
+[Epoch 14], [Iter 801/1510], [TrnLoss 0.9933], [TrnAcc 0.7143]
+[Epoch 14], [Iter 901/1510], [TrnLoss 0.8932], [TrnAcc 0.7143]
+[Epoch 14], [Iter 1001/1510], [TrnLoss 1.093], [TrnAcc 0.6071]
+[Epoch 14], [Iter 1101/1510], [TrnLoss 0.909], [TrnAcc 0.7143]
+[Epoch 14], [Iter 1201/1510], [TrnLoss 0.888], [TrnAcc 0.6429]
+[Epoch 14], [Iter 1301/1510], [TrnLoss 0.7997], [TrnAcc 0.7143]
+[Epoch 14], [Iter 1401/1510], [TrnLoss 1.202], [TrnAcc 0.5714]
+[Epoch 14], [Iter 1501/1510], [TrnLoss 0.7296], [TrnAcc 0.7143]
+Computing val stats..
+-------
+[Epoch 14], [Train Acc 0.65, [Val Acc 0.1738], [Val Loss 2.409]
+
+=========
+Training Epoch 15 (vgg16)
+=========
+
+[Epoch 15], [Iter 1/1510], [TrnLoss 1.014], [TrnAcc 0.6071]
+[Epoch 15], [Iter 101/1510], [TrnLoss 1.484], [TrnAcc 0.5357]
+[Epoch 15], [Iter 201/1510], [TrnLoss 1.034], [TrnAcc 0.5357]
+[Epoch 15], [Iter 301/1510], [TrnLoss 1.077], [TrnAcc 0.75]
+[Epoch 15], [Iter 401/1510], [TrnLoss 0.6706], [TrnAcc 0.8214]
+[Epoch 15], [Iter 501/1510], [TrnLoss 0.9775], [TrnAcc 0.6429]
+[Epoch 15], [Iter 601/1510], [TrnLoss 0.8289], [TrnAcc 0.6786]
+[Epoch 15], [Iter 701/1510], [TrnLoss 1.133], [TrnAcc 0.6429]
+[Epoch 15], [Iter 801/1510], [TrnLoss 0.9706], [TrnAcc 0.5714]
+[Epoch 15], [Iter 901/1510], [TrnLoss 0.6781], [TrnAcc 0.7143]
+[Epoch 15], [Iter 1001/1510], [TrnLoss 0.9752], [TrnAcc 0.6429]
+[Epoch 15], [Iter 1101/1510], [TrnLoss 1.203], [TrnAcc 0.5714]
+[Epoch 15], [Iter 1201/1510], [TrnLoss 1.011], [TrnAcc 0.6786]
+[Epoch 15], [Iter 1301/1510], [TrnLoss 1.235], [TrnAcc 0.5]
+[Epoch 15], [Iter 1401/1510], [TrnLoss 1.231], [TrnAcc 0.4643]
+[Epoch 15], [Iter 1501/1510], [TrnLoss 0.9857], [TrnAcc 0.5714]
+Computing val stats..
+-------
+[Epoch 15], [Train Acc 0.6537, [Val Acc 0.2395], [Val Loss 2.242]
+
+=========
+Training Epoch 16 (vgg16)
+=========
+
+[Epoch 16], [Iter 1/1510], [TrnLoss 0.8561], [TrnAcc 0.7857]
+[Epoch 16], [Iter 101/1510], [TrnLoss 1.151], [TrnAcc 0.5357]
+[Epoch 16], [Iter 201/1510], [TrnLoss 1.161], [TrnAcc 0.4643]
+[Epoch 16], [Iter 301/1510], [TrnLoss 0.844], [TrnAcc 0.7857]
+[Epoch 16], [Iter 401/1510], [TrnLoss 0.8864], [TrnAcc 0.6786]
+[Epoch 16], [Iter 501/1510], [TrnLoss 0.8741], [TrnAcc 0.7143]
+[Epoch 16], [Iter 601/1510], [TrnLoss 0.9648], [TrnAcc 0.6429]
+[Epoch 16], [Iter 701/1510], [TrnLoss 1.223], [TrnAcc 0.6071]
+[Epoch 16], [Iter 801/1510], [TrnLoss 1.003], [TrnAcc 0.6429]
+[Epoch 16], [Iter 901/1510], [TrnLoss 0.8562], [TrnAcc 0.6786]
+[Epoch 16], [Iter 1001/1510], [TrnLoss 1.016], [TrnAcc 0.6071]
+[Epoch 16], [Iter 1101/1510], [TrnLoss 0.8964], [TrnAcc 0.75]
+[Epoch 16], [Iter 1201/1510], [TrnLoss 0.6302], [TrnAcc 0.7857]
+[Epoch 16], [Iter 1301/1510], [TrnLoss 1.185], [TrnAcc 0.4643]
+[Epoch 16], [Iter 1401/1510], [TrnLoss 0.948], [TrnAcc 0.7143]
+[Epoch 16], [Iter 1501/1510], [TrnLoss 0.8246], [TrnAcc 0.6786]
+Computing val stats..
+-------
+[Epoch 16], [Train Acc 0.6533, [Val Acc 0.291], [Val Loss 1.803]
+
+=========
+Training Epoch 17 (vgg16)
+=========
+
+[Epoch 17], [Iter 1/1510], [TrnLoss 1.118], [TrnAcc 0.5357]
+[Epoch 17], [Iter 101/1510], [TrnLoss 0.8488], [TrnAcc 0.6429]
+[Epoch 17], [Iter 201/1510], [TrnLoss 0.8422], [TrnAcc 0.6429]
+[Epoch 17], [Iter 301/1510], [TrnLoss 0.7546], [TrnAcc 0.6786]
+[Epoch 17], [Iter 401/1510], [TrnLoss 0.7649], [TrnAcc 0.6786]
+[Epoch 17], [Iter 501/1510], [TrnLoss 0.7811], [TrnAcc 0.7857]
+[Epoch 17], [Iter 601/1510], [TrnLoss 0.8544], [TrnAcc 0.75]
+[Epoch 17], [Iter 701/1510], [TrnLoss 0.8135], [TrnAcc 0.7143]
+[Epoch 17], [Iter 801/1510], [TrnLoss 1.098], [TrnAcc 0.6071]
+[Epoch 17], [Iter 901/1510], [TrnLoss 0.7416], [TrnAcc 0.7857]
+[Epoch 17], [Iter 1001/1510], [TrnLoss 1.121], [TrnAcc 0.6786]
+[Epoch 17], [Iter 1101/1510], [TrnLoss 0.9381], [TrnAcc 0.7143]
+[Epoch 17], [Iter 1201/1510], [TrnLoss 0.6336], [TrnAcc 0.75]
+[Epoch 17], [Iter 1301/1510], [TrnLoss 0.9132], [TrnAcc 0.6429]
+[Epoch 17], [Iter 1401/1510], [TrnLoss 1.209], [TrnAcc 0.6071]
+[Epoch 17], [Iter 1501/1510], [TrnLoss 1.063], [TrnAcc 0.6786]
+Computing val stats..
+-------
+[Epoch 17], [Train Acc 0.6573, [Val Acc 0.2078], [Val Loss 2.244]
+
+=========
+Training Epoch 18 (vgg16)
+=========
+
+[Epoch 18], [Iter 1/1510], [TrnLoss 1.178], [TrnAcc 0.5714]
+[Epoch 18], [Iter 101/1510], [TrnLoss 1.069], [TrnAcc 0.6429]
+[Epoch 18], [Iter 201/1510], [TrnLoss 0.9574], [TrnAcc 0.6071]
+[Epoch 18], [Iter 301/1510], [TrnLoss 1.119], [TrnAcc 0.6071]
+[Epoch 18], [Iter 401/1510], [TrnLoss 1.014], [TrnAcc 0.5714]
+[Epoch 18], [Iter 501/1510], [TrnLoss 0.767], [TrnAcc 0.7857]
+[Epoch 18], [Iter 601/1510], [TrnLoss 0.6497], [TrnAcc 0.7143]
+[Epoch 18], [Iter 701/1510], [TrnLoss 0.8579], [TrnAcc 0.75]
+[Epoch 18], [Iter 801/1510], [TrnLoss 0.6551], [TrnAcc 0.8214]
+[Epoch 18], [Iter 901/1510], [TrnLoss 0.934], [TrnAcc 0.6786]
+[Epoch 18], [Iter 1001/1510], [TrnLoss 0.8963], [TrnAcc 0.7143]
+[Epoch 18], [Iter 1101/1510], [TrnLoss 1.01], [TrnAcc 0.6786]
+[Epoch 18], [Iter 1201/1510], [TrnLoss 0.7065], [TrnAcc 0.75]
+[Epoch 18], [Iter 1301/1510], [TrnLoss 0.9158], [TrnAcc 0.6071]
+[Epoch 18], [Iter 1401/1510], [TrnLoss 0.8865], [TrnAcc 0.7143]
+[Epoch 18], [Iter 1501/1510], [TrnLoss 0.828], [TrnAcc 0.6786]
+Computing val stats..
+-------
+[Epoch 18], [Train Acc 0.6612, [Val Acc 0.2179], [Val Loss 2.327]
+
+=========
+Training Epoch 19 (vgg16)
+=========
+
+[Epoch 19], [Iter 1/1510], [TrnLoss 0.9798], [TrnAcc 0.6429]
+[Epoch 19], [Iter 101/1510], [TrnLoss 1.475], [TrnAcc 0.6429]
+[Epoch 19], [Iter 201/1510], [TrnLoss 1.174], [TrnAcc 0.5357]
+[Epoch 19], [Iter 301/1510], [TrnLoss 0.844], [TrnAcc 0.7143]
+[Epoch 19], [Iter 401/1510], [TrnLoss 0.9019], [TrnAcc 0.6071]
+[Epoch 19], [Iter 501/1510], [TrnLoss 0.9075], [TrnAcc 0.6429]
+[Epoch 19], [Iter 601/1510], [TrnLoss 0.9243], [TrnAcc 0.6071]
+[Epoch 19], [Iter 701/1510], [TrnLoss 0.9773], [TrnAcc 0.7143]
+[Epoch 19], [Iter 801/1510], [TrnLoss 0.586], [TrnAcc 0.8571]
+[Epoch 19], [Iter 901/1510], [TrnLoss 0.9037], [TrnAcc 0.7857]
+[Epoch 19], [Iter 1001/1510], [TrnLoss 0.8204], [TrnAcc 0.6429]
+[Epoch 19], [Iter 1101/1510], [TrnLoss 0.6678], [TrnAcc 0.7857]
+[Epoch 19], [Iter 1201/1510], [TrnLoss 0.611], [TrnAcc 0.8929]
+[Epoch 19], [Iter 1301/1510], [TrnLoss 1.378], [TrnAcc 0.4643]
+[Epoch 19], [Iter 1401/1510], [TrnLoss 0.9079], [TrnAcc 0.6786]
+[Epoch 19], [Iter 1501/1510], [TrnLoss 0.8412], [TrnAcc 0.6786]
+Computing val stats..
+-------
+[Epoch 19], [Train Acc 0.6577, [Val Acc 0.2475], [Val Loss 2.411]
+
+=========
+Training Epoch 20 (vgg16)
+=========
+
+[Epoch 20], [Iter 1/1510], [TrnLoss 0.9232], [TrnAcc 0.5357]
+[Epoch 20], [Iter 101/1510], [TrnLoss 1.038], [TrnAcc 0.6071]
+[Epoch 20], [Iter 201/1510], [TrnLoss 0.946], [TrnAcc 0.6071]
+[Epoch 20], [Iter 301/1510], [TrnLoss 1.039], [TrnAcc 0.6786]
+[Epoch 20], [Iter 401/1510], [TrnLoss 0.7321], [TrnAcc 0.7143]
+[Epoch 20], [Iter 501/1510], [TrnLoss 1.138], [TrnAcc 0.5714]
+[Epoch 20], [Iter 601/1510], [TrnLoss 0.878], [TrnAcc 0.75]
+[Epoch 20], [Iter 701/1510], [TrnLoss 0.527], [TrnAcc 0.8571]
+[Epoch 20], [Iter 801/1510], [TrnLoss 0.7279], [TrnAcc 0.6786]
+[Epoch 20], [Iter 901/1510], [TrnLoss 0.9452], [TrnAcc 0.6786]
+[Epoch 20], [Iter 1001/1510], [TrnLoss 0.8521], [TrnAcc 0.6786]
+[Epoch 20], [Iter 1101/1510], [TrnLoss 0.7134], [TrnAcc 0.75]
+[Epoch 20], [Iter 1201/1510], [TrnLoss 0.805], [TrnAcc 0.75]
+[Epoch 20], [Iter 1301/1510], [TrnLoss 0.8845], [TrnAcc 0.6429]
+[Epoch 20], [Iter 1401/1510], [TrnLoss 0.667], [TrnAcc 0.8571]
+[Epoch 20], [Iter 1501/1510], [TrnLoss 0.7616], [TrnAcc 0.7857]
+Computing val stats..
+-------
+[Epoch 20], [Train Acc 0.6604, [Val Acc 0.2615], [Val Loss 2.083]
+
+=========
+Training Epoch 21 (vgg16)
+=========
+
+[Epoch 21], [Iter 1/1510], [TrnLoss 0.9189], [TrnAcc 0.5714]
+[Epoch 21], [Iter 101/1510], [TrnLoss 1.015], [TrnAcc 0.6429]
+[Epoch 21], [Iter 201/1510], [TrnLoss 0.8272], [TrnAcc 0.6429]
+[Epoch 21], [Iter 301/1510], [TrnLoss 0.9214], [TrnAcc 0.75]
+[Epoch 21], [Iter 401/1510], [TrnLoss 0.7273], [TrnAcc 0.8214]
+[Epoch 21], [Iter 501/1510], [TrnLoss 0.8843], [TrnAcc 0.6429]
+[Epoch 21], [Iter 601/1510], [TrnLoss 1.012], [TrnAcc 0.75]
+[Epoch 21], [Iter 701/1510], [TrnLoss 0.7508], [TrnAcc 0.8214]
+[Epoch 21], [Iter 801/1510], [TrnLoss 0.9698], [TrnAcc 0.5714]
+[Epoch 21], [Iter 901/1510], [TrnLoss 0.7694], [TrnAcc 0.7143]
+[Epoch 21], [Iter 1001/1510], [TrnLoss 0.9983], [TrnAcc 0.6429]
+[Epoch 21], [Iter 1101/1510], [TrnLoss 0.8678], [TrnAcc 0.6071]
+[Epoch 21], [Iter 1201/1510], [TrnLoss 0.9878], [TrnAcc 0.7143]
+[Epoch 21], [Iter 1301/1510], [TrnLoss 0.7929], [TrnAcc 0.7143]
+[Epoch 21], [Iter 1401/1510], [TrnLoss 0.5478], [TrnAcc 0.8929]
+[Epoch 21], [Iter 1501/1510], [TrnLoss 0.7769], [TrnAcc 0.75]
+Computing val stats..
+-------
+[Epoch 21], [Train Acc 0.6677, [Val Acc 0.1677], [Val Loss 2.809]
+
+=========
+Training Epoch 22 (vgg16)
+=========
+
+[Epoch 22], [Iter 1/1510], [TrnLoss 0.8765], [TrnAcc 0.6786]
+[Epoch 22], [Iter 101/1510], [TrnLoss 1.559], [TrnAcc 0.5357]
+[Epoch 22], [Iter 201/1510], [TrnLoss 0.9552], [TrnAcc 0.6429]
+[Epoch 22], [Iter 301/1510], [TrnLoss 1.123], [TrnAcc 0.5714]
+[Epoch 22], [Iter 401/1510], [TrnLoss 0.8268], [TrnAcc 0.7143]
+[Epoch 22], [Iter 501/1510], [TrnLoss 0.8367], [TrnAcc 0.6429]
+[Epoch 22], [Iter 601/1510], [TrnLoss 1.242], [TrnAcc 0.6071]
+[Epoch 22], [Iter 701/1510], [TrnLoss 0.421], [TrnAcc 0.8929]
+[Epoch 22], [Iter 801/1510], [TrnLoss 0.6544], [TrnAcc 0.8571]
+[Epoch 22], [Iter 901/1510], [TrnLoss 0.8584], [TrnAcc 0.7143]
+[Epoch 22], [Iter 1001/1510], [TrnLoss 0.9561], [TrnAcc 0.75]
+[Epoch 22], [Iter 1101/1510], [TrnLoss 0.9359], [TrnAcc 0.6071]
+[Epoch 22], [Iter 1201/1510], [TrnLoss 0.8552], [TrnAcc 0.6786]
+[Epoch 22], [Iter 1301/1510], [TrnLoss 1.542], [TrnAcc 0.3214]
+[Epoch 22], [Iter 1401/1510], [TrnLoss 0.7498], [TrnAcc 0.6429]
+[Epoch 22], [Iter 1501/1510], [TrnLoss 1.018], [TrnAcc 0.6429]
+Computing val stats..
+-------
+[Epoch 22], [Train Acc 0.6686, [Val Acc 0.2055], [Val Loss 2.527]
+
+=========
+Training Epoch 23 (vgg16)
+=========
+
+[Epoch 23], [Iter 1/1510], [TrnLoss 1.139], [TrnAcc 0.4643]
+[Epoch 23], [Iter 101/1510], [TrnLoss 0.7197], [TrnAcc 0.75]
+[Epoch 23], [Iter 201/1510], [TrnLoss 0.9558], [TrnAcc 0.6071]
+[Epoch 23], [Iter 301/1510], [TrnLoss 1.074], [TrnAcc 0.6071]
+[Epoch 23], [Iter 401/1510], [TrnLoss 0.6291], [TrnAcc 0.7857]
+[Epoch 23], [Iter 501/1510], [TrnLoss 0.844], [TrnAcc 0.6429]
+[Epoch 23], [Iter 601/1510], [TrnLoss 0.868], [TrnAcc 0.5714]
+[Epoch 23], [Iter 701/1510], [TrnLoss 0.5324], [TrnAcc 0.7857]
+[Epoch 23], [Iter 801/1510], [TrnLoss 0.6584], [TrnAcc 0.7143]
+[Epoch 23], [Iter 901/1510], [TrnLoss 0.6361], [TrnAcc 0.75]
+[Epoch 23], [Iter 1001/1510], [TrnLoss 0.7878], [TrnAcc 0.6786]
+[Epoch 23], [Iter 1101/1510], [TrnLoss 0.9098], [TrnAcc 0.6429]
+[Epoch 23], [Iter 1201/1510], [TrnLoss 0.8339], [TrnAcc 0.6786]
+[Epoch 23], [Iter 1301/1510], [TrnLoss 0.9032], [TrnAcc 0.6429]
+[Epoch 23], [Iter 1401/1510], [TrnLoss 0.6968], [TrnAcc 0.75]
+[Epoch 23], [Iter 1501/1510], [TrnLoss 0.9185], [TrnAcc 0.7143]
+Computing val stats..
+-------
+[Epoch 23], [Train Acc 0.6708, [Val Acc 0.2221], [Val Loss 2.431]
+
+=========
+Training Epoch 24 (vgg16)
+=========
+
+[Epoch 24], [Iter 1/1510], [TrnLoss 1.101], [TrnAcc 0.5]
+[Epoch 24], [Iter 101/1510], [TrnLoss 1.277], [TrnAcc 0.6071]
+[Epoch 24], [Iter 201/1510], [TrnLoss 0.7168], [TrnAcc 0.7143]
+[Epoch 24], [Iter 301/1510], [TrnLoss 1.01], [TrnAcc 0.6429]
+[Epoch 24], [Iter 401/1510], [TrnLoss 0.8721], [TrnAcc 0.75]
+[Epoch 24], [Iter 501/1510], [TrnLoss 0.9909], [TrnAcc 0.6071]
+[Epoch 24], [Iter 601/1510], [TrnLoss 0.8366], [TrnAcc 0.7143]
+[Epoch 24], [Iter 701/1510], [TrnLoss 1.149], [TrnAcc 0.5714]
+[Epoch 24], [Iter 801/1510], [TrnLoss 1.116], [TrnAcc 0.5714]
+[Epoch 24], [Iter 901/1510], [TrnLoss 1.007], [TrnAcc 0.7143]
+[Epoch 24], [Iter 1001/1510], [TrnLoss 0.8848], [TrnAcc 0.6429]
+[Epoch 24], [Iter 1101/1510], [TrnLoss 0.9233], [TrnAcc 0.6429]
+[Epoch 24], [Iter 1201/1510], [TrnLoss 1.11], [TrnAcc 0.6429]
+[Epoch 24], [Iter 1301/1510], [TrnLoss 1.519], [TrnAcc 0.4286]
+[Epoch 24], [Iter 1401/1510], [TrnLoss 1.526], [TrnAcc 0.4286]
+[Epoch 24], [Iter 1501/1510], [TrnLoss 0.9409], [TrnAcc 0.6786]
+Computing val stats..
+-------
+[Epoch 24], [Train Acc 0.6659, [Val Acc 0.1812], [Val Loss 2.295]
+
+=========
+Training Epoch 25 (vgg16)
+=========
+
+[Epoch 25], [Iter 1/1510], [TrnLoss 0.8763], [TrnAcc 0.6071]
+[Epoch 25], [Iter 101/1510], [TrnLoss 1.077], [TrnAcc 0.6429]
+[Epoch 25], [Iter 201/1510], [TrnLoss 0.9733], [TrnAcc 0.5357]
+[Epoch 25], [Iter 301/1510], [TrnLoss 0.8953], [TrnAcc 0.7143]
+[Epoch 25], [Iter 401/1510], [TrnLoss 0.9596], [TrnAcc 0.6071]
+[Epoch 25], [Iter 501/1510], [TrnLoss 0.8995], [TrnAcc 0.75]
+[Epoch 25], [Iter 601/1510], [TrnLoss 0.6987], [TrnAcc 0.8571]
+[Epoch 25], [Iter 701/1510], [TrnLoss 0.6659], [TrnAcc 0.7857]
+[Epoch 25], [Iter 801/1510], [TrnLoss 1.026], [TrnAcc 0.5714]
+[Epoch 25], [Iter 901/1510], [TrnLoss 0.6387], [TrnAcc 0.6786]
+[Epoch 25], [Iter 1001/1510], [TrnLoss 0.8108], [TrnAcc 0.75]
+[Epoch 25], [Iter 1101/1510], [TrnLoss 0.8733], [TrnAcc 0.6786]
+[Epoch 25], [Iter 1201/1510], [TrnLoss 1.069], [TrnAcc 0.6429]
+[Epoch 25], [Iter 1301/1510], [TrnLoss 0.8674], [TrnAcc 0.6786]
+[Epoch 25], [Iter 1401/1510], [TrnLoss 0.7906], [TrnAcc 0.6071]
+[Epoch 25], [Iter 1501/1510], [TrnLoss 0.805], [TrnAcc 0.7143]
+Computing val stats..
+-------
+[Epoch 25], [Train Acc 0.6696, [Val Acc 0.3157], [Val Loss 1.975]
+
+=========
+Training Epoch 26 (vgg16)
+=========
+
+[Epoch 26], [Iter 1/1510], [TrnLoss 0.936], [TrnAcc 0.5714]
+[Epoch 26], [Iter 101/1510], [TrnLoss 1.1], [TrnAcc 0.5714]
+[Epoch 26], [Iter 201/1510], [TrnLoss 1.18], [TrnAcc 0.6786]
+[Epoch 26], [Iter 301/1510], [TrnLoss 1.33], [TrnAcc 0.5357]
+[Epoch 26], [Iter 401/1510], [TrnLoss 0.8133], [TrnAcc 0.6786]
+[Epoch 26], [Iter 501/1510], [TrnLoss 0.8248], [TrnAcc 0.6786]
+[Epoch 26], [Iter 601/1510], [TrnLoss 0.6523], [TrnAcc 0.7857]
+[Epoch 26], [Iter 701/1510], [TrnLoss 0.5813], [TrnAcc 0.8214]
+[Epoch 26], [Iter 801/1510], [TrnLoss 0.6907], [TrnAcc 0.75]
+[Epoch 26], [Iter 901/1510], [TrnLoss 0.8377], [TrnAcc 0.6786]
+[Epoch 26], [Iter 1001/1510], [TrnLoss 0.839], [TrnAcc 0.6429]
+[Epoch 26], [Iter 1101/1510], [TrnLoss 0.8238], [TrnAcc 0.6786]
+[Epoch 26], [Iter 1201/1510], [TrnLoss 0.6293], [TrnAcc 0.7857]
+[Epoch 26], [Iter 1301/1510], [TrnLoss 1.013], [TrnAcc 0.5357]
+[Epoch 26], [Iter 1401/1510], [TrnLoss 1.035], [TrnAcc 0.6786]
+[Epoch 26], [Iter 1501/1510], [TrnLoss 1.057], [TrnAcc 0.6071]
+Computing val stats..
+-------
+[Epoch 26], [Train Acc 0.6708, [Val Acc 0.1799], [Val Loss 2.587]
+
+=========
+Training Epoch 27 (vgg16)
+=========
+
+[Epoch 27], [Iter 1/1510], [TrnLoss 0.9434], [TrnAcc 0.6429]
+[Epoch 27], [Iter 101/1510], [TrnLoss 1.103], [TrnAcc 0.6071]
+[Epoch 27], [Iter 201/1510], [TrnLoss 0.9227], [TrnAcc 0.6071]
+[Epoch 27], [Iter 301/1510], [TrnLoss 0.933], [TrnAcc 0.6071]
+[Epoch 27], [Iter 401/1510], [TrnLoss 0.6711], [TrnAcc 0.7857]
+[Epoch 27], [Iter 501/1510], [TrnLoss 0.7543], [TrnAcc 0.6429]
+[Epoch 27], [Iter 601/1510], [TrnLoss 1.019], [TrnAcc 0.6071]
+[Epoch 27], [Iter 701/1510], [TrnLoss 0.6347], [TrnAcc 0.7857]
+[Epoch 27], [Iter 801/1510], [TrnLoss 0.582], [TrnAcc 0.8214]
+[Epoch 27], [Iter 901/1510], [TrnLoss 0.8499], [TrnAcc 0.75]
+[Epoch 27], [Iter 1001/1510], [TrnLoss 0.7746], [TrnAcc 0.7143]
+[Epoch 27], [Iter 1101/1510], [TrnLoss 1.011], [TrnAcc 0.6786]
+[Epoch 27], [Iter 1201/1510], [TrnLoss 0.7822], [TrnAcc 0.75]
+[Epoch 27], [Iter 1301/1510], [TrnLoss 0.6101], [TrnAcc 0.75]
+[Epoch 27], [Iter 1401/1510], [TrnLoss 0.8676], [TrnAcc 0.75]
+[Epoch 27], [Iter 1501/1510], [TrnLoss 1.315], [TrnAcc 0.3571]
+Computing val stats..
+-------
+[Epoch 27], [Train Acc 0.6733, [Val Acc 0.2598], [Val Loss 2.349]
+
+=========
+Training Epoch 28 (vgg16)
+=========
+
+[Epoch 28], [Iter 1/1510], [TrnLoss 1.044], [TrnAcc 0.6429]
+[Epoch 28], [Iter 101/1510], [TrnLoss 1.165], [TrnAcc 0.6786]
+[Epoch 28], [Iter 201/1510], [TrnLoss 1.091], [TrnAcc 0.5714]
+[Epoch 28], [Iter 301/1510], [TrnLoss 1.107], [TrnAcc 0.6429]
+[Epoch 28], [Iter 401/1510], [TrnLoss 0.7567], [TrnAcc 0.6786]
+[Epoch 28], [Iter 501/1510], [TrnLoss 0.5474], [TrnAcc 0.8214]
+[Epoch 28], [Iter 601/1510], [TrnLoss 0.8691], [TrnAcc 0.7143]
+[Epoch 28], [Iter 701/1510], [TrnLoss 0.6762], [TrnAcc 0.7857]
+[Epoch 28], [Iter 801/1510], [TrnLoss 1.14], [TrnAcc 0.5714]
+[Epoch 28], [Iter 901/1510], [TrnLoss 0.8498], [TrnAcc 0.6429]
+[Epoch 28], [Iter 1001/1510], [TrnLoss 1.237], [TrnAcc 0.6071]
+[Epoch 28], [Iter 1101/1510], [TrnLoss 0.716], [TrnAcc 0.7857]
+[Epoch 28], [Iter 1201/1510], [TrnLoss 0.9461], [TrnAcc 0.6786]
+[Epoch 28], [Iter 1301/1510], [TrnLoss 0.8001], [TrnAcc 0.7143]
+[Epoch 28], [Iter 1401/1510], [TrnLoss 0.8857], [TrnAcc 0.6786]
+[Epoch 28], [Iter 1501/1510], [TrnLoss 0.7719], [TrnAcc 0.75]
+Computing val stats..
+-------
+[Epoch 28], [Train Acc 0.6775, [Val Acc 0.2524], [Val Loss 2.401]
+
+=========
+Training Epoch 29 (vgg16)
+=========
+
+[Epoch 29], [Iter 1/1510], [TrnLoss 1.123], [TrnAcc 0.5]
+[Epoch 29], [Iter 101/1510], [TrnLoss 1.224], [TrnAcc 0.6071]
+[Epoch 29], [Iter 201/1510], [TrnLoss 0.8998], [TrnAcc 0.6786]
+[Epoch 29], [Iter 301/1510], [TrnLoss 0.9108], [TrnAcc 0.7857]
+[Epoch 29], [Iter 401/1510], [TrnLoss 0.7739], [TrnAcc 0.75]
+[Epoch 29], [Iter 501/1510], [TrnLoss 0.9128], [TrnAcc 0.75]
+[Epoch 29], [Iter 601/1510], [TrnLoss 1.048], [TrnAcc 0.5]
+[Epoch 29], [Iter 701/1510], [TrnLoss 1.151], [TrnAcc 0.5714]
+[Epoch 29], [Iter 801/1510], [TrnLoss 0.6615], [TrnAcc 0.7143]
+[Epoch 29], [Iter 901/1510], [TrnLoss 0.6224], [TrnAcc 0.7857]
+[Epoch 29], [Iter 1001/1510], [TrnLoss 0.8704], [TrnAcc 0.6071]
+[Epoch 29], [Iter 1101/1510], [TrnLoss 1.137], [TrnAcc 0.6786]
+[Epoch 29], [Iter 1201/1510], [TrnLoss 1.0], [TrnAcc 0.6429]
+[Epoch 29], [Iter 1301/1510], [TrnLoss 0.9265], [TrnAcc 0.7143]
+[Epoch 29], [Iter 1401/1510], [TrnLoss 0.8517], [TrnAcc 0.6071]
+[Epoch 29], [Iter 1501/1510], [TrnLoss 0.8081], [TrnAcc 0.7143]
+Computing val stats..
+-------
+[Epoch 29], [Train Acc 0.6775, [Val Acc 0.2564], [Val Loss 2.366]
+
+=========
+Training Epoch 30 (vgg16)
+=========
+
+[Epoch 30], [Iter 1/1510], [TrnLoss 0.9283], [TrnAcc 0.6429]
+[Epoch 30], [Iter 101/1510], [TrnLoss 1.39], [TrnAcc 0.6071]
+[Epoch 30], [Iter 201/1510], [TrnLoss 1.167], [TrnAcc 0.5357]
+[Epoch 30], [Iter 301/1510], [TrnLoss 1.047], [TrnAcc 0.6071]
+[Epoch 30], [Iter 401/1510], [TrnLoss 0.5698], [TrnAcc 0.8214]
+[Epoch 30], [Iter 501/1510], [TrnLoss 0.7502], [TrnAcc 0.7143]
+[Epoch 30], [Iter 601/1510], [TrnLoss 0.8321], [TrnAcc 0.6429]
+[Epoch 30], [Iter 701/1510], [TrnLoss 0.9759], [TrnAcc 0.7143]
+[Epoch 30], [Iter 801/1510], [TrnLoss 0.844], [TrnAcc 0.6429]
+[Epoch 30], [Iter 901/1510], [TrnLoss 1.252], [TrnAcc 0.5714]
+[Epoch 30], [Iter 1001/1510], [TrnLoss 0.6965], [TrnAcc 0.7857]
+[Epoch 30], [Iter 1101/1510], [TrnLoss 0.8454], [TrnAcc 0.6071]
+[Epoch 30], [Iter 1201/1510], [TrnLoss 1.154], [TrnAcc 0.6071]
+[Epoch 30], [Iter 1301/1510], [TrnLoss 1.206], [TrnAcc 0.6071]
+[Epoch 30], [Iter 1401/1510], [TrnLoss 0.9368], [TrnAcc 0.6429]
+[Epoch 30], [Iter 1501/1510], [TrnLoss 1.204], [TrnAcc 0.5714]
+Computing val stats..
+-------
+[Epoch 30], [Train Acc 0.6754, [Val Acc 0.2921], [Val Loss 2.1]
+
+=========
+Training Epoch 31 (vgg16)
+=========
+
+[Epoch 31], [Iter 1/1510], [TrnLoss 0.8428], [TrnAcc 0.7143]
+[Epoch 31], [Iter 101/1510], [TrnLoss 0.8052], [TrnAcc 0.75]
+[Epoch 31], [Iter 201/1510], [TrnLoss 1.023], [TrnAcc 0.6786]
+[Epoch 31], [Iter 301/1510], [TrnLoss 0.8062], [TrnAcc 0.6786]
+[Epoch 31], [Iter 401/1510], [TrnLoss 0.9727], [TrnAcc 0.5714]
+[Epoch 31], [Iter 501/1510], [TrnLoss 0.9509], [TrnAcc 0.6071]
+[Epoch 31], [Iter 601/1510], [TrnLoss 0.7888], [TrnAcc 0.75]
+[Epoch 31], [Iter 701/1510], [TrnLoss 0.5965], [TrnAcc 0.7857]
+[Epoch 31], [Iter 801/1510], [TrnLoss 0.8913], [TrnAcc 0.6786]
+[Epoch 31], [Iter 901/1510], [TrnLoss 0.8908], [TrnAcc 0.6429]
+[Epoch 31], [Iter 1001/1510], [TrnLoss 0.6503], [TrnAcc 0.8214]
+[Epoch 31], [Iter 1101/1510], [TrnLoss 0.9904], [TrnAcc 0.6786]
+[Epoch 31], [Iter 1201/1510], [TrnLoss 0.9681], [TrnAcc 0.6786]
+[Epoch 31], [Iter 1301/1510], [TrnLoss 0.9502], [TrnAcc 0.6429]
+[Epoch 31], [Iter 1401/1510], [TrnLoss 0.955], [TrnAcc 0.5357]
+[Epoch 31], [Iter 1501/1510], [TrnLoss 0.923], [TrnAcc 0.6429]
+Computing val stats..
+-------
+[Epoch 31], [Train Acc 0.6759, [Val Acc 0.2532], [Val Loss 2.219]
+
+=========
+Training Epoch 32 (vgg16)
+=========
+
+[Epoch 32], [Iter 1/1510], [TrnLoss 1.008], [TrnAcc 0.5714]
+[Epoch 32], [Iter 101/1510], [TrnLoss 0.9916], [TrnAcc 0.6429]
+[Epoch 32], [Iter 201/1510], [TrnLoss 1.154], [TrnAcc 0.6071]
+[Epoch 32], [Iter 301/1510], [TrnLoss 0.8698], [TrnAcc 0.6429]
+[Epoch 32], [Iter 401/1510], [TrnLoss 0.7859], [TrnAcc 0.75]
+[Epoch 32], [Iter 501/1510], [TrnLoss 0.7256], [TrnAcc 0.75]
+[Epoch 32], [Iter 601/1510], [TrnLoss 0.8571], [TrnAcc 0.7143]
+[Epoch 32], [Iter 701/1510], [TrnLoss 0.9209], [TrnAcc 0.7143]
+[Epoch 32], [Iter 801/1510], [TrnLoss 0.6496], [TrnAcc 0.7857]
+[Epoch 32], [Iter 901/1510], [TrnLoss 0.5843], [TrnAcc 0.7857]
+[Epoch 32], [Iter 1001/1510], [TrnLoss 0.8233], [TrnAcc 0.7143]
+[Epoch 32], [Iter 1101/1510], [TrnLoss 0.6684], [TrnAcc 0.7857]
+[Epoch 32], [Iter 1201/1510], [TrnLoss 0.9007], [TrnAcc 0.75]
+[Epoch 32], [Iter 1301/1510], [TrnLoss 0.9542], [TrnAcc 0.6429]
+[Epoch 32], [Iter 1401/1510], [TrnLoss 1.049], [TrnAcc 0.5]
+[Epoch 32], [Iter 1501/1510], [TrnLoss 1.111], [TrnAcc 0.5357]
+Computing val stats..
+-------
+[Epoch 32], [Train Acc 0.6787, [Val Acc 0.1802], [Val Loss 2.483]
+
+=========
+Training Epoch 33 (vgg16)
+=========
+
+[Epoch 33], [Iter 1/1510], [TrnLoss 1.112], [TrnAcc 0.5357]
+[Epoch 33], [Iter 101/1510], [TrnLoss 0.844], [TrnAcc 0.7143]
+[Epoch 33], [Iter 201/1510], [TrnLoss 0.7992], [TrnAcc 0.7143]
+[Epoch 33], [Iter 301/1510], [TrnLoss 0.73], [TrnAcc 0.6786]
+[Epoch 33], [Iter 401/1510], [TrnLoss 0.8269], [TrnAcc 0.75]
+[Epoch 33], [Iter 501/1510], [TrnLoss 1.199], [TrnAcc 0.6071]
+[Epoch 33], [Iter 601/1510], [TrnLoss 0.5647], [TrnAcc 0.8214]
+[Epoch 33], [Iter 701/1510], [TrnLoss 0.7761], [TrnAcc 0.7143]
+[Epoch 33], [Iter 801/1510], [TrnLoss 0.8408], [TrnAcc 0.6786]
+[Epoch 33], [Iter 901/1510], [TrnLoss 1.072], [TrnAcc 0.5714]
+[Epoch 33], [Iter 1001/1510], [TrnLoss 0.9678], [TrnAcc 0.6429]
+[Epoch 33], [Iter 1101/1510], [TrnLoss 0.7359], [TrnAcc 0.6786]
+[Epoch 33], [Iter 1201/1510], [TrnLoss 0.9638], [TrnAcc 0.75]
+[Epoch 33], [Iter 1301/1510], [TrnLoss 1.328], [TrnAcc 0.5357]
+[Epoch 33], [Iter 1401/1510], [TrnLoss 1.084], [TrnAcc 0.6071]
+[Epoch 33], [Iter 1501/1510], [TrnLoss 0.7871], [TrnAcc 0.7143]
+Computing val stats..
+-------
+[Epoch 33], [Train Acc 0.6789, [Val Acc 0.1864], [Val Loss 2.41]
+
+=========
+Training Epoch 34 (vgg16)
+=========
+
+[Epoch 34], [Iter 1/1510], [TrnLoss 0.8567], [TrnAcc 0.75]
+[Epoch 34], [Iter 101/1510], [TrnLoss 0.7846], [TrnAcc 0.6786]
+[Epoch 34], [Iter 201/1510], [TrnLoss 0.8171], [TrnAcc 0.6786]
+[Epoch 34], [Iter 301/1510], [TrnLoss 0.8438], [TrnAcc 0.7857]
+[Epoch 34], [Iter 401/1510], [TrnLoss 0.4444], [TrnAcc 0.8214]
+[Epoch 34], [Iter 501/1510], [TrnLoss 0.7596], [TrnAcc 0.7857]
+[Epoch 34], [Iter 601/1510], [TrnLoss 0.7226], [TrnAcc 0.75]
+[Epoch 34], [Iter 701/1510], [TrnLoss 0.6308], [TrnAcc 0.8571]
+[Epoch 34], [Iter 801/1510], [TrnLoss 0.7038], [TrnAcc 0.75]
+[Epoch 34], [Iter 901/1510], [TrnLoss 0.5402], [TrnAcc 0.75]
+[Epoch 34], [Iter 1001/1510], [TrnLoss 1.042], [TrnAcc 0.6071]
+[Epoch 34], [Iter 1101/1510], [TrnLoss 0.6203], [TrnAcc 0.75]
+[Epoch 34], [Iter 1201/1510], [TrnLoss 1.235], [TrnAcc 0.5357]
+[Epoch 34], [Iter 1301/1510], [TrnLoss 0.8721], [TrnAcc 0.6429]
+[Epoch 34], [Iter 1401/1510], [TrnLoss 0.8006], [TrnAcc 0.6429]
+[Epoch 34], [Iter 1501/1510], [TrnLoss 0.857], [TrnAcc 0.6071]
+Computing val stats..
+-------
+[Epoch 34], [Train Acc 0.6791, [Val Acc 0.2346], [Val Loss 2.004]
+
+=========
+Training Epoch 35 (vgg16)
+=========
+
+[Epoch 35], [Iter 1/1510], [TrnLoss 0.9251], [TrnAcc 0.7143]
+[Epoch 35], [Iter 101/1510], [TrnLoss 0.9861], [TrnAcc 0.6786]
+[Epoch 35], [Iter 201/1510], [TrnLoss 0.7497], [TrnAcc 0.6786]
+[Epoch 35], [Iter 301/1510], [TrnLoss 0.973], [TrnAcc 0.6786]
+[Epoch 35], [Iter 401/1510], [TrnLoss 0.6958], [TrnAcc 0.8214]
+[Epoch 35], [Iter 501/1510], [TrnLoss 1.004], [TrnAcc 0.6786]
+[Epoch 35], [Iter 601/1510], [TrnLoss 0.8492], [TrnAcc 0.8214]
+[Epoch 35], [Iter 701/1510], [TrnLoss 0.9706], [TrnAcc 0.6786]
+[Epoch 35], [Iter 801/1510], [TrnLoss 1.052], [TrnAcc 0.6786]
+[Epoch 35], [Iter 901/1510], [TrnLoss 0.7539], [TrnAcc 0.7857]
+[Epoch 35], [Iter 1001/1510], [TrnLoss 0.692], [TrnAcc 0.75]
+[Epoch 35], [Iter 1101/1510], [TrnLoss 0.7051], [TrnAcc 0.75]
+[Epoch 35], [Iter 1201/1510], [TrnLoss 0.8149], [TrnAcc 0.6786]
+[Epoch 35], [Iter 1301/1510], [TrnLoss 1.172], [TrnAcc 0.6071]
+[Epoch 35], [Iter 1401/1510], [TrnLoss 0.74], [TrnAcc 0.75]
+[Epoch 35], [Iter 1501/1510], [TrnLoss 1.071], [TrnAcc 0.5714]
+Computing val stats..
+-------
+[Epoch 35], [Train Acc 0.6771, [Val Acc 0.2165], [Val Loss 2.519]
+
+=========
+Training Epoch 36 (vgg16)
+=========
+
+[Epoch 36], [Iter 1/1510], [TrnLoss 0.8748], [TrnAcc 0.7143]
+[Epoch 36], [Iter 101/1510], [TrnLoss 0.6532], [TrnAcc 0.75]
+[Epoch 36], [Iter 201/1510], [TrnLoss 0.7772], [TrnAcc 0.75]
+[Epoch 36], [Iter 301/1510], [TrnLoss 0.8682], [TrnAcc 0.8214]
+[Epoch 36], [Iter 401/1510], [TrnLoss 0.5337], [TrnAcc 0.7857]
+[Epoch 36], [Iter 501/1510], [TrnLoss 0.8101], [TrnAcc 0.7143]
+[Epoch 36], [Iter 601/1510], [TrnLoss 0.8218], [TrnAcc 0.6071]
+[Epoch 36], [Iter 701/1510], [TrnLoss 0.6223], [TrnAcc 0.6786]
+[Epoch 36], [Iter 801/1510], [TrnLoss 0.8421], [TrnAcc 0.6429]
+[Epoch 36], [Iter 901/1510], [TrnLoss 0.8586], [TrnAcc 0.6786]
+[Epoch 36], [Iter 1001/1510], [TrnLoss 0.7236], [TrnAcc 0.7143]
+[Epoch 36], [Iter 1101/1510], [TrnLoss 0.6707], [TrnAcc 0.6786]
+[Epoch 36], [Iter 1201/1510], [TrnLoss 0.8468], [TrnAcc 0.75]
+[Epoch 36], [Iter 1301/1510], [TrnLoss 1.011], [TrnAcc 0.6786]
+[Epoch 36], [Iter 1401/1510], [TrnLoss 0.7818], [TrnAcc 0.6786]
+[Epoch 36], [Iter 1501/1510], [TrnLoss 0.8991], [TrnAcc 0.6786]
+Computing val stats..
+-------
+[Epoch 36], [Train Acc 0.6776, [Val Acc 0.2679], [Val Loss 2.088]
+
+=========
+Training Epoch 37 (vgg16)
+=========
+
+[Epoch 37], [Iter 1/1510], [TrnLoss 0.9346], [TrnAcc 0.7143]
+[Epoch 37], [Iter 101/1510], [TrnLoss 0.9723], [TrnAcc 0.7143]
+[Epoch 37], [Iter 201/1510], [TrnLoss 0.9829], [TrnAcc 0.6071]
+[Epoch 37], [Iter 301/1510], [TrnLoss 0.8385], [TrnAcc 0.7143]
+[Epoch 37], [Iter 401/1510], [TrnLoss 0.7764], [TrnAcc 0.7857]
+[Epoch 37], [Iter 501/1510], [TrnLoss 0.7644], [TrnAcc 0.7857]
+[Epoch 37], [Iter 601/1510], [TrnLoss 0.7078], [TrnAcc 0.8214]
+[Epoch 37], [Iter 701/1510], [TrnLoss 0.5946], [TrnAcc 0.8214]
+[Epoch 37], [Iter 801/1510], [TrnLoss 0.9092], [TrnAcc 0.6071]
+[Epoch 37], [Iter 901/1510], [TrnLoss 0.9465], [TrnAcc 0.6429]
+[Epoch 37], [Iter 1001/1510], [TrnLoss 0.9917], [TrnAcc 0.6786]
+[Epoch 37], [Iter 1101/1510], [TrnLoss 1.24], [TrnAcc 0.5714]
+[Epoch 37], [Iter 1201/1510], [TrnLoss 1.069], [TrnAcc 0.5]
+[Epoch 37], [Iter 1301/1510], [TrnLoss 0.9361], [TrnAcc 0.6071]
+[Epoch 37], [Iter 1401/1510], [TrnLoss 0.9424], [TrnAcc 0.6071]
+[Epoch 37], [Iter 1501/1510], [TrnLoss 1.021], [TrnAcc 0.6429]
+Computing val stats..
+-------
+[Epoch 37], [Train Acc 0.6812, [Val Acc 0.1733], [Val Loss 2.47]
+
+=========
+Training Epoch 38 (vgg16)
+=========
+
+[Epoch 38], [Iter 1/1510], [TrnLoss 1.318], [TrnAcc 0.5714]
+[Epoch 38], [Iter 101/1510], [TrnLoss 1.011], [TrnAcc 0.6429]
+[Epoch 38], [Iter 201/1510], [TrnLoss 0.99], [TrnAcc 0.6429]
+[Epoch 38], [Iter 301/1510], [TrnLoss 0.9049], [TrnAcc 0.6429]
+[Epoch 38], [Iter 401/1510], [TrnLoss 0.8952], [TrnAcc 0.7143]
+[Epoch 38], [Iter 501/1510], [TrnLoss 0.7287], [TrnAcc 0.75]
+[Epoch 38], [Iter 601/1510], [TrnLoss 0.6135], [TrnAcc 0.7143]
+[Epoch 38], [Iter 701/1510], [TrnLoss 1.109], [TrnAcc 0.6429]
+[Epoch 38], [Iter 801/1510], [TrnLoss 1.185], [TrnAcc 0.6786]
+[Epoch 38], [Iter 901/1510], [TrnLoss 1.159], [TrnAcc 0.6071]
+[Epoch 38], [Iter 1001/1510], [TrnLoss 0.9517], [TrnAcc 0.75]
+[Epoch 38], [Iter 1101/1510], [TrnLoss 0.9178], [TrnAcc 0.6786]
+[Epoch 38], [Iter 1201/1510], [TrnLoss 0.7611], [TrnAcc 0.6786]
+[Epoch 38], [Iter 1301/1510], [TrnLoss 1.117], [TrnAcc 0.5357]
+[Epoch 38], [Iter 1401/1510], [TrnLoss 0.7849], [TrnAcc 0.6786]
+[Epoch 38], [Iter 1501/1510], [TrnLoss 1.11], [TrnAcc 0.6071]
+Computing val stats..
+-------
+[Epoch 38], [Train Acc 0.6791, [Val Acc 0.2822], [Val Loss 1.988]
+
+=========
+Training Epoch 39 (vgg16)
+=========
+
+[Epoch 39], [Iter 1/1510], [TrnLoss 0.7571], [TrnAcc 0.6429]
+[Epoch 39], [Iter 101/1510], [TrnLoss 1.304], [TrnAcc 0.6786]
+[Epoch 39], [Iter 201/1510], [TrnLoss 0.9138], [TrnAcc 0.6429]
+[Epoch 39], [Iter 301/1510], [TrnLoss 1.02], [TrnAcc 0.7143]
+[Epoch 39], [Iter 401/1510], [TrnLoss 0.504], [TrnAcc 0.8929]
+[Epoch 39], [Iter 501/1510], [TrnLoss 0.8704], [TrnAcc 0.6071]
+[Epoch 39], [Iter 601/1510], [TrnLoss 0.7959], [TrnAcc 0.7143]
+[Epoch 39], [Iter 701/1510], [TrnLoss 0.5796], [TrnAcc 0.7143]
+[Epoch 39], [Iter 801/1510], [TrnLoss 0.7097], [TrnAcc 0.8214]
+[Epoch 39], [Iter 901/1510], [TrnLoss 0.8928], [TrnAcc 0.6429]
+[Epoch 39], [Iter 1001/1510], [TrnLoss 0.9107], [TrnAcc 0.6786]
+[Epoch 39], [Iter 1101/1510], [TrnLoss 0.74], [TrnAcc 0.75]
+[Epoch 39], [Iter 1201/1510], [TrnLoss 0.5448], [TrnAcc 0.8571]
+[Epoch 39], [Iter 1301/1510], [TrnLoss 0.8597], [TrnAcc 0.6786]
+[Epoch 39], [Iter 1401/1510], [TrnLoss 0.8715], [TrnAcc 0.7143]
+[Epoch 39], [Iter 1501/1510], [TrnLoss 0.7438], [TrnAcc 0.6786]
+Computing val stats..
+-------
+[Epoch 39], [Train Acc 0.6817, [Val Acc 0.2661], [Val Loss 2.154]
+
+=========
+Training Epoch 40 (vgg16)
+=========
+
+[Epoch 40], [Iter 1/1510], [TrnLoss 1.024], [TrnAcc 0.5357]
+[Epoch 40], [Iter 101/1510], [TrnLoss 1.479], [TrnAcc 0.5357]
+[Epoch 40], [Iter 201/1510], [TrnLoss 0.8159], [TrnAcc 0.6429]
+[Epoch 40], [Iter 301/1510], [TrnLoss 0.8898], [TrnAcc 0.6786]
+[Epoch 40], [Iter 401/1510], [TrnLoss 0.7132], [TrnAcc 0.75]
+[Epoch 40], [Iter 501/1510], [TrnLoss 0.9008], [TrnAcc 0.6786]
+[Epoch 40], [Iter 601/1510], [TrnLoss 1.357], [TrnAcc 0.5357]
+[Epoch 40], [Iter 701/1510], [TrnLoss 0.7123], [TrnAcc 0.7857]
+[Epoch 40], [Iter 801/1510], [TrnLoss 0.5982], [TrnAcc 0.8214]
+[Epoch 40], [Iter 901/1510], [TrnLoss 0.9246], [TrnAcc 0.6429]
+[Epoch 40], [Iter 1001/1510], [TrnLoss 0.8427], [TrnAcc 0.6786]
+[Epoch 40], [Iter 1101/1510], [TrnLoss 0.7829], [TrnAcc 0.6429]
+[Epoch 40], [Iter 1201/1510], [TrnLoss 0.6158], [TrnAcc 0.8214]
+[Epoch 40], [Iter 1301/1510], [TrnLoss 1.319], [TrnAcc 0.5714]
+[Epoch 40], [Iter 1401/1510], [TrnLoss 1.002], [TrnAcc 0.6429]
+[Epoch 40], [Iter 1501/1510], [TrnLoss 0.7178], [TrnAcc 0.75]
+Computing val stats..
+-------
+[Epoch 40], [Train Acc 0.6792, [Val Acc 0.2601], [Val Loss 2.361]
+Loading python/3.7.3
+  Loading requirement: tcl/8.6.8 gcc/8.3.0
+Loading pytorch/1.1.0
+  Loading requirement: cudnn/7.4
